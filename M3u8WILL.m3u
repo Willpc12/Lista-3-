@@ -708,7 +708,7 @@ http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=goltv&f=.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/275px-Afizzionados_Logo.svg.png", group-title="DEPORTES", AFIZZIONADOS
 http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=afizzionados&f=.m3u8
 
-#EXTINF:-1  tvg-logo="https://epg.beinsports.com/us_sports/Global.svg", group-title="DEPORTES", BEIN SPORTS N
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_SPORTS_En_Espa%C3%B1ol_logo_2017.jpg", group-title="DEPORTES", BEIN SPORTS N
 http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=beines&f=.m3u8
 
 #EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-Q2VLB3yvljo/Woth3pohiBI/AAAAAAAAAZY/a7jqBhc9YdYT3Ern-6rmzrvlakifaoW5gCLcBGAs/s1600/directv-sports.png", group-title="DEPORTES", DIRECTV SPORTS
