@@ -1,489 +1,94 @@
 #EXTM3U
 
 
-#EXTINF:-1  group-title="Lista TV", EIN SPORTS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=winhd&f=.m3u8
 
-#EXTINF:-1  group-title="Lista TV", UNIVERSO
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=universo&f=.m3u8
 
-#EXTINF:-1  group-title="Lista TV", RCN
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=rcn&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", INVESTIGA PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=169239c2-aa9f-11eb-9e54-0242ac110002&sid=169239c2-aa9f-11eb-9e54-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", LA LIGA
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=laliga&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", AVENTURA PLUTOTV 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=751684dc-aaa0-11eb-ac84-0242ac110002&sid=751684dc-aaa0-11eb-ac84-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", NBC
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=nbcsn&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", HISTORIAS ULTRATUMBA PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=751684dc-aaa0-11eb-ac84-0242ac110002&sid=751684dc-aaa0-11eb-ac84-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", GOLTV
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=goltv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", CINE ESTELAR PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=685ed2cd-a9ff-11eb-b976-0242ac110002&sid=685ed2cd-a9ff-11eb-b976-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", AFIZZIONADOS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=afizzionados&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", CINE TERROR PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=a329231e-aaa2-11eb-b43b-0242ac110002&sid=a329231e-aaa2-11eb-b43b-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", BEIN SPORTS N
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=beines&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", CINE COMEDIA PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9ea814c3-aae2-11eb-8d47-0242ac110002&sid=9ea814c3-aae2-11eb-8d47-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", DIRECTV SPORTS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=directv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", CINE DRAMA PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1f870b48-ab91-11eb-901b-0242ac110002&sid=1f870b48-ab91-11eb-901b-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", DIRECTV SPORTS +
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=directvplus&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", CINE SUSPENSO PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=ac9f0cfc-ab8f-11eb-ab33-0242ac110002&sid=ac9f0cfc-ab8f-11eb-ab33-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", FOX SPORTS PREMIUM
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=foxsportp&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", CINE ACCION PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=4179f637-aaa4-11eb-8326-0242ac110002&sid=4179f637-aaa4-11eb-8326-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", TELEMUNDO INTERNACIONAL
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=telemundoint&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", REALITY PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=f9646c3d-aaa5-11eb-8d47-0242ac110002&sid=f9646c3d-aaa5-11eb-8d47-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", AZCORAZON
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=azcorazon&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", PARAMOUT+ PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1e16c1d2-aae3-11eb-b4a3-0242ac110002&sid=1e16c1d2-aae3-11eb-b4a3-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", A&E
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=ae&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", MASTER CHEF PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1e16c1d2-aae3-11eb-b4a3-0242ac110002&sid=1e16c1d2-aae3-11eb-b4a3-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", AXN
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=axn&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", VIDA REAL PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fb16953e-aae3-11eb-91cc-0242ac110002&sid=fb16953e-aae3-11eb-91cc-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", COMEDY CENTRAL
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=comedy&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", ANIMALES PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=a4b2571f-aae4-11eb-8ea1-0242ac110002&sid=a4b2571f-aae4-11eb-8ea1-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", E!
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=e&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", MOTORES PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=038f932e-ab5a-11eb-ac84-0242ac110002&sid=038f932e-ab5a-11eb-ac84-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", FX
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=fx&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", CIENCIA PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7ebd0c18-aae5-11eb-b976-0242ac110002&sid=7ebd0c18-aae5-11eb-b976-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", DISCOVERY ID
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=id&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", ARCHIVOS FORENSES PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=ec7bb1e4-aae6-11eb-881a-0242ac110002&sid=ec7bb1e4-aae6-11eb-881a-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", LIFETIME
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=lifetime&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", ARCHIVOS DEL FBI PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=c7a8b454-aae6-11eb-ab33-0242ac110002&sid=c7a8b454-aae6-11eb-ab33-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", PASIONES
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=pasiones&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", NUEVOS DETECTIVES PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1b183c01-aae7-11eb-87ba-0242ac110002&sid=1b183c01-aae7-11eb-87ba-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", SONY
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=sony&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", MINUTOS PARA GANAR PLUTOTV 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=85165f7e-aae7-11eb-8114-0242ac110002&sid=85165f7e-aae7-11eb-8114-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", TBS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tbs&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", MISTERIOS SIN RESOLVER PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=aafb6980-ac36-11eb-9e54-0242ac110002&sid=aafb6980-ac36-11eb-9e54-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", TLC
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tlc&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", HOGAR PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b7ee270d-ac37-11eb-8ea1-0242ac110002&sid=b7ee270d-ac37-11eb-8ea1-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", TLNOVELAS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tlnovelas&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="INFANTILES", KIDS PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fd0e28f7-ac37-11eb-901b-0242ac110002&sid=fd0e28f7-ac37-11eb-901b-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", TNT SERIES
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tntseries&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", COCINA AHORA PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=bf79029d-ac3a-11eb-878e-0242ac110002&sid=bf79029d-ac3a-11eb-878e-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", TRUTV
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=trutv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", COCINA PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5a45f230-ac3b-11eb-b970-0242ac110002&sid=5a45f230-ac3b-11eb-b970-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", UNIVERSAL
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=universal&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES",NATURALEZA PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=bc6173a8-ac3b-11eb-bd7e-0242ac110002&sid=bc6173a8-ac3b-11eb-bd7e-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", WARNER
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=warner&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", MISTERIOS PLUTOTV 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9f8256cf-ac3f-11eb-bd7e-0242ac110002&sid=9f8256cf-ac3f-11eb-bd7e-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", AZ CINEMA
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=azcinema&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", ESTRELLAS DE ACCION PLUTOTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d70c256e-ac3f-11eb-a2fe-0242ac110002&sid=d70c256e-ac3f-11eb-a2fe-0242ac110002&userId=
 
-#EXTINF:-1  group-title="Lista TV", AMC
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=amc&f=.m3u8
 
-#EXTINF:-1  group-title="Lista TV", CINECANAL
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=cinecanal&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", CINEMAX
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=cinemax&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", CINE LATINO
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=cinelatino&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", CINE LATINO HD
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=cinelatinohd&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", CLARO CINEMA
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=clarocinema&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DE PELICULA
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dpelicula&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DE PELICULA PLUS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dpeliculaplus&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DHE
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dhe&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", EUROPA
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=europa&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", EURO CHANNEL
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=euroch&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", FILMS & ARTS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=filmarts&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", FXM
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=fxm&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", GOLDEN
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=golden&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", GOLDEN EDGE
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=edge&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", GOLDEN PLUS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=goldenplus&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", GOLDEN PREMIER
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=goldenp&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", HBO
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hboes&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", HBO 2
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hbo2&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", HBO PLUS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hboplus&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", HBO FAMILY
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hbofamily&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", HBO MUNDI
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hbomundi&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", HBO POP
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hbopop&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", HBO SIGNATURE
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hbosignature&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", HBO XTREME
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hboxtreme&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", I SAT
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=isat&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", MORBIDO
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=morbido&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", MULTI CINEMA
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mc&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", MULTI PREMIER
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mp&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", PARAMOUNT CHANNEL
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=paramount&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", SPACE
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=space&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", STAR CHANNEL
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starch&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", STAR ACTION
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=staraction&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", STAR CINEMA
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starcinema&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", STAR CLASSICS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starclassics&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", STAR COMEDY
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starcomedy&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", STAR FUN
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starfun&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", STAR HITS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starhits&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", STAR LIFE
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starlife&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", STAR SERIES
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starseries&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", STUDIO UNIVERSAL
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=studiou&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", SYFY
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=syfy-1&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", TCM
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tcm&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", TNT
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tnt&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", AZ MUNDO
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=azmundo&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", ANIMAL PLANET
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=animalp&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DISCOVERY CHANNEL
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=discovery&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DISCOVERY SCIENCE
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dciencia&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DISCOVERY CIVILIZATION
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dcivil&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DISCOVERY THEATER
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dtheater&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DISCOVERY TURBO
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dturbo&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DISCOVERY WORLD
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dworld&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", FOOD NETWORK
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=food&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", GOURMET
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=gourmet&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", HISTORY
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=history&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", H2
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=history2&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", H&H
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hh&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", HOLATV
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=holatv&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", MAS CHIC
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=maschic&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", NAT GEO
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=natgeo&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", NAT GEO WILD
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=natgeowild&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", AZ CLIC
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=azclic&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", CONCERT
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=concert&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", BANDAMAX
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=bandamax&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", EUFORIA
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=euforia&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", EXATV
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=exatv&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", FOX MIX
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=foxmix-1&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", HTV
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=htv&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", LA MEJOR TV
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=lamejor&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", MTV
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mtv&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", MTV TR3S
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mtvtr3s&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", MTV HITS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mtvhits&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", MTV LIVE
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mtvlive&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", MTV 80S
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mtv80s&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", NICK MUSIC
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=nickmusic&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", TELEHIT
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=telehit&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", TELEHIT PLUS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=telehitplus&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", TELERITMO
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=teleritmo&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", TMTV
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tmtv&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", VH1
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=vh1&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", VIDEOROLA
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=videorola&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", A+
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=amas&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", AZTECA UNO
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=aztecauno&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", EL DOS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=eldos&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", CANAL 5
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=elcinco&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", AZTECA 7
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=azteca7&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", NU9VE
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=nueve&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DISTRITO COMEDIA
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=distrito&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", IMAGEN TV
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=imagentv&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", UNICABLE
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=unicable&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", MEXIQUENSE
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mexiquense&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", MULTIMEDIOS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=multimedios&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", MVS TV
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mvstv&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", TV CUATRO
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tvcuatro&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", ONCE TV
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=oncetv&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", ADN40
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=adn40&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", CNN
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=cnnes&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", FORO TV
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=forotv&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", MILENIO
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=milenio&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", GALAVISION
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=galavision&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", TELEMUNDO
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=telemundo&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", UNIMAS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=unimas&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", UNIVISION
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=univisionhd&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", CANAL CLARO
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=claro&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", ESPN
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espn1mx&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", ESPN 2
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espn2mx&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", ESPN 3
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espn3mx&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", ESPN EXTRA
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espnextramx&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", ESPN DEPORTES
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espndep&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", FOX SPORTS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=foxsport1mx&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", FOX SPORTS 2
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=foxsport2mx&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", FOX SPORTS 3
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=foxsport3mx&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", TUDN MX
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tudnmx&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", TUDN US
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tudnus&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", TVC DEPORTES
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tvcdep&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", BABYTV
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=babytv&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", BABY FIRST
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=babyfirts&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", BITME
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=bitme&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", BOOMERANG
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=boomerang&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", CARTOON NETWORK
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=cartoon&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DISNEY CHANNEL
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=disneych&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DISNEY JR
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=disneyjr&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DISNEY XD
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=disneyxd&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", DISCOVERY KIDS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dkids&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", NAT GEO KIDS
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=natgeokids&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", NICK
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=nick&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", NICK JR
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=nickjr&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", TEEN NICK
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=teennick&f=.m3u8
-
-#EXTINF:-1  group-title="Lista TV", TOONCAST
-http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tooncast&f=.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", DW
+#EXTINF:-1 tvg-logo="https://static.dw.com/image/47222941_401.png", group-title="NOTICIAS", DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://sergiomatina.com/wp-content/uploads/2018/11/m2o-radio.jpg", group-title="MUSICA", RADIO m2O
@@ -519,13 +124,13 @@ http://91.126.141.12:1935/live/smil:discoverymax/.m3u8
 #EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/ec-tc-tv-1020-300x225.jpg", group-title="ECUADOR",  TC 
 https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Noticias_Caracol_2017.svg/revision/latest/scale-to-width-down/200?cb=20200209024421&path-prefix=es", group-title="COLOMBIA", CARACOL NOTICIAS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Noticias_Caracol_2017.svg/revision/latest/scale-to-width-down/200?cb=20200209024421&path-prefix=es", group-title="NOTICIAS", CARACOL NOTICIAS
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rbr.com/wp-content/uploads/america-teve.jpg", group-title="MIAMI", AMERICA TV 
 https://americateve-rokuus.amagi.tv:443/masterR404lp.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/SonyChannelLA.png/revision/latest/scale-to-width-down/185?cb=20200116232350&path-prefix=es", group-title="Lista TV", SONY NOVELAS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/SonyChannelLA.png/revision/latest/scale-to-width-down/185?cb=20200116232350&path-prefix=es", group-title="CANALES", SONY NOVELAS
 https://sony-novelas-1.roku.wurl.com:443/playlist_640x360_1200k.m3u8
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/kidstv.png", group-title="INFANTILES", KIDS TV
@@ -534,7 +139,7 @@ https://livelist01.yowi.tv:443/lista/eede3daa45f98e0dce894da041ce520a22397517/in
 #EXTINF:-1 tvg-logo="https://static.plenummedia.com/35737/images/20160824192406-bodegas-la-aurora-en-tve-web.jpg?dh=MzIweDI1MA%3D%3D&m=resize", group-title="ESPAÑA", TVE1  
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
-#EXTINF:-1 tvg-logo="", group-title="Lista TV", RT
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6027/240/default.jpg", group-title="NOTICIAS", RT
 https://rt-esp-gd.secure2.footprint.net:443/1102_1600Kb.m3u8
  
 #EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv-300x141.png", group-title="MIAMI", MIAMI TV
@@ -603,7 +208,7 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online-218x150.png", group-title="MEXICO", CANAL 6 CDMX  
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Telemax-Logo-1-7080.jpg", group-title="ESPAÑA", TELEMAX  
+#EXTINF:-1 tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Telemax-Logo-1-7080.jpg", group-title="MEXICO", TELEMAX  
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/senal-colombia-logo.png", group-title="COLOMBIA", SEÑAL COLOMBIA 
@@ -642,88 +247,477 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w15821405
 #EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/03/Tele-Aruba-Logo.jpg", group-title="ARUBA", TELEARUBA
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w158123675_b596000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", INVESTIGA PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=169239c2-aa9f-11eb-9e54-0242ac110002&sid=169239c2-aa9f-11eb-9e54-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", AVENTURA PLUTOTV 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=751684dc-aaa0-11eb-ac84-0242ac110002&sid=751684dc-aaa0-11eb-ac84-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", HISTORIAS ULTRATUMBA PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=751684dc-aaa0-11eb-ac84-0242ac110002&sid=751684dc-aaa0-11eb-ac84-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_del_canal_rcn.JPG", group-title="COLOMBIA", RCN
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=rcn&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", CINE ESTELAR PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=685ed2cd-a9ff-11eb-b976-0242ac110002&sid=685ed2cd-a9ff-11eb-b976-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/universo-en-vivo-1412.jpg", group-title="MIAMI", UNIVERSO
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=universo&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", CINE TERROR PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=a329231e-aaa2-11eb-b43b-0242ac110002&sid=a329231e-aaa2-11eb-b43b-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1278332306273566721/hjOvj78I_400x400.jpg", group-title="CANALES", TELEMUNDO INTERNACIONAL
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=telemundoint&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", CINE COMEDIA PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9ea814c3-aae2-11eb-8d47-0242ac110002&sid=9ea814c3-aae2-11eb-8d47-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/84/Nick_Junior_2009.png/revision/latest/scale-to-width-down/233?cb=20161222151245&path-prefix=es", group-title="INFANTILES", NICK JR
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=nickjr&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", CINE DRAMA PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1f870b48-ab91-11eb-901b-0242ac110002&sid=1f870b48-ab91-11eb-901b-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://www.teleblanca.com/img/azcorazon.png", group-title="MEXICO", AZTECA CORAZON
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=azcorazon&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", CINE SUSPENSO PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=ac9f0cfc-ab8f-11eb-ab33-0242ac110002&sid=ac9f0cfc-ab8f-11eb-ab33-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/ae.png", group-title="CANALES", A&E
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=ae&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", CINE ACCION PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=4179f637-aaa4-11eb-8326-0242ac110002&sid=4179f637-aaa4-11eb-8326-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/axnlatino.png", group-title="CANALES", AXN
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=axn&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", REALITY PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=f9646c3d-aaa5-11eb-8d47-0242ac110002&sid=f9646c3d-aaa5-11eb-8d47-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/comedycentrallatino.png", group-title="CANALES", COMEDY CENTRAL
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=comedy&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", PARAMOUT+ PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1e16c1d2-aae3-11eb-b4a3-0242ac110002&sid=1e16c1d2-aae3-11eb-b4a3-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg", group-title="CANALES", E!
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=e&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", MASTER CHEF PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1e16c1d2-aae3-11eb-b4a3-0242ac110002&sid=1e16c1d2-aae3-11eb-b4a3-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/fx.png", group-title="CANALES", FX
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=fx&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", VIDA REAL PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fb16953e-aae3-11eb-91cc-0242ac110002&sid=fb16953e-aae3-11eb-91cc-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://4.bp.blogspot.com/-dvZyv1LPj4k/WotiQkyIvBI/AAAAAAAAAaQ/ncRED-RANHwdgx1LvRJtwYD4HYyJ2SRBgCLcBGAs/s1600/id.png", group-title="CANALES", DISCOVERY ID
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=id&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", ANIMALES PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=a4b2571f-aae4-11eb-8ea1-0242ac110002&sid=a4b2571f-aae4-11eb-8ea1-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://www.historyplay.tv/images/networkLogo/life.png", group-title="CANALES", LIFETIME
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=lifetime&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", MOTORES PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=038f932e-ab5a-11eb-ac84-0242ac110002&sid=038f932e-ab5a-11eb-ac84-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/1769eb87-a655-4ab6-99f5-343640682ce5_m.jpg", group-title="CANALES", PASIONES
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=pasiones&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", CIENCIA PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7ebd0c18-aae5-11eb-b976-0242ac110002&sid=7ebd0c18-aae5-11eb-b976-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sony_Channel_latam_logo.svg/100px-Sony_Channel_latam_logo.svg.png", group-title="CANALES", SONY
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=sony&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", ARCHIVOS FORENSES PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=ec7bb1e4-aae6-11eb-881a-0242ac110002&sid=ec7bb1e4-aae6-11eb-881a-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://juegosjuguetesycoleccionables.com/wp-content/uploads/2018/03/tbs-715x400.jpg", group-title="CANALES", TBS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tbs&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", ARCHIVOS DEL FBI PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=c7a8b454-aae6-11eb-ab33-0242ac110002&sid=c7a8b454-aae6-11eb-ab33-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/tlc.png", group-title="CANALES", TLC
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tlc&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", NUEVOS DETECTIVES PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1b183c01-aae7-11eb-87ba-0242ac110002&sid=1b183c01-aae7-11eb-87ba-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/telenovelas.png", group-title="CANALES", TLNOVELAS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tlnovelas&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", MINUTOS PARA GANAR PLUTOTV 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=85165f7e-aae7-11eb-8114-0242ac110002&sid=85165f7e-aae7-11eb-8114-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/tntseries.png", group-title="CANALES", TNT SERIES
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tntseries&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", MISTERIOS SIN RESOLVER PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=aafb6980-ac36-11eb-9e54-0242ac110002&sid=aafb6980-ac36-11eb-9e54-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg", group-title="CANALES", TRUTV
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=trutv&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", HOGAR PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b7ee270d-ac37-11eb-8ea1-0242ac110002&sid=b7ee270d-ac37-11eb-8ea1-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/universalchannel.png", group-title="CANALES", UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=universal&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="INFANTILES", KIDS PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fd0e28f7-ac37-11eb-901b-0242ac110002&sid=fd0e28f7-ac37-11eb-901b-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/warner.png", group-title="CANALES", WARNER CHANNEL
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=warner&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", COCINA AHORA PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=bf79029d-ac3a-11eb-878e-0242ac110002&sid=bf79029d-ac3a-11eb-878e-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/aztecacinema.png", group-title="MEXICO", AZTECA CINEMA
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=azcinema&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", COCINA PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5a45f230-ac3b-11eb-b970-0242ac110002&sid=5a45f230-ac3b-11eb-b970-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/amclatino.png", group-title="CANALES", AMC
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=amc&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV",NATURALEZA PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=bc6173a8-ac3b-11eb-bd7e-0242ac110002&sid=bc6173a8-ac3b-11eb-bd7e-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinecanal.png", group-title="CANALES", CINECANAL
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=cinecanal&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", MISTERIOS PLUTOTV 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9f8256cf-ac3f-11eb-bd7e-0242ac110002&sid=9f8256cf-ac3f-11eb-bd7e-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinemax.png", group-title="CANALES", CINEMAX
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=cinemax&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="Lista TV", ESTRELLAS DE ACCION PLUTOTV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d70c256e-ac3f-11eb-a2fe-0242ac110002&sid=d70c256e-ac3f-11eb-a2fe-0242ac110002&userId=
+#EXTINF:-1  tvg-logo="https://s3.castbox.fm/29/e1/43/98e45d48d39a208a4d9dd5c2f0.png", group-title="CANALES", CINE LATINO
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=cinelatino&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://scontent-mia3-1.xx.fbcdn.net/v/t1.18169-0/p206x206/15178938_1711130349198633_7506127544775625947_n.png?_nc_cat=108&ccb=1-3&_nc_sid=85a577&_nc_ohc=O-BPRw1sjGEAX8sdRg3&_nc_ht=scontent-mia3-1.xx&tp=30&oh=3861c7860d674df899185ea159723eac&oe=60C058D2", group-title="CANALES", CINE LATINO HD
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=cinelatinohd&f=.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/0c015b7501a39179c427487545ec3d4a.jpg", group-title="CANALES", CLARO CINEMA
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=clarocinema&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/150px-DP_Cl%C3%A1sico.svg.png", group-title="CANALES", DE PELICULA
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dpelicula&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/DPel%C3%ADcula_Plus_2021.png/revision/latest/scale-to-width-down/175?cb=20210129162928&path-prefix=es", group-title="CANALES", DE PELICULA PLUS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dpeliculaplus&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png", group-title="CANALES", DHE
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dhe&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png", group-title="CANALES", EUROPA
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=europa&f=.m3u8
+
+#EXTINF:-1  tvg-logo="http://eurochannel.com/images/eurochannel/logo_es.png", group-title="CANALES", EURO CHANNEL
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=euroch&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png", group-title="CANALES", FILMS & ARTS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=filmarts&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/fxm.png", group-title="CANALES", FXM
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=fxm&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/golden.png", group-title="CANALES", GOLDEN
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=golden&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenedge.png", group-title="CANALES", GOLDEN EDGE
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=edge&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenplus.png", group-title="CANALES", GOLDEN PLUS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=goldenplus&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", group-title="CANALES", GOLDEN PREMIER
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=goldenp&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo.png", group-title="CANALES", HBO
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hboes&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo2.png", group-title="CANALES", HBO 2
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hbo2&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hboplus.png", group-title="CANALES", HBO PLUS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hboplus&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbofamily.png", group-title="CANALES", HBO FAMILY
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hbofamily&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbomundi.png", group-title="CANALES", HBO MUNDI
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hbomundi&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbopop.png", group-title="CANALES", HBO POP
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hbopop&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbosignature.png", group-title="CANALES", HBO SIGNATURE
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hbosignature&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hboxtreme.png", group-title="CANALES", HBO XTREME
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hboxtreme&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/mx_i-sat_m.png", group-title="CANALES", I SAT
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=isat&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.ses.com/sites/default/files/inline-images/Asset%201-100.jpg", group-title="CANALES", MORBIDO
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=morbido&f=.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.tvcomsahagun.com/img/canales/multicinema.png", group-title="CANALES", MULTI CINEMA
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mc&f=.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.tvcomsahagun.com/img/canales/gallery_5610_2_5665.png", group-title="CANALES", MULTI PREMIER
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mp&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/paramountlatino.png", group-title="CANALES", PARAMOUNT CHANNEL
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=paramount&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/space.png", group-title="CANALES", SPACE
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=space&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/800px-Fox_Channel_logo.svg.png", group-title="CANALES", FOX CHANNEL
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starch&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/foxaction.png", group-title="CANALES", FOX ACTION
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=staraction&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/foxcinema.png", group-title="CANALES", FOX CINEMA
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starcinema&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/foxclassics.png", group-title="CANALES", FOX CLASSICS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starclassics&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/foxcomedy.png", group-title="CANALES", FOX COMEDY
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starcomedy&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/135px-Star_Fun_2020.svg.png", group-title="CANALES", FOX FUN
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starfun&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-movies_m.png", group-title="CANALES", FOX HITS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starhits&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/foxlifelatino.png", group-title="CANALES", FOX LIFE
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starlife&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/foxseries.png", group-title="CANALES", FOX SERIES
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=starseries&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/studiouniversal.png", group-title="CANALES", STUDIO UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=studiou&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/syfy.png", group-title="CANALES", SYFY
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=syfy-1&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/tcmlatino.png", group-title="CANALES", TCM
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tcm&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/tntlatino.png", group-title="CANALES", TNT
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tnt&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/aztecamundo.png", group-title="MEXICO", AZTECA MUNDO
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=azmundo&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/animalplanet.png", group-title="CANALES", ANIMAL PLANET
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=animalp&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-BzjAVwRy5dA/Woth6B71MbI/AAAAAAAAAZg/pnULVgGMs249muxWkmEeVOLOfMtwRJe6ACLcBGAs/s1600/discovery-channel.png", group-title="CANALES", DISCOVERY CHANNEL
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=discovery&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/discoverysci.png", group-title="CANALES", DISCOVERY SCIENCE
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dciencia&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png", group-title="CANALES", DISCOVERY CIVILIZATION
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dcivil&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/discoverytheater.png", group-title="CANALES", DISCOVERY THEATER
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dtheater&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/discoveryturbo.png", group-title="CANALES", DISCOVERY TURBO
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dturbo&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/discoveryworl.png", group-title="CANALES", DISCOVERY WORLD
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dworld&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png", group-title="CANALES", FOOD NETWORK
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=food&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/2c15cb09-f111-4b08-b86e-421cbf221fe1_m.jpg", group-title="CANALES", GOURMET
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=gourmet&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/historylatino.png", group-title="CANALES", HISTORY
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=history&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/history2.png", group-title="CANALES", HISTORY 2
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=history2&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/discoveryhh.png", group-title="CANALES", DISCOVERY H&H
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=hh&f=.m3u8
+
+#EXTINF:-1  tvg-logo="http://oyememagazine.com/wp-content/uploads/2017/09/inicio06-800x445.jpg", group-title="CANALES", HOLATV
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=holatv&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/co_mas-chic_m.png", group-title="CANALES", MAS CHIC
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=maschic&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/nationalgeographiclatino.png", group-title="CANALES", NAT GEO
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=natgeo&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/natgeowilllatino.png", group-title="CANALES", NAT GEO WILD
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=natgeowild&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.eluniversal.com.mx/sites/default/files/2016/11/09/ALFOMBRA-E13-EU101116-2_Drupal%20Main%20Image.var_1478751216.jpg", group-title="MEXICO", AZTECA CLIC
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=azclic&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/929125236141731841/u-mpHnWU_400x400.jpg", group-title="MUSICA", CONCERT
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=concert&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png", group-title="MUSICA", BANDAMAX
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=bandamax&f=.m3u8
+
+#EXTINF:-1  tvg-logo="http://logos-vector.com/images/logo/xxl/1/8/0/180757/Euforia_Tv_de877_450x450.png", group-title="MUSICA", EUFORIA
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=euforia&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.freeetv.com/images/02_logo/exa_tv_mexico.jpg", group-title="MUSICA", EXATV
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=exatv&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/80e716ce-c6e0-42bc-a0e9-894124701e5b_m.jpg", group-title="MUSICA", HTV
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=htv&f=.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.mvs-marketing.com/wp-content/themes/appointment/images/logos/la_mejor.png", group-title="MUSICA", LA MEJOR TV
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=lamejor&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/426px-MTV_Logo.svg.png", group-title="MUSICA", MTV
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mtv&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/82258704/mtv_tres_400x400.jpg", group-title="MUSICA", MTV TR3S
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mtvtr3s&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1157806738021736448/ODAmOsLN_400x400.jpg", group-title="MUSICA", MTV HITS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mtvhits&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/150px-MTV_Live.svg.png", group-title="MUSICA", MTV LIVE
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mtvlive&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.radio.es/images/broadcasts/ce/b5/118592/1/c175.png", group-title="MUSICA", MTV 80S
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mtv80s&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/773251448121520129/5UWAnT4M_400x400.jpg", group-title="MUSICA", NICK MUSIC
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=nickmusic&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/mx_telehit_m.png", group-title="MUSICA", TELEHIT
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=telehit&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Telehit_Plus_2018.png", group-title="MUSICA", TELEHIT PLUS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=telehitplus&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_banners/147899825/1524877995/1500x500", group-title="MUSICA", TELERITMO
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=teleritmo&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1103027837030658053/bIVfPbUM_400x400.png", group-title="MUSICA", TMTV
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tmtv&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.nacion.com/resizer/zjOa4fHTI2A4qi3UKjVatAtwYqM=/600x0/center/middle/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/KYN2WEVOOJGG3E6U6MIRQ2M5W4.png", group-title="MUSICA", VH1
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=vh1&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lg_videorola-300x199.png/200px-Lg_videorola-300x199.png", group-title="MUSICA", VIDEOROLA
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=videorola&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/lmb/images/1/15/A_logo.png/revision/latest/scale-to-width-down/350?cb=20170909222155&path-prefix=es", group-title="MEXICO", A+
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=amas&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg?v=1515007950", group-title="MEXICO", AZTECA UNO
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=aztecauno&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/canalestrellas.png", group-title="MEXICO", CANAL DE LAS ESTRELLAS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=eldos&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Canal_5_2016.png/revision/latest/scale-to-width-down/200?cb=20170716180511", group-title="MEXICO", CANAL 5
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=elcinco&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://4.bp.blogspot.com/-qsdUdbgW-pY/Wrw9NT2emxI/AAAAAAAAAbs/qDXZMWejgZoMuGj7ww3SgL92-yPRNP27gCLcBGAs/s1600/azteca7.jpg", group-title="MEXICO", AZTECA 7
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=azteca7&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/Canales-para-ver-nu9ve-en-vivo.jpg", group-title="MEXICO", NU9VE
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=nueve&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png", group-title="MEXICO", DISTRITO COMEDIA
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=distrito&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.amedi.org.mx/wp-content/uploads/2016/10/programacion-imagen-television.jpg", group-title="MEXICO", IMAGEN TV
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=imagentv&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png", group-title="MEXICO", UNICABLE
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=unicable&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1352728499572756480/naL_-Nmh_400x400.jpg", group-title="MEXICO", MEXIQUENSE
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mexiquense&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/5/0/csm_11834-1329_company_import_89dcecf102.png", group-title="MEXICO", MULTIMEDIOS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=multimedios&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MVStv_logo.png/245px-MVStv_logo.png", group-title="MEXICO", MVS TV
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=mvstv&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2020/01/Logo_Transparencia_legales.png-4-300x288.png", group-title="MEXICO", ONCE TV
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=oncetv&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1356749562644463616/wogHFIwn_400x400.jpg", group-title="NOTICIAS", ADN40
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=adn40&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/800px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png", group-title="NOTICIAS", CNN
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=cnnes&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/mx_canal-4-foro-tv_m.png", group-title="NOTICIAS", FORO TV
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=forotv&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/mx_milenio-tv_m.png", group-title="MEXICO", MILENIO TV
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=milenio&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg", group-title="CANALES", GALAVISION
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=galavision&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Telemundo.svg/508px-Telemundo.svg.png", group-title="CANALES", TELEMUNDO
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=telemundo&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png", group-title="CANALES", UNIMAS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=unimas&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/462px-Univision_logo.svg.png", group-title="CANALES", UNIVISION
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=univisionhd&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg", group-title="DEPORTES", CLARO SPORTS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=claro&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/espnmx.png", group-title="DEPORTES", ESPN
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espn1mx&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/espn2mx.png", group-title="DEPORTES", ESPN 2
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espn2mx&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/espn3mx.png", group-title="DEPORTES", ESPN 3
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espn3mx&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/EWs-iniWkAAOVOh?format=jpg&name=small", group-title="DEPORTES", ESPN EXTRA
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espnextramx&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/180px-Espn_deportes.svg.png", group-title="DEPORTES", ESPN DEPORTES
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espndep&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/foxsports2mx.png", group-title="DEPORTES", FOX SPORTS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=foxsport1mx&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png", group-title="DEPORTES", FOX SPORTS 2
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=foxsport2mx&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/foxsports3mx.png", group-title="DEPORTES", FOX SPORTS 3
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=foxsport3mx&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosaldeporte.com/logos/tudn.png", group-title="DEPORTES", TUDN MEXICO
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tudnmx&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1377493456633860096/Xg2OoLDQ_400x400.jpg", group-title="DEPORTES", TUDN USA
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tudnus&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1361325908515258374/NVVGuFE1_400x400.jpg", group-title="DEPORTES", TVC DEPORTES
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tvcdep&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQF7HvnLSmJGmQ/company-logo_200_200/0/1591198432551?e=2159024400&v=beta&t=1jAPZ3trAg28HVLpyHKwCYjGqmdMqW387PffHzOpDls", group-title="INFANTILES", BABYTV
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=babytv&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61BFIbB%2BxiL.png", group-title="INFANTILES", BABY FIRST
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=babyfirts&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png", group-title="INFANTILES", BITME
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=bitme&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/boomerang.png", group-title="INFANTILES", BOOMERANG
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=boomerang&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cartoonnetwork.png", group-title="INFANTILES", CARTOON NETWORK
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=cartoon&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-vw4YGg-uFEQ/Woth7JPFbMI/AAAAAAAAAZk/2TxNoFjitLgVdDGBlKl2zv0pbko9TuoQwCLcBGAs/s1600/disney-channel.png", group-title="CANALES", DISNEY CHANNEL
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=disneych&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/disneyjunior.png", group-title="INFANTILES", DISNEY JR
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=disneyjr&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/disneyxd.png", group-title="INFANTILES", DISNEY XD
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=disneyxd&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/discoverykids.png", group-title="INFANTILES", DISCOVERY KIDS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=dkids&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Nat_Geo_Kids_%282017%29.png/revision/latest/scale-to-width-down/250?cb=20200126150715&path-prefix=es", group-title="INFANTILES", NAT GEO KIDS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=natgeokids&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png", group-title="INFANTILES", NICK
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=nick&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://img2.freepng.es/20180603/isl/kisspng-teennick-nickelodeon-television-channel-television-nickcom-5b143ff65d8d41.9739192315280537503832.jpg", group-title="INFANTILES", TEEN NICK
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=teennick&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/tooncast.png", group-title="INFANTILES", TOONCAST
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tooncast&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-G_CuAKdUI-c/X06_pJDt90I/AAAAAAAAQyY/zgvrzaKhiIw2obaSxwdFQ4tS2bgsJ-NhACLcBGAsYHQ/s640/WinSports2017.png", group-title="DEPORTES", WIN SPORTS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=winhd&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-CYP_3yOEQsA/W6lqTRr5kNI/AAAAAAAAAKo/j6sAIE3wG14Tq4T75eKrY1tDDnNFp_2jQCPcBGAYYCw/s1600/laliga.png", group-title="DEPORTES", LA LIGA
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=laliga&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/disneyypixar/images/9/97/NBC_logo.png/revision/latest/scale-to-width-down/250?cb=20200413223631&path-prefix=es", group-title="CANALES", NBC
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=nbcsn&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf_400x400.jpg", group-title="DEPORTES", GOLTV
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=goltv&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/275px-Afizzionados_Logo.svg.png", group-title="DEPORTES", AFIZZIONADOS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=afizzionados&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://epg.beinsports.com/us_sports/Global.svg", group-title="DEPORTES", BEIN SPORTS N
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=beines&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-Q2VLB3yvljo/Woth3pohiBI/AAAAAAAAAZY/a7jqBhc9YdYT3Ern-6rmzrvlakifaoW5gCLcBGAs/s1600/directv-sports.png", group-title="DEPORTES", DIRECTV SPORTS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=directv&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/150px-DirecTV_Sports%2B_Latin_America_%282018%29.png", group-title="DEPORTES", DIRECTV SPORTS +
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=directvplus&f=.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png/800px-Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png", group-title="DEPORTES", FOX SPORTS PREMIUM
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=foxsportp&f=.m3u8
 
 
