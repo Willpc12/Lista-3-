@@ -832,9 +832,8 @@ http://ipeteve.com/php/SR_REGIO_690/regio22.php?c=tooncast&f=.m3u8
 
 
 
-#EXTINF:-1  group-title="COLOMBIA", RCN Diario
-https://vkvsd46.mycdn.me:443/hls/1276986067496.m3u8/sig/JtrtP-fU3os/expires/1621045608887/srcIp/190.205.245.251/clientType/13/srcAg/CHROME_ANDROID/mid/2828796701480/1276986067496_low/index.m3u8
-
-
-#EXTINF:-1  group-title="COLOMBIA", RCN Diario 2
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", RCN Diario
 https://vkvsd10.mycdn.me:443/hls/1276986067496.m3u8/sig/V4_uhzKv7T4/expires/1621047208113/srcIp/190.205.245.251/clientType/13/srcAg/CHROME_ANDROID/mid/2828796701480/1276986067496_medium/index.m3u8
+
+
+
