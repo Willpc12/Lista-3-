@@ -471,8 +471,7 @@ http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
 
 https://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="COLOMBIA",CARACOL
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/100px-Caracol_TV_HD_logo.svg.png" group-title="COLOMBIA",CARACOL TV
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hjc7XaY.png" group-title="COLOMBIA",CNC PASTO
@@ -829,6 +828,7 @@ http://ipeteve.com/php/SR_REGIO_690/regio22.php?c=nickjr&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_690/regio22.php?c=teennick&f=.m3u8
 #EXTINF:-1  group-title="Lista TV", TOONCAST
 http://ipeteve.com/php/SR_REGIO_690/regio22.php?c=tooncast&f=.m3u8
+
 
 
 
