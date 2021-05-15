@@ -907,8 +907,4 @@ http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=tooncast&f=.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", RCN Diario
-https://vkvsd18.mycdn.me/hls/1279429446184.m3u8/sig/dj1pHk9OFpE/expires/1621170351203/srcIp/200.109.18.85/clientType/13/srcAg/CHROME_ANDROID/mid/2830872685352/video.m3u8?p
-
-
-#EXTINF:-1 tvg-id="" tvg-name=" Nick Jr Latin America" tvg-logo="" group-title="Lista TV2", Nick Jr Latin America
-http://ipeteve.com/php/SR_REGIO_546/regiotv.php?c=335&f=.ts
+https://vkvsd6.mycdn.me:443/hls/1279429446184.m3u8/sig/-FfpUvkXfhw/expires/1621171236965/srcIp/200.109.18.85/clientType/13/srcAg/CHROME_ANDROID/mid/2830872685352/1279429446184_low/index.m3u8f=.ts
