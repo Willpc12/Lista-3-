@@ -144,11 +144,6 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/220px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png", group-title="BRASIL", SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-zdameN8RkN4/Wn9k02_XleI/AAAAAAAAgwU/o7QWyXJUMuUIqbZ7vPAZ7eOHYmFLIBDNwCK8BGAs/s265/2018-02-10.png" group-title="CHILE",CANAL 21 
-
-http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/senal-colombia-logo.png", group-title="COLOMBIA", SEÑAL COLOMBIA 
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -159,6 +154,11 @@ http://k4.usastreams.com/ARBtv/teleplus/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CUBAVISION_2017.png/250px-CUBAVISION_2017.png" group-title="CUBA",CUBAVISION
 
 http://190.122.96.187:8888/http/010
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-zdameN8RkN4/Wn9k02_XleI/AAAAAAAAgwU/o7QWyXJUMuUIqbZ7vPAZ7eOHYmFLIBDNwCK8BGAs/s265/2018-02-10.png" group-title="CHILE",CANAL 21 
+
+http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/250px-CGTN-_Logo.png", group-title="CHINA", CGTN 
@@ -931,4 +931,5 @@ http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=tooncast&f=.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", RCN Diario
 https://vkvsd6.mycdn.me:443/hls/1279429446184.m3u8/sig/-FfpUvkXfhw/expires/1621171236965/srcIp/200.109.18.85/clientType/13/srcAg/CHROME_ANDROID_4298index.
+
 
