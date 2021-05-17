@@ -207,6 +207,9 @@ https://siloh-ns1.plutotv.net:443/lilo/production/Nuestravision/master_4.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/TVMax_2016.png/revision/latest/scale-to-width-down/250?cb=20171029093258&path-prefix=es", group-title="PANAMA", TV MAX 
 https://bcovlive-a.akamaihd.net:443/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
 
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Canal_10_Nicaragua_2006.png/revision/latest/scale-to-width-down/200?cb=20201020221804&path-prefix=es",group-title="NICARAGUA", CANAL 10 HD
+https://cootv.cootel.com.ni:443/streams/d/SSLCH10-SD-ZUK/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="PARAGUAY",ABC TV 
 
@@ -817,6 +820,22 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 
 http://k4.usastreams.com/vmtv/vmaltino/chunklist_w96786999.m3u8
 
+#EXTINF: -1 tvg-logo ="https://pbs.twimg.com/profile_images/1322927657143750657/lUzvdLW0_400x400.jpg",group-title="NICARAGUA", CANAL 11
+https://cootv.cootel.com.ni:443/streams/d/SSLCH11-SD-GZN/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1364601100846968834/uGoEZzrV_400x400.jpg",group-title="NICARAGUA", CANAL 9
+https://cootv.cootel.com.ni:443/streams/d/SSLCH09-HD-CVS/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gJQjLC4uY64nX5RDj7As24mWj35sC73ukw&usqp=CAU", group-title ="CHILE", TV MÁS + CHILE
+https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/l5fZQ3V.png", group-title= "DEPORTES", POKER TV
+http://51.210.199.17/hls/stream.m3u8
+
+
+
+
+
 
 
 REGIO
@@ -1147,6 +1166,5 @@ http://ipeteve.com/php/SR_REGIO_546/regio22.php?c=tooncast&f=.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", RCN Diario
 https://vkvsd6.mycdn.me:443/hls/1279429446184.m3u8/sig/-FfpUvkXfhw/expires/1621171236965/srcIp/200.109.18.85/clientType/13/srcAg/CHROME_ANDROID_4298index.
-
 
 
