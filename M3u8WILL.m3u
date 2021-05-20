@@ -6,8 +6,6 @@
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="SEBASTIAN", PLUTOTV KIDS 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fd0e28f7-ac37-11eb-901b-0242ac110002&sid=fd0e28f7-ac37-11eb-901b-0242ac110002&userId=
 
-
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", PLUTOTV INVESTIGA 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=169239c2-aa9f-11eb-9e54-0242ac110002&sid=169239c2-aa9f-11eb-9e54-0242ac110002&userId=
 
@@ -832,6 +830,36 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300" group-title="MEXICO",  HERALDO CANAL 10
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://televisiondeleste.com/wp-content/uploads/2020/02/LOGO-DE-ESTE-TV-300x99.png" group-title="REPUBLICA DOMINICANA", TELEVISION DEL ESTE (ESTETV)
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.iptv.cvahn.com/img/chautv.jpg" group-title="MUSICA",CHAU TV
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/769177943138508800/25BVfVQh_400x400.jpg" group-title="CANALES",TELEMUNDO 62
+http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.iptv.cvahn.com/img/cbsnew.jpg", group-title="NOTICIAS", CBS NEWS (INGLES)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://web-cdn.blivenyc.com/generic/rcu.app-store-icon.jpg" group-title="USA",AKC TV 
+https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="USA",BLOOMBERG TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nSMaujc.png" group-title="USA",BOWIE TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xGjchpW.png" group-title="USA",DISTRICT OF COLUMBIA NETWORK
+http://video.oct.dc.gov/out/u/DCN.m3u8
+
+
+
+
+
+tvg-logo="", group-title="Lista TV",
+
 
 
 REGIO
@@ -1158,7 +1186,7 @@ http://ipeteve.com/php/SR_REGIO_381/regio22.php?c=tooncast&f=.m3u8
 
 
 
-
-
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", RCN Diario
-https://vkvsd64.mycdn.me:443/hls/1285266737704.m3u8/sig/pncMg-wVIzI/expires/1621469885529/srcIp/200.90.70.151/clientType/13/srcAg/CHROME_ANDROID/mid/2835792800552/1285266737704_low/index.m3u8
+https://vkvsd19.mycdn.me:443/hls/1292248484392.m3u8/sig/II_w9wrXHww/expires/1621555027716/srcIp/200.90.70.151/clientType/13/srcAg/CHROME_ANDROID/mid/2841836530472/1292248484392_low/index.m3u8
+
+
