@@ -261,9 +261,6 @@ https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/SonyChannelLA.png/revision/latest/scale-to-width-down/185?cb=20200116232350&path-prefix=es", group-title="CANALES", SONY NOVELAS
 https://sony-novelas-1.roku.wurl.com:443/playlist_640x360_1200k.m3u8
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/kidstv.png", group-title="SEBASTIAN", KIDS TV
-https://livelist01.yowi.tv:443/lista/eede3daa45f98e0dce894da041ce520a22397517/index-f2-v1-a1.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.plenummedia.com/35737/images/20160824192406-bodegas-la-aurora-en-tve-web.jpg?dh=MzIweDI1MA%3D%3D&m=resize", group-title="ESPAÑA", TVE1  
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
@@ -835,24 +832,28 @@ http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.iptv.cvahn.com/img/chautv.jpg" group-title="MUSICA",CHAU TV
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/769177943138508800/25BVfVQh_400x400.jpg" group-title="CANALES",TELEMUNDO 62
-http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.iptv.cvahn.com/img/cbsnew.jpg", group-title="NOTICIAS", CBS NEWS (INGLES)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://web-cdn.blivenyc.com/generic/rcu.app-store-icon.jpg" group-title="USA",AKC TV 
-https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="USA",BLOOMBERG TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nSMaujc.png" group-title="USA",BOWIE TV
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xGjchpW.png" group-title="USA",DISTRICT OF COLUMBIA NETWORK
 http://video.oct.dc.gov/out/u/DCN.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/jlRMBbu.jpg", group-title="MUSICA", ALEGRIA TV
+https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://cdn6.aptoide.com/imgs/b/8/0/b80339aefb6bcda3041767635d13dfaf_icon.png?w=160", group-title="FRANCIA", ONE TV 
+https://edge4.vedge.infomaniak.com/livecast/smil:onefmmd.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.destinationnetwork.com/images/channel_logos/notv_logo.png" group-title="USA",NEW ORLEANS TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/06/newsmax-tv-logo.jpg" group-title="USA",NEWSMAX TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
 
 
 
@@ -1186,10 +1187,6 @@ http://ipeteve.com/php/SR_REGIO_381/regio22.php?c=tooncast&f=.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", RCN Diario 1
-https://vkvsd19.mycdn.me:443/hls/1292248484392.m3u8/sig/II_w9wrXHww/expires/1621555027716/srcIp/200.90.70.151/clientType/13/srcAg/CHROME_ANDROID/mid/2841836530472/1292248484392_low/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", RCN Diario 2
-https://vkvsd56.mycdn.me:443/hls/1292248484392.m3u8/sig/ERqeKb2ArGo/expires/1621559837930/srcIp/200.90.70.151/clientType/13/srcAg/CHROME_ANDROID/mid/2841836530472/1292248484392_medium/index.m3u8
-
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", RCN Diario
+https://vkvsd78.mycdn.me:443/hls/1292923570728.m3u8/sig/seh9FKOQXL0/expires/1621643797272/srcIp/201.249.16.34/clientType/13/srcAg/CHROME_ANDROID/mid/2842419276584/1292923570728_low/index.m3u8
 
