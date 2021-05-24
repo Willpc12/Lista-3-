@@ -1353,15 +1353,18 @@ https://content-na.drive.amazonaws.com/cdproxy/share/gMxzCd3Bg6W7W5txRPgUeB0ydPY
 #EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608f81f06b447_dXD1hZywTqk1ak3tH5Hqfby0iUk.jpg", group-title="peliculas", SAHARA
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/dreamland-352695802-mmed.jpg", group-title="peliculas",Dreamland
+https://861480981.tapecontent.net/radosgw/Zw8bxezayyhq2Zg/8GaaAuZ72WDATZkGioJoXSmJeCUi4z_9kV8IpljxHhrMjxtbJwptlX-XzhIq2woJtw7s9gtEcuahS2vwDyaxvgCCgPWzJChCdS2yeQVnDLrzBEVTTcVKFa2eIsykxhDW6cDjKKcHUSQ20h1iPg4JzPZTGlOCCa5v1p97TVO4aqTEQan56GlXqx3EDdjUX4ignXWL2TAkXRk_ocFOVmBA9tqcd0B3klzMM9otIgG-V94DHfjq-w6aed7WSWjdDzui0yTpDK6C2g3iU-KNu6PxODPdakqYDpOXk6I00A/kxl97E9Pk59-streamtape.mp4
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_609356a779917_1Lt6cbfnPIj4mAYYwErQtevhv42.jpg", group-title="peliculas", Los Mitchell contra las máquinas
+https://860104607.tapecontent.net/radosgw/XP9QBVV94oTWKy/co13mShnYkC-shHxH7cK02qN96w027rXX3D-FuLePODpQpBo-DqY-3UO6RK6-QKEdaQcjsultvc-PKcU-uR1k4tO5_srgFh663qFPum7oU7hdI-Pa83O668Rq7dr_jWAgAqTNZowelMqCW7k9kqWTiOCIXpowHeCu6QKBbzlwLOI77O8xXYNxI0ZVlme5als-QT_JQHgB5-s0RwUvCYkavkU6uRS-UR85WlRa6cyQY4Pyw8k1DoGCTYyGl5u_5tlt9GEx8nc2bEaDTRrUjrB5JBFJ_LA_5zmrIAn6w/VPM9RZdLvPE.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/o9cSEHrXzPOO4OIoT9yrdxc216w.jpg", group-title="peliculas", Como caído del cielo
+https://867323818.tapecontent.net/radosgw/4Xg0W1XjWZUp2l/Cm3GXfuwtPUSnhNpk4iJ2ZHTB7h46FUG88FRJmtoCQOvy4R3IWeGESjTCG3U54wxUwRxRbk5N9Z63RkDN9Vc_Y3yB3Fy4B2gMB2U7XxWoVhCptWuxde-YsFf6bgLktVl_KwXClPRwiTk2bh18FaGaKbZ1vtKEEBNmbu_UNByrBAwXtdcZWvYFzDanSPYatKzH2A9-v1bxOYTVII9n6e72-eiu3J65bbllLduBCjpLriweecZP1KgcGFJ8-4lVZO8Y_XuAxAvpcqPNEay7C6z-IP8iiwmpMv_Ah8gOg/gmW4zonnDal-streamtape.mp4
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="", group-title="peliculas",
 
 
 
@@ -1370,6 +1373,7 @@ https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fsee
 
 
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", RCN Diario
-https://vkvsd8.mycdn.me:443/hls/1298247060008.m3u8/sig/8oaPTt-XZlQ/expires/1621824938814/srcIp/201.249.16.34/clientType/13/srcAg/CHROME_ANDROID/mid/2846838106920/1298247060008_low/index.m3u8
+https://vkvsd78.mycdn.me:443/hls/1292923570728.m3u8/sig/seh9FKOQXL0/expires/1621643797272/srcIp/201.249.16.34/clientType/13/srcAg/CHROME_ANDROID/mid/2842419276584/1292923570728_low/index.m3u8
+
 
 #EXTINF:-1  tvg-logo="", group-title="Lista TV",
