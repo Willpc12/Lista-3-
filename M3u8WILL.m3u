@@ -15,9 +15,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", PLUTOTV HISTORIAS ULTRATUMBA 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=751684dc-aaa0-11eb-ac84-0242ac110002&sid=751684dc-aaa0-11eb-ac84-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", PLUTOTV CINE ESTELAR 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=685ed2cd-a9ff-11eb-b976-0242ac110002&sid=685ed2cd-a9ff-11eb-b976-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", PLUTOTV MASTER CHEF 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1e16c1d2-aae3-11eb-b4a3-0242ac110002&sid=1e16c1d2-aae3-11eb-b4a3-0242ac110002&userId=
 
@@ -69,6 +66,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d0007
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CINE", PLUTOTV CINE TERROR 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=a329231e-aaa2-11eb-b43b-0242ac110002&sid=a329231e-aaa2-11eb-b43b-0242ac110002&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CINE", PLUTOTV CINE ESTELAR 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=685ed2cd-a9ff-11eb-b976-0242ac110002&sid=685ed2cd-a9ff-11eb-b976-0242ac110002&userId=
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CINE", PLUTOTV CINE COMEDIA 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9ea814c3-aae2-11eb-8d47-0242ac110002&sid=9ea814c3-aae2-11eb-8d47-0242ac110002&userId=
 
@@ -86,6 +86,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CINE", PLUTOTV PARAMOUT+ 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1e16c1d2-aae3-11eb-b4a3-0242ac110002&sid=1e16c1d2-aae3-11eb-b4a3-0242ac110002&userId=
+
+#EXTINF:-1, tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608ec93a7f2d9_lOW8vBMJqWHWcMxHbigVAytqiBn.jpg", group-title="PELICULAS",Bumblebee
+https://storage.googleapis.com/eighth-opus-250514.appspot.com/content/P/Grandes%20estrenos/Transformers%206%20Bumblebee/LAT-720%20T.R.4.N.S.F.0.R.M.3.R.S_6_B.U.M.B.L.3.B.3.3.mp4
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="DEPORTES", PLUTOTV PELEAS 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=960dfd9c-b27f-11eb-9a27-0242ac110002&sid=960dfd9c-b27f-11eb-9a27-0242ac110002&userId=
@@ -765,7 +768,7 @@ https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://odishaexpo.com/wp-content/uploads/2020/10/UP_Entertainment_Cine_Romantico_Logo.jpg" group-title="CANALES",CINE ROMATICO
+#EXTINF:-1 tvg-logo="https://odishaexpo.com/wp-content/uploads/2020/10/UP_Entertainment_Cine_Romantico_Logo.jpg" group-title="CINE",CINE ROMANTICO
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/838809421975257092/Hzz3uqOH_400x400.jpg" group-title="MUSICA",88 STEREO
@@ -890,7 +893,7 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w922024847.m3u
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Mi-TV-Television-Clasica-en-vivo.jpg" group-title="CINE", CINE RETRO
 http://162.244.80.176:8081/abr/stream/live/livestream_source/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ce9a3a96e0a17bbc1e2dd075a0c49f35.png" group-title="CINE", SOLTV EL SALVADOR
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ce9a3a96e0a17bbc1e2dd075a0c49f35.png" group-title="EL SALVADOR", SOLTV
 https://rtmp.info/soltv/envivo/chunklist_w1491188662.m3u8
 
 
@@ -904,6 +907,8 @@ https://rtmp.info/soltv/envivo/chunklist_w1491188662.m3u8
 
 
 tvg-logo="", group-title="Lista TV",
+
+#EXTINF:-1  tvg-logo="", group-title="Lista TV",
 
 
 
@@ -1314,57 +1319,70 @@ https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina | REGIOFLIX  
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO | REGIOFLIX  
-https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
 
 mias
 
-#EXTINF:-1, tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_60909ab4ac8ee_br6krBFpaYmCSglLBWRuhui7tPc.jpg", group-title="peliculas",Vengadores: La guerra del infinito
+#EXTINF:-1, tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_60909ab4ac8ee_br6krBFpaYmCSglLBWRuhui7tPc.jpg", group-title="PELICULAS",Vengadores: La guerra del infinito
 https://storage.googleapis.com/eighth-opus-250514.appspot.com/content/P/Grandes%20estrenos/Avengers%20Infinity%20War/LAT-720%204.V.3.N.G.3.R.S_1.N.F.1.N.1.T.Y_W.4.R.mp4
 
-#EXTINF:-1, tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608c3936bf40d_jx3URmImNMCZuXcfdLM7S5Pivzy.jpg", group-title="peliculas",Deadpool 2
+#EXTINF:-1, tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608c3936bf40d_jx3URmImNMCZuXcfdLM7S5Pivzy.jpg", group-title="PELICULAS",Deadpool 2
 https://storage.googleapis.com/eighth-opus-250514.appspot.com/content/P/Grandes%20estrenos/Deadpool%202/LAT-720%20D.3.4.D.P.0.0.L_2.mp4
 
-#EXTINF:-1, tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608ec93a7f2d9_lOW8vBMJqWHWcMxHbigVAytqiBn.jpg", group-title="peliculas",Bumblebee
-https://storage.googleapis.com/eighth-opus-250514.appspot.com/content/P/Grandes%20estrenos/Transformers%206%20Bumblebee/LAT-720%20T.R.4.N.S.F.0.R.M.3.R.S_6_B.U.M.B.L.3.B.3.3.mp4
-
-#EXTINF:-1, tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608edc742aaa8_rhnoAReqO3Xoe6GbJhT3409lnq8.jpg", group-title="peliculas",Cómo entrenar a tu dragón 3
+#EXTINF:-1, tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608edc742aaa8_rhnoAReqO3Xoe6GbJhT3409lnq8.jpg", group-title="PELICULAS",Cómo entrenar a tu dragón 3
 https://storage.googleapis.com/eighth-opus-250514.appspot.com/content/P/Grandes%20estrenos/How%20to%20Train%20Your%20Dragon%203%20The%20Hidden%20World/MC%20LAT-720%20H.0.W_T.0_T.R.4.1.N_Y.0.U.R_D.R.4.G.0.N_3_T.H.3_H.1.D.D.3.N_W.0.R.L.D.mp4
 
-#EXTINF:-1, tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608ea6c8bca0c_p4BabO5lvfXnIsVIBLDpN2wLORz.jpg", group-title="peliculas",Animales Fantásticos 2: Los crímenes de Grindelwald
+#EXTINF:-1, tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608ea6c8bca0c_p4BabO5lvfXnIsVIBLDpN2wLORz.jpg", group-title="PELICULAS", Animales Fantásticos 2: Los crímenes de Grindelwald
 https://storage.googleapis.com/eighth-opus-250514.appspot.com/content/P/Grandes%20estrenos/Fantastic%20Beasts%202%20The%20Crimes%20of%20Grindelwald/LAT-720%20F.4.N.T.4.S.T.1.C_B.3.4.S.T.S_2_T.H.3_C.R.1.M.3.S_0.F_G.R.1.N.D.3.L.W.4.L.D.mp4
 
-#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608ecb1d64e40_wYdNCLoAoycUGuIr7U3y9nNWGGt.jpg", group-title="peliculas", MISION SUBMARINO
+#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608ecb1d64e40_wYdNCLoAoycUGuIr7U3y9nNWGGt.jpg", group-title="PELICULAS", MISION SUBMARINO
 https://content-na.drive.amazonaws.com/cdproxy/share/tklXpBUeJK6eV78Z63HyXw6CSxXUXAch9cyRk36MftQ/nodes/8R-bcwIVQnG958RmDZtW1g?nonce=vNMtyp-qEXOf8k7F8B7tg24WHmgKiaDqHOS9mx-QxnvnmC2s5DpebpBT98EbFLHw
 
-#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608c64d646485_yqvsP2M0Z0T6vEHSOESEguCZHgR.jpg", group-title="peliculas", DE SICARIO A YOUTUBER
+#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608c64d646485_yqvsP2M0Z0T6vEHSOESEguCZHgR.jpg", group-title="PELICULAS", DE SICARIO A YOUTUBER
 https://content-na.drive.amazonaws.com/cdproxy/share/Uh1j7gMGbZlHugAjtqrElIx1SM841wcXBJUxboR1ipr/nodes/aVwxwhO-SjyNfOIkHaSpnw?nonce=GfmlAeTh8s-l48VMN2-fVANKRhS6d97gZOi9z1_St1DZWpBQVqYC3B-q_lNI0Ctl
 
-#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608c645e7356f_3hkImCSIM8ROpTSA8EF2joYdBNd.jpg", group-title="peliculas", EL JUSTICIERO
+#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608c645e7356f_3hkImCSIM8ROpTSA8EF2joYdBNd.jpg", group-title="PELICULAS", EL JUSTICIERO
 https://content-na.drive.amazonaws.com/cdproxy/share/YlhJ6FiERHBQ6Qpuw8eIdVrLBCdgKejxZQezsDH3InJ/nodes/z4UM1frbQfKz8ZcIoU4A3g?nonce=qVOOZaocRbKgDc-WVqO0IRi9K0lEuxuhcb43ARe3-wRKIPuMovlroVvxpJgiTKA1
 
-#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608c655059fc2_xOxkZGKeiasZtczCh4Yj1U7WZSh.jpg", group-title="peliculas", EL REHEN
+#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608c655059fc2_xOxkZGKeiasZtczCh4Yj1U7WZSh.jpg", group-title="PELICULAS", EL REHEN
 https://content-na.drive.amazonaws.com/cdproxy/share/MSVLbc7jeM5ZCsOOt7QTKHg1Hrkl9kkegjs1mWFXsWg/nodes/HGQdbg-RTa-r1I9W2dQhEg?nonce=aTuDj1S2NUWtBeANn07xoMCnqMWHa0YkDZjL1avWpnmuQjzWegsNbH3_3ruRcFzS
 
-#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608c654c0ca03_erDbN0WQfWlqt1HJwepjU4zb73V.jpg", group-title="peliculas", EXTINCION
+#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608c654c0ca03_erDbN0WQfWlqt1HJwepjU4zb73V.jpg", group-title="PELICULAS", EXTINCION
 https://content-na.drive.amazonaws.com/cdproxy/share/gMxzCd3Bg6W7W5txRPgUeB0ydPYW810QlEkcOkQpQYG/nodes/WHoOgVBWTkyaqdTbqbydmg?nonce=Ym6clLfChEQhSK0hg-ExgkTy20KmGhnLt_jC4CmMGHrIk9WUishbpuPwZlB-8D_J
 
-#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608f81f06b447_dXD1hZywTqk1ak3tH5Hqfby0iUk.jpg", group-title="peliculas", SAHARA
+#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608f81f06b447_dXD1hZywTqk1ak3tH5Hqfby0iUk.jpg", group-title="PELICULAS", SAHARA
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/dreamland-352695802-mmed.jpg", group-title="peliculas",Dreamland
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg", group-title="PELICULAS",Dreamland | WILLPC  
 https://861480981.tapecontent.net/radosgw/Zw8bxezayyhq2Zg/8GaaAuZ72WDATZkGioJoXSmJeCUi4z_9kV8IpljxHhrMjxtbJwptlX-XzhIq2woJtw7s9gtEcuahS2vwDyaxvgCCgPWzJChCdS2yeQVnDLrzBEVTTcVKFa2eIsykxhDW6cDjKKcHUSQ20h1iPg4JzPZTGlOCCa5v1p97TVO4aqTEQan56GlXqx3EDdjUX4ignXWL2TAkXRk_ocFOVmBA9tqcd0B3klzMM9otIgG-V94DHfjq-w6aed7WSWjdDzui0yTpDK6C2g3iU-KNu6PxODPdakqYDpOXk6I00A/kxl97E9Pk59-streamtape.mp4
 
-#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_609356a779917_1Lt6cbfnPIj4mAYYwErQtevhv42.jpg", group-title="peliculas", Los Mitchell contra las máquinas
+#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_609356a779917_1Lt6cbfnPIj4mAYYwErQtevhv42.jpg", group-title="PELICULAS", Los Mitchell contra las máquinas | WILLPC  
 https://860104607.tapecontent.net/radosgw/XP9QBVV94oTWKy/co13mShnYkC-shHxH7cK02qN96w027rXX3D-FuLePODpQpBo-DqY-3UO6RK6-QKEdaQcjsultvc-PKcU-uR1k4tO5_srgFh663qFPum7oU7hdI-Pa83O668Rq7dr_jWAgAqTNZowelMqCW7k9kqWTiOCIXpowHeCu6QKBbzlwLOI77O8xXYNxI0ZVlme5als-QT_JQHgB5-s0RwUvCYkavkU6uRS-UR85WlRa6cyQY4Pyw8k1DoGCTYyGl5u_5tlt9GEx8nc2bEaDTRrUjrB5JBFJ_LA_5zmrIAn6w/VPM9RZdLvPE.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/o9cSEHrXzPOO4OIoT9yrdxc216w.jpg", group-title="peliculas", Como caído del cielo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/o9cSEHrXzPOO4OIoT9yrdxc216w.jpg", group-title="PELICULAS", Como caído del cielo | WILLPC 
 https://867323818.tapecontent.net/radosgw/4Xg0W1XjWZUp2l/Cm3GXfuwtPUSnhNpk4iJ2ZHTB7h46FUG88FRJmtoCQOvy4R3IWeGESjTCG3U54wxUwRxRbk5N9Z63RkDN9Vc_Y3yB3Fy4B2gMB2U7XxWoVhCptWuxde-YsFf6bgLktVl_KwXClPRwiTk2bh18FaGaKbZ1vtKEEBNmbu_UNByrBAwXtdcZWvYFzDanSPYatKzH2A9-v1bxOYTVII9n6e72-eiu3J65bbllLduBCjpLriweecZP1KgcGFJ8-4lVZO8Y_XuAxAvpcqPNEay7C6z-IP8iiwmpMv_Ah8gOg/gmW4zonnDal-streamtape.mp4
 
+#EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/Dos-sinverg%C3%BCenzas.jpg", group-title="PELICULAS", Dos sinvergüenzas | WILLPC
+https://908471762.tapecontent.net/radosgw/Q1PM2RKeLxc0QJ8/G29fZxF-4BWMXHjT9NkP_TstNGKhq707yeGNJM2AjTDfWVTLRw-3QbVs2rh_jrmCIpldoBHnzKfdQpzBiqHOXPSw0RgK6ckqhW4nb_hbQj6Y4oFiXebx9If2OBPDo-G5hlVinq2pjUqU7cZZQBWHeTR7XYjsuLwwTdT0xJZ3Jn_bdHZFBM1uMf_zTa9vv5aA3pRIembVhhBGbKjjHEGTcOyG0D58v6ZLgKc96FwJvZnTKeSvM8Yd1HAolulyAE3FExU483BlXV1600lVULfBZ2lkrS3YnXo-wTYjtTHqSsNFBqnZiNR--SY9aP53APb2EJ3b4XhX0JtW5ofI/Dos+sinverg%C3%BCenzas+-+Os+Salafr%C3%A1rios+-+Get+the+Grift+%282021%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s9VFcru4oAurVVK49jmpB35vVhZ.jpg", group-title="PELICULAS", Sin Remordimientos (Tom Clancy’s)  | WILLPC 
+https://861520589.tapecontent.net/radosgw/3xAPAdB2yeTdvPe/j-wC1rCuSgfE3RfH_C7UwdcdaXSxSF8GAkzMBtxKvmTszk5OWlCKHaTI7s48NiiY_FbiTNYmBV2I-p5lHLx46QqM0njJ2s74rpA0wZ-7FegDEGJotIN5-aOeNUvilEBXl2ccBsH_YwvRWR_pO7iVotgCK3lNdTN7n3yX2wp6nbP5-NAeh6xQdny_UHUtqVm_nBlDrczIQfbSUOn0rbsL26JKjZk6kiPgEIvEY5lwluWqLI8Esg9gb5j8qzE6G6SBLiL8zRoglHl_-4j4GywCzS9dOuMGRuSM_hk0hS2KFKaK1LhVEZPgPdZWxRo/Tom.Clancy.Sin.Remordimientos.2021.1080p.Latino?stream=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1zLRW5ZE8LfZl8qWuGRL5P176KH.jpg", group-title="PELICULAS", Tom and Jerry | WILLPC 
+https://2475154809.tapecontent.net/radosgw/VYAlk8oX8KSKw4G/u7Wnoz7i7bksfx31O0uuJMW7HE2HMRR5Xw7mVmfv5g7jhCjzaB_IQZatx27N5NBj6zuSKDDFHaYKQYx8g1pZnYR9prBTXqg3sMIZz7PN4flQOQ2R8AzcPoJlKFu1fzquXHpERjPKUW7PwzfeRVezwWts63zxFbahdgEceR7X864ZkyA6JqSVsnryNNxuMOBZen2k2B8ip872hkK6p55UxanvxkkpuBxRk1FfHS9MD-RU3WM6zCAfT8R5d__yR6b-2wR3kLwh94R3dEyaFRs-96Dr-PvB7dCjQIHLdg/Tom.y.Jerry.2021.1080p.Latino?stream=1
+
+#EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2021/01/uNE1KM12X3nLz7YFrqrhncCFknu-e1610567167987.jpg", group-title="PELICULAS", Fragmentos de una mujer | WILLPC 
+https://2760157150.tapecontent.net/radosgw/wDq4Z8kye7Ijow/iHOqfzSWkBM4R-W4z3Cf5780l7LVQoggKdMIeMqsQhQIClk7g-tXZL7vQqEN9s6llBTgFtmCwr1pcikKN8GDNTczq8vCv-0X5xoqjav8SDbv7LUPhpfCRQGbHQmd-U9jc9ywKflenD4E0yOvng4xXSsc2Wm5sERlFrFzkLbbmmjNCSGstrm0ys1zGsb-aH9_Ue6_pOnH9jAAQjcAOcxITbgxkgtKbuvKAqLL8U5KJbZpRNMejLhbRFtSBeRVY2RCemdtqu-AW9sEfXvmuyBy_BHFyylqYPdbKHlZQ-imfBE2qwXdUpKQ6GhPZuiUsSOvs1cUbVHSLdA54cJr/Fragmentos+de+una+mujer+-+Pieces+of+a+Woman+%282020%29.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/Monster-Pets-e1621780791345.jpg", group-title="PELICULAS", Hotel Transylvania: Transformania | WILLPC
+https://908373256.tapecontent.net/radosgw/PZq6gD4a8Zi06wZ/WNHchDuYa7xeXJcs5-WLVRxm2czMJ3mDi-_iFO7YewWpBu-KxXewn2NAw9vnGxn93NbJvAjixLGYxgsoj6nfSGqLDfd6HO2HdYRs0PtGmipZVS_Qoi4m8IZ2mmjlP1bL4eYItzvjNgCv6clu1IlNURyxUeBnKdXnqv8sJ3SVx_BeFrqXJF3MSed2peoP7OQ8fX92vmofZbmtq0iuDmCpYv_bw1t3MlWHDWMXLV8T4YpMY-19CsdaiLqep4iXRPJDlTL1vkZEsZrxLnD4o5Laui7mbfhTpiantxlQ97G8qOfLEVnpgsXltKACsB0mI-EYrHkzsXfRrTvVZflv/Monster+Pets+A+Hotel+Transylvania+Short+%282021%29.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://www.cuevana3.wtf/wp-content/uploads/2020/10/hard-kill-1814-poster-193x288.jpg?x90286", group-title="PELICULAS", Mercenarios de élite | WILLPC 
+https://867319826.tapecontent.net/radosgw/96oyAj4QQDUaKpW/zjoo0e2Zs5AuMdbxGY4ql6OntZZiGXS-fN9QTN_2aulOjqXdK87WF_HAXpOjysTnBg_tItyqe_Z86HwkdJxpgO9tPE6rVmNB3MSKwYk7ZoiF9PKlRd4ayHhd8b5QLbYRo9z7olTWsooqXPmNHdLDVJkzPtaO4VB8ZlWXMAXmKH8KAHDnQbrlzQSvhwqCsBquuYuXEncjb1Xr29IW3eftrClN8HsRLRztFNDSLliV3b5ogMn_q9TIf-_LxRFaTuGz7qakJoLNZvZJtKzRyY7HNT8z34vYMQ7K1ypu1w/Hard+Kill+%282020%29.mp4?stream=1
 
 
-#EXTINF:-1 tvg-logo="", group-title="peliculas",
+
+#EXTINF:-1 tvg-logo="", group-title="PELICULAS",  | WILLPC 
 
 
 
@@ -1376,4 +1394,4 @@ https://867323818.tapecontent.net/radosgw/4Xg0W1XjWZUp2l/Cm3GXfuwtPUSnhNpk4iJ2ZH
 https://vkvsd74.mycdn.me/hls/1298247060008.m3u8/sig/-7QgFd1ENa0/expires/1621986828906/srcIp/186.185.213.196/clientType/13/srcAg/CHROME_ANDROID/mid/2846838106920/1298247060008_lowest/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="", group-title="Lista TV",
+
