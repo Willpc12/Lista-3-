@@ -87,7 +87,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CINE", PLUTOTV PARAMOUT+ 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1e16c1d2-aae3-11eb-b4a3-0242ac110002&sid=1e16c1d2-aae3-11eb-b4a3-0242ac110002&userId=
 
-#EXTINF:-1, tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608ec93a7f2d9_lOW8vBMJqWHWcMxHbigVAytqiBn.jpg", group-title="PELICULAS",Bumblebee
+#EXTINF:-1, tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608ec93a7f2d9_lOW8vBMJqWHWcMxHbigVAytqiBn.jpg", group-title="PELICULAS",Bumblebee  | WILLPC
 https://storage.googleapis.com/eighth-opus-250514.appspot.com/content/P/Grandes%20estrenos/Transformers%206%20Bumblebee/LAT-720%20T.R.4.N.S.F.0.R.M.3.R.S_6_B.U.M.B.L.3.B.3.3.mp4
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="DEPORTES", PLUTOTV PELEAS 
@@ -1332,9 +1332,6 @@ https://storage.googleapis.com/eighth-opus-250514.appspot.com/content/P/Grandes%
 #EXTINF:-1, tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608ea6c8bca0c_p4BabO5lvfXnIsVIBLDpN2wLORz.jpg", group-title="PELICULAS", Animales Fantásticos 2: Los crímenes de Grindelwald | WILLPC 
 https://storage.googleapis.com/eighth-opus-250514.appspot.com/content/P/Grandes%20estrenos/Fantastic%20Beasts%202%20The%20Crimes%20of%20Grindelwald/LAT-720%20F.4.N.T.4.S.T.1.C_B.3.4.S.T.S_2_T.H.3_C.R.1.M.3.S_0.F_G.R.1.N.D.3.L.W.4.L.D.mp4
 
-#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608ecb1d64e40_wYdNCLoAoycUGuIr7U3y9nNWGGt.jpg", group-title="PELICULAS", MisionN Submarino | WILLPC 
-https://content-na.drive.amazonaws.com/cdproxy/share/tklXpBUeJK6eV78Z63HyXw6CSxXUXAch9cyRk36MftQ/nodes/8R-bcwIVQnG958RmDZtW1g?nonce=vNMtyp-qEXOf8k7F8B7tg24WHmgKiaDqHOS9mx-QxnvnmC2s5DpebpBT98EbFLHw
-
 #EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608c64d646485_yqvsP2M0Z0T6vEHSOESEguCZHgR.jpg", group-title="PELICULAS", De Sicario a Youtuber | WILLPC 
 https://content-na.drive.amazonaws.com/cdproxy/share/Uh1j7gMGbZlHugAjtqrElIx1SM841wcXBJUxboR1ipr/nodes/aVwxwhO-SjyNfOIkHaSpnw?nonce=GfmlAeTh8s-l48VMN2-fVANKRhS6d97gZOi9z1_St1DZWpBQVqYC3B-q_lNI0Ctl
 
@@ -1349,6 +1346,9 @@ https://content-na.drive.amazonaws.com/cdproxy/share/gMxzCd3Bg6W7W5txRPgUeB0ydPY
 
 #EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608f81f06b447_dXD1hZywTqk1ak3tH5Hqfby0iUk.jpg", group-title="PELICULAS", Sahara | WILLPC 
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_609356a779917_1Lt6cbfnPIj4mAYYwErQtevhv42.jpg", group-title="PELICULAS", Los Mitchell contra las máquinas | WILLPC  
 https://s12.zplayer.live/hls/,5fxcvxchwcnufvsa6kcu7ao5uiliwpqovlabtj6z6gvwqnodlqb2zhvlpxvq,.urlset/master.m3u8
@@ -1399,7 +1399,7 @@ https://s3.zplayer.live/hls/,5fxc2naxwcnufvsa6l4u7b66xclcs5siamf7p2nluk2ug6f5rub
 
 
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", RCN Diario
-https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/z1dzi.m3u8?s=imn2d014FuuINB4DqICAGg&e=1622066516
+https://vkvsd17.mycdn.me:443/hls/1311002724904.m3u8/sig/lOEC7leN0S0/expires/1622145122386/srcIp/201.211.203.72/clientType/13/srcAg/CHROME_ANDROID/mid/2857647811368/1311002724904_low/index.m3u8
 
 
 
