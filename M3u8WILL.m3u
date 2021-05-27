@@ -1349,43 +1349,41 @@ https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fsee
 
 
 
+#EXTINF:-1
 
-#EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_609356a779917_1Lt6cbfnPIj4mAYYwErQtevhv42.jpg", group-title="PELICULAS", Los Mitchell contra las máquinas | WILLPC  
-https://s12.zplayer.live/hls/,5fxcvxchwcnufvsa6kcu7ao5uiliwpqovlabtj6z6gvwqnodlqb2zhvlpxvq,.urlset/master.m3u8
+tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_609356a779917_1Lt6cbfnPIj4mAYYwErQtevhv42.jpg", group-title="PELICULAS", Los Mitchell contra las máquinas | WILLPC  
 
-#EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/Dos-sinverg%C3%BCenzas.jpg", group-title="PELICULAS", Dos sinvergüenzas | WILLPC
-https://s1.zplayer.live/hls/,5fxcskhuwgnufvsa6l5u7vei4xnvcnzjmdrpn2ffqu5xhyqhu3rvubhbyqfq,.urlset/master.m3u8
+tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/Dos-sinverg%C3%BCenzas.jpg", group-title="PELICULAS", Dos sinvergüenzas | WILLPC
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s9VFcru4oAurVVK49jmpB35vVhZ.jpg", group-title="PELICULAS", Sin Remordimientos (Tom Clancy’s)  | WILLPC 
-https://s12.zplayer.live/hls/,5fxcvushwcnufvsa6kce7xg6xnbz3tmumdgu3vacnpoatahyidlh2342vkia,.urlset/master.m3u8
+tvg-logo="https://image.tmdb.org/t/p/w185/s9VFcru4oAurVVK49jmpB35vVhZ.jpg", group-title="PELICULAS", Sin Remordimientos (Tom Clancy’s)  | WILLPC 
 
-#EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2021/01/uNE1KM12X3nLz7YFrqrhncCFknu-e1610567167987.jpg", group-title="PELICULAS", Fragmentos de una mujer | WILLPC 
-https://s98.upstreamcdn.co/hls/,o2up36asaaysmvk4xtrsynv4amhnvyh72boipvd4e57sjrxggbibefkbljbq,.urlset/master.m3u8
+tvg-logo="https://allcalidad.la/wp-content/uploads/2021/01/uNE1KM12X3nLz7YFrqrhncCFknu-e1610567167987.jpg", group-title="PELICULAS", Fragmentos de una mujer | WILLPC 
 
-#EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/Monster-Pets-e1621780791345.jpg", group-title="PELICULAS", Hotel Transylvania: Transformania | WILLPC
-https://s3.zplayer.live/hls/,5fxc6whswgnufvsa6l5e7bw5xn57otvyk6m63kshyc4k2rpzxddolobto3mq,.urlset/master.m3u8
+tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/Monster-Pets-e1621780791345.jpg", group-title="PELICULAS", Hotel Transylvania: Transformania | WILLPC
 
-#EXTINF:-1 tvg-logo="https://www.cuevana3.wtf/wp-content/uploads/2020/10/hard-kill-1814-poster-193x288.jpg?x90286", group-title="PELICULAS", Mercenarios de élite | WILLPC 
-https://s10.zplayer.live/hls/5fxculvawcnufvsa6kae7w6l4whc6zex2rh54dczu,7ncjmaopmsyssalk4pq,wlchmaopmsutxvo67la,.urlset/master.m3u8
+tvg-logo="https://www.cuevana3.wtf/wp-content/uploads/2020/10/hard-kill-1814-poster-193x288.jpg?x90286", group-title="PELICULAS", Mercenarios de élite | WILLPC 
 
-#EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/El-asesino-de-las-postales-e1621436237613.jpg", group-title="PELICULAS", El asesino de las postales | WILLPC 
-https://app1.zplayer.live/hls/,5fxcuhpiwgnufvsa6l4u7a4lxhlye4lquym3gppnxo77tfr4l4qhc6qntwia,.urlset/master.m3u8
+tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/El-asesino-de-las-postales-e1621436237613.jpg", group-title="PELICULAS", El asesino de las postales | WILLPC 
 
-#EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/zBrhYn8Vq46Fh3xhSW2ZVPwdgwE-e1621359775886.jpg", group-title="PELICULAS", Caos: el inicio | WILLPC
-https://s3.zplayer.live/hls/,5fxc4hxiwgnufvsa6l4u7xulxdh5bdac4oflq5jmzpd2gbkbgslg77ncg3da,.urlset/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/Corrupci%C3%B3n-e1621590433258.jpg", group-title="PELICULAS", Corrupción | WILLPC 
-https://s1.zplayer.live/hls/,5fxcsf7zwgnufvsa6l5e7b67xuntjhv64srgya57ns5vt6kmcnnme6d7tccq,.urlset/master.m3u8
+tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/zBrhYn8Vq46Fh3xhSW2ZVPwdgwE-e1621359775886.jpg", group-title="PELICULAS", Caos: el inicio | WILLPC
 
-#EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/Super-Inteligencia.jpg", group-title="PELICULAS", Super Inteligencia  | WILLPC 
-https://s11.zplayer.live/hls/,5fxcvtqcwcnufvsa6l4e7xwd4kxfgbh6dl4dkf5uqcpa3uyxkcenhc2vzaoq,.urlset/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/Yo-soy-todas-ellas-e1621436445929.jpg", group-title="PELICULAS", Yo soy todas ellas | WILLPC 
-https://s3.zplayer.live/hls/,5fxc2naxwcnufvsa6l4u7b66xclcs5siamf7p2nluk2ug6f5rubnb5r73eea,.urlset/master.m3u8
+tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/Corrupci%C3%B3n-e1621590433258.jpg", group-title="PELICULAS", Corrupción | WILLPC 
+
+
+tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/Super-Inteligencia.jpg", group-title="PELICULAS", Super Inteligencia  | WILLPC 
+
+
+tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/Yo-soy-todas-ellas-e1621436445929.jpg", group-title="PELICULAS", Yo soy todas ellas | WILLPC 
 
 
 
 
+#EXTINF:-1 tvg-logo="", group-title="PELICULAS", U-571 | WILLPC
+https://www1279.ff-03.com/token=Anw4TOnPTTYtCH9vxRaQZg/1622158638/200.93.0.0/129/c/8b/6b9d7ac97e41810399500b34dbbdc8bc-480p.mp4
+
+#EXTINF:-1 tvg-logo="", group-title="PELICULAS",  | WILLPC
 
 
 
@@ -1399,7 +1397,7 @@ https://s3.zplayer.live/hls/,5fxc2naxwcnufvsa6l4u7b66xclcs5siamf7p2nluk2ug6f5rub
 
 
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", RCN Diario
-https://vkvsd17.mycdn.me:443/hls/1311002724904.m3u8/sig/lOEC7leN0S0/expires/1622145122386/srcIp/201.211.203.72/clientType/13/srcAg/CHROME_ANDROID/mid/2857647811368/1311002724904_low/index.m3u8
+https://vkvsd41.mycdn.me:443/hls/1312119917096.m3u8/sig/ntdFFyLY6G8/expires/1622230748165/srcIp/200.93.30.68/clientType/13/srcAg/CHROME_ANDROID/mid/2858602277672/1312119917096_low/index.m3u8
 
 
 
