@@ -1204,6 +1204,8 @@ https://hyena.jawcloud.co/hls/baxpvwg4mnts7n2gmjh6ot5aj6rxndiiis45pyqdi2xu7shg7g
 
 https://app1.zplayer.live/hls/,5fxcstyuwcnufvsa6l4u7b6o4zoe2w2ygxepnloqkqvgv7nfo7elmix7kr5q,.urlset/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg", group-title="PELICULAS", 002  | SEE | WALTER
+https://fvs.io/redirector?token=Smdhcnd0U2tPL0V3NUZwSkV5eURDV3NKYWUzWE1Vcy8zNUdqQUh3UWZsS0owNmo0NVhER1lLMU1jOXpYZ0syYU1HbTUwNkR6SHA1ZXJKNENKM2g3NStsTFhyRjRXd0RqS3o2MzZVc3lERjJxVU9BL0JvQVVja0xxenR2R3JEaHp1QmNZNmx0YW1FbERhU2QrU3dUZ1A0d2VreUlqazR6LzJoRT06MzA4ZlBlMVl4Y0Vpb3cxZHU4RDU3dz09
 
 
 #EXTINF:-1 tvg-logo="", group-title="PELICULAS", submarinos | WILLPC
@@ -1211,4 +1213,8 @@ https://app1.zplayer.live/hls/,5fxcstyuwcnufvsa6l4u7b6o4zoe2w2ygxepnloqkqvgv7nfo
 
 
 
-#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", 001 RCN Diario
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", 001 RCN Diario 
+
+
+
+
