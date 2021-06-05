@@ -744,24 +744,25 @@ http://162.244.80.176:8081/abr/stream/live/livestream_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ce9a3a96e0a17bbc1e2dd075a0c49f35.png", group-title="EL SALVADOR", SOLTV
 https://rtmp.info/soltv/envivo/chunklist_w1491188662.m3u8
 
+cine
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-
+1  tvg-logo="https://adictosalatele.com/logos/golden.png", group-title="CINE", GOLDEN
+http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=golden&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenedge. png", group-title="CINE", GOLDEN EDGE
+http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=edge&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenplus.png", group-title="CINE", GOLDEN PLUS
+http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=goldenplus&f=.m3u8
+#EXTINF:-1  tvg-logo="https://twitter.com/GoldenPremierTV/photo", group-title="CINE", GOLDEN PREMIER
+http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=goldenp&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo.png", group-title="CINE", HBO
+http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hboes&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo2.png", group-title="CINE", HBO 2
+http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hbo2&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hboplus.png", group-title="CINE", HBO PLUS
+http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hboplus&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbofamily.png", group-title="CINE", HBO FAMILY
+http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hbofamily&f=.m3u8
 
 
 
@@ -1086,27 +1087,6 @@ http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=teennick&f=.m3u8
 #EXTINF:-1  group-title="Lista TV", TOONCAST
 http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tooncast&f=.m3u8
 
-cine
-#EXTINF:-
-1  tvg-logo="https://adictosalatele.com/logos/golden.png", group-title="CINE", GOLDEN
-http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=golden&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenedge. png", group-title="CINE", GOLDEN EDGE
-http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=edge&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenplus.png", group-title="CINE", GOLDEN PLUS
-http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=goldenplus&f=.m3u8
-#EXTINF:-1  tvg-logo="https://twitter.com/GoldenPremierTV/photo", group-title="CINE", GOLDEN PREMIER
-http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=goldenp&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo.png", group-title="CINE", HBO
-http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hboes&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo2.png", group-title="CINE", HBO 2
-http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hbo2&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hboplus.png", group-title="CINE", HBO PLUS
-http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hboplus&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbofamily.png", group-title="CINE", HBO FAMILY
-http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hbofamily&f=.m3u8
-
-
-
 
 
 peliculas
@@ -1136,7 +1116,6 @@ https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F
 https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
 #EXTINF:0 group-title="PELICULAS" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2 | REGIOFLIX
 https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
-
 #EXTINF:0 group-title="PELICULAS" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo | REGIOFLIX
 https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
 #EXTINF:0 group-title="PELICULAS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR1200,1600_RI_.jpg", Cindy La Regia | REGIOFLIX
@@ -1165,7 +1144,6 @@ https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 https://archive.org/download/ThSRREGIO/ThSRREGIO.mkv
 #EXTINF:0 group-title="PELICULAS" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg", Nosotros Los Nobles | REGIOFLIX  
 https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-
 #EXTINF:0 group-title="PELICULAS" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox | REGIOFLIX  
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 #EXTINF:0 group-title="PELICULAS" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus | REGIOFLIX  
@@ -1178,7 +1156,6 @@ https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 
 peliculas mias
-
 #EXTINF:-1, tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_60909ab4ac8ee_br6krBFpaYmCSglLBWRuhui7tPc.jpg", group-title="PELICULAS",Vengadores: La guerra del infinito | WILLPC
 https://storage.googleapis.com/eighth-opus-250514.appspot.com/content/P/Grandes%20estrenos/Avengers%20Infinity%20War/LAT-720%204.V.3.N.G.3.R.S_1.N.F.1.N.1.T.Y_W.4.R.mp4
 
@@ -1200,25 +1177,11 @@ https://content-na.drive.amazonaws.com/cdproxy/share/YlhJ6FiERHBQ6Qpuw8eIdVrLBCd
 #EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608c655059fc2_xOxkZGKeiasZtczCh4Yj1U7WZSh.jpg", group-title="PELICULAS", El Rehen | WILLPC
 https://content-na.drive.amazonaws.com/cdproxy/share/MSVLbc7jeM5ZCsOOt7QTKHg1Hrkl9kkegjs1mWFXsWg/nodes/HGQdbg-RTa-r1I9W2dQhEg?nonce=aTuDj1S2NUWtBeANn07xoMCnqMWHa0YkDZjL1avWpnmuQjzWegsNbH3_3ruRcFzS
 
-
 #EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608c654c0ca03_erDbN0WQfWlqt1HJwepjU4zb73V.jpg", group-title="PELICULAS", Extincion  | WILLPC
 https://content-na.drive.amazonaws.com/cdproxy/share/gMxzCd3Bg6W7W5txRPgUeB0ydPYW810QlEkcOkQpQYG/nodes/WHoOgVBWTkyaqdTbqbydmg?nonce=Ym6clLfChEQhSK0hg-ExgkTy20KmGhnLt_jC4CmMGHrIk9WUishbpuPwZlB-8D_J
 
 #EXTINF:-1 tvg-logo="https://www.pelisplay.co/storage/imagenes/posters/opt_img_608f81f06b447_dXD1hZywTqk1ak3tH5Hqfby0iUk.jpg", group-title="PELICULAS", Sahara | WILLPC
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
