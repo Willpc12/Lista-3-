@@ -1089,21 +1089,21 @@ http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=tooncast&f=.m3u8
 
 cine
 
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/golden.png",group-title="CINE", GOLDEN
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/golden.png", group-title="CINE", GOLDEN
 http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=golden&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenedge.png",group-title="CINE", GOLDEN EDGE
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenedge.png", group-title="CINE", GOLDEN EDGE
 http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=edge&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenplus.png",group-title="CINE", GOLDEN PLUS
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenplus.png", group-title="CINE", GOLDEN PLUS
 http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=goldenplus&f=.m3u8
-#EXTINF:-1  tvg-logo="https://twitter.com/GoldenPremierTV/photo",group-title="CINE", GOLDEN PREMIER
+#EXTINF:-1  tvg-logo="https://twitter.com/GoldenPremierTV/photo", group-title="CINE", GOLDEN PREMIER
 http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=goldenp&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo.png",group-title="CINE", HBO
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo.png", group-title="CINE", HBO
 http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hboes&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo2.png",group-title="CINE", HBO 2
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo2.png", group-title="CINE", HBO 2
 http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hbo2&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hboplus.png",group-title="CINE", HBO PLUS
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hboplus.png", group-title="CINE", HBO PLUS
 http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hboplus&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbofamily.png",group-title="CINE", HBO FAMILY
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbofamily.png", group-title="CINE", HBO FAMILY
 http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hbofamily&f=.m3u8
 
 
