@@ -762,7 +762,10 @@ http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hbo2&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hboplus&f=.m3u8
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbofamily.png", group-title="CINE", HBO FAMILY
 http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=hbofamily&f=.m3u8
-
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinecanal.png", group-title="CINE", CINECANAL
+http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=cinecanal&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinemax.png", group-title="CINE", CINEMAX
+http://ipeteve.com/php/SR_REGIO_9998/regio22.php?c=cinemax&f=.m3u8
 
 
 REGIO
@@ -1192,7 +1195,7 @@ will diario
 
 
 #EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/hjS9mH8KvRiGHgjk6VUZH7OT0Ng-scaled-e1622452872273.jpg.webp", group-title="PELICULAS", 001  | Cruella | WILLPC
-https://s12.zplayer.live/hls/,5fxct2nlwgnufvsa6l6e7tonx5hxbcrzktw55evo67swc5ofuon3ic44gk7q,.urlset/master.m3u8
+https://s12.zplayer.live/hls/,5fxct2nlwgnufvsa6l6e7tonx5hxbcrzktw55evo67swc5ofuontm6m4gk7q,.urlset/master.m3u8
 
 
 
