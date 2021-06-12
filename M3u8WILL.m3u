@@ -766,6 +766,32 @@ http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hbofamily&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cinecanal&f=.m3u8
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinemax.png", group-title="CINE", CINEMAX
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cinemax&f=.m3u8
+Sebastian
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/320px-Babytvv.png", group-title="SEBASTIAN", BABYTV
+http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=babytv&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/babyfirst.png", group-title="SEBASTIAN", BABY FIRST
+http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=babyfirts&f=.m3u8
+#EXTINF:-1  tvg-logo="https://twitter.com/TVBitMe/photo", group-title="SEBASTIAN", BITME
+http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=bitme&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/boomerang.png", group-title="SEBASTIAN", BOOMERANG
+http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=boomerang&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cartoonnetwork.png", group-title="SEBASTIAN", CARTOON NETWORK
+http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cartoon&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/disneyjunior.png", group-title="SEBASTIAN", DISNEY JR
+http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=disneyjr&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/disneyxd.png", group-title="SEBASTIAN", DISNEY XD
+http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=disneyxd&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/discoverykids.png", group-title="SEBASTIAN", DISCOVERY KIDS
+http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=dkids&f=.m3u8
+#EXTINF:-1  tvg-logo="https://logoeps.com/wp-content/uploads/2013/04/national-geographic-kids-vector-logo.png", group-title="SEBASTIAN", Nat Geo KIDS
+http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=natgeokids&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/nick.png", group-title="SEBASTIAN", NICK
+http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=nick&f=.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png", group-title="SEBASTIAN", NICK JR
+http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=nickjr&f=.m3u8
+
+
 
 
 REGIO
@@ -1202,12 +1228,11 @@ will diario
 #EXTINF:-1 tvg-logo="https://www.pelisplus-hd.com/wp-content/uploads/2020/10/el-submarino-8551-poster-193x288.jpg?x44350", group-title="PELICULAS", 003  | submarinos | WILLPC
 
 
+
 #EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2021/05/zBrhYn8Vq46Fh3xhSW2ZVPwdgwE-e1621359775886.jpg", group-title="PELICULAS", 001  | Chaos Walking En Prentisstown | WILLPC
 
 
 
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", 001 RCN Diario 
 https://vkvsd9.mycdn.me:443/hls/1349409507993.m3u8/sig/ZO2i5hVLK1M/srcIp/200.93.5.196/expires/1623912291433/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/2456338246553/id/1349409507993/1349409507993_low/index.m3u8
-
-
 
