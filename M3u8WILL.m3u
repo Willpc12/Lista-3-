@@ -766,13 +766,15 @@ http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=hbofamily&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cinecanal&f=.m3u8
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinemax.png", group-title="CINE", CINEMAX
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=cinemax&f=.m3u8
+
+
 Sebastian
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/320px-Babytvv.png", group-title="SEBASTIAN", BABYTV
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=babytv&f=.m3u8
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/babyfirst.png", group-title="SEBASTIAN", BABY FIRST
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=babyfirts&f=.m3u8
-#EXTINF:-1  tvg-logo="https://twitter.com/TVBitMe/photo", group-title="SEBASTIAN", BITME
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png", group-title="SEBASTIAN", BITME
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=bitme&f=.m3u8
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/boomerang.png", group-title="SEBASTIAN", BOOMERANG
 http://ipeteve.com/php/SR_REGIO_8585/regio22.php?c=boomerang&f=.m3u8
