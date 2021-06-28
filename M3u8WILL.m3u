@@ -33,6 +33,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009
 
 
 
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", PLUTOTV CIENCIA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7ebd0c18-aae5-11eb-b976-0242ac110002&sid=7ebd0c18-aae5-11eb-b976-0242ac110002&userId=
 
@@ -1245,7 +1246,7 @@ https://s3.zplayer.live/hls/5fxc6nu4wcnufvsa6kbe7vgtxdwtmdanni4x2qfvaritr27gmw4l
 https://ft33pgzx58.azcdn728.net:8443/hls/z1dzi.m3u8?s=z2oQVLxZ1J-KPNDOa8wR_A&e=1624080604
 
 
-#EXTINF: -1 tvg-id = "RCNNovelas.co" tvg-name = "RCN Novelas" tvg-country = "CO" tvg-language = "Spanish" tvg-logo = "" group-title = "Entretenimiento", Novelas RCN
+#EXTINF:-1 tvg-id="RCNNovelas.co", tvg-name="RCN Novelas", tvg-country="CO", tvg-language="Spanish", tvg-logo="", group-title="Entretenimiento", Novelas RCN
 http://209.91.213.10:8088/play/a020
 
 
