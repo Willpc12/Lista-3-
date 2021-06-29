@@ -1249,4 +1249,7 @@ https://ft33pgzx58.azcdn728.net:8443/hls/z1dzi.m3u8?s=z2oQVLxZ1J-KPNDOa8wR_A&e=1
 #EXTINF:-1 tvg-id="RCNNovelas.co", tvg-name="RCN Novelas", tvg-country="CO", tvg-language="Spanish", tvg-logo="", group-title="Entretenimiento", Novelas RCN
 http://209.91.213.10:8088/play/a020
 
+#EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="Canal RCN" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="Entertainment",Canal RCN
+http://186.101.216.211:8000/play/a09k
+
 
