@@ -313,7 +313,7 @@ https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6757caebe90a
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/12/stingray-vector-logo.png", group-title="MUSICA", STINGRAY MUSIC
 https://ott-linear-channels.stingray.com:443/190/master_768x432_500kbps.m3u8
 
-#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv-300x141.png", group-title="CANALES", MIAMI LIVE JENNY
+#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv-300x141.png", group-title="MIAMI", MIAMI LIVE JENNY
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png", group-title="MIAMI", ESTRELLA TV  
@@ -418,7 +418,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JbxMs5i.png", group-title="ARGENTINA",CHACO TV
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/byqsfg.png", group-title="MIAMI", CITY TV (TORONTO)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/220px-Citytv_logo.svg.png", group-title="USA", CITY TV (TORONTO)
 https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="MUSICA",STINGRAY QELLO CONCERTS (USA)
@@ -509,7 +509,7 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ticavisioncr.com/wp-content/uploads/2020/07/LOGO.jpg", group-title="COSTA RICA", TICAVISION
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent-mia3-2.xx.fbcdn.net/v/t1.6435-9/108594068_2976590719135164_2872445203853784766_n.png?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=oLWup02i1uYAX9f8ei6&_nc_ht=scontent-mia3-2.xx&oh=837a76bd54401bdb473e543c3a3489cc&oe=60C4A73D", group-title="REPUBLICA DOMINICANA",AMÉ 47
+#EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/do-ame-47-tv-1188-300x225.jpg", group-title="REPUBLICA DOMINICANA",AMÉ 47
 https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hufTLyq.png", group-title="REPUBLICA DOMINICANA",CARIVISION
@@ -518,8 +518,9 @@ http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="REPUBLICA DOMINICANA",CINEVISION CANAL 19 HD
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent-mia3-2.xx.fbcdn.net/v/t1.6435-9/89056505_2609485152647024_2977065278531174400_n.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=jt8YZtxcHZAAX_m_ppZ&_nc_ht=scontent-mia3-2.xx&oh=7fe25e8d06ab6246f0c6fbabd4db68bb&oe=60C64D6E", group-title="REPUBLICA DOMINICANA",DAN TV
+#EXTINF:-1 tvg-logo="http://dantv.co/wp-content/uploads/2014/04/DAN-TV-header-logo.png", group-title="REPUBLICA DOMINICANA",DAN TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg", group-title="REPUBLICA DOMINICANA",HMTV CANAL 33
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 
@@ -657,10 +658,10 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 http://k4.usastreams.com/vmtv/vmaltino/chunklist_w96786999.m3u8
 
 
-#EXTINF: -1 tvg-logo ="https://pbs.twimg.com/profile_images/1322927657143750657/lUzvdLW0_400x400.jpg",group-title="NICARAGUA", CANAL 11
+#EXTINF: -1 tvg-logo ="http://www.iptv.cvahn.com/img/canal11.png",group-title="NICARAGUA", CANAL 11
 https://cootv.cootel.com.ni:443/streams/d/SSLCH11-SD-GZN/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1364601100846968834/uGoEZzrV_400x400.jpg",group-title="NICARAGUA", CANAL 9
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",group-title="NICARAGUA", CANAL 9
 https://cootv.cootel.com.ni:443/streams/d/SSLCH09-HD-CVS/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gJQjLC4uY64nX5RDj7As24mWj35sC73ukw&usqp=CAU", group-title ="CHILE", TV MÁS + CHILE
@@ -678,7 +679,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://televisiondeleste.com/wp-content/uploads/2020/02/LOGO-DE-ESTE-TV-300x99.png", group-title="REPUBLICA DOMINICANA", TELEVISION DEL ESTE (ESTETV)
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.iptv.cvahn.com/img/chautv.jpg," group-title="MUSICA",CHAU TV
+#EXTINF:-1 tvg-logo="http://www.iptv.cvahn.com/img/chautv.jpg", group-title="MUSICA",CHAU TV
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.iptv.cvahn.com/img/cbsnew.jpg", group-title="NOTICIAS", CBS NEWS (INGLES)
@@ -696,10 +697,10 @@ https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://cdn6.aptoide.com/imgs/b/8/0/b80339aefb6bcda3041767635d13dfaf_icon.png?w=160", group-title="FRANCIA", ONE TV
 https://edge4.vedge.infomaniak.com/livecast/smil:onefmmd.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.destinationnetwork.com/images/channel_logos/notv_logo.png", group-title="USA",NEW ORLEANS TV
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/510o-769sbL.png", group-title="USA",NEW ORLEANS TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/06/newsmax-tv-logo.jpg", group-title="USA",NEWSMAX TV
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_newsmax-tv-selecciono-xchange-y-media-io-para-sus-operaciones.jpg", group-title="USA",NEWSMAX TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mU6Cq89.png", group-title="ITALIA", CANALE 21 LAZIO
@@ -727,8 +728,9 @@ https://cu.onliv3.com/livevd1/user2.m3u8
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u
 
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/ultimatemember/34/profile_photo-190x190.png?1614043182", group-title="CINE", FMTV 3 SUPER CINE
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/05/FMTV-3-CINE-A-LA-CARTA-e1621951519311.png.webp", group-title="CINE", FMTV 3 SUPER CINE
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/chunklist_w2068912765.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1134446702394523649/eRmc57cf.png", group-title="CINE", LATINOSUP
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
@@ -742,10 +744,7 @@ http://162.244.80.176:8081/abr/stream/live/livestream_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ce9a3a96e0a17bbc1e2dd075a0c49f35.png", group-title="EL SALVADOR", SOLTV
 https://rtmp.info/soltv/envivo/chunklist_w1491188662.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png", group-title="COLOMBIA",Canal Claro
-http://209.91.213.10:8088/play/a00b
-
-#EXTINF:-1 tvg-logo="https://twitter.com/Canal2Yopal/photo", group-title="COLOMBIA",Canal Dos (Ciudad de Yopal)
+#EXTINF:-1 tvg-logo="https://micanal2-tv.webnode.com.co/_files/200000003-39d3e3bc85/indias%20logo%20canal.gif", group-title="COLOMBIA",Canal Dos (Ciudad de Yopal)
 http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA",Canal RCN
@@ -757,7 +756,7 @@ http://209.91.213.10:8088/play/a027
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/320px-Claro_Sports_logo.svg.png" group-title="DEPORTES",Claro Sports
 http://209.91.213.10:8088/play/a024
 
-#EXTINF:-1 tvg-logo="http://serenotv.com/costa-rica/4colosalenvivo/" group-title="COLOMBIA",Colosal TV 
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="COLOMBIA",Colosal TV 
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 
