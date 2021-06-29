@@ -33,7 +33,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009
 
 
 
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="CANALES", PLUTOTV CIENCIA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7ebd0c18-aae5-11eb-b976-0242ac110002&sid=7ebd0c18-aae5-11eb-b976-0242ac110002&userId=
 
@@ -481,8 +480,6 @@ http://66.240.236.25:1936/cncpasto/cncpasto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://t46.90f.myftpupload.com/wp-content/uploads/2020/08/cropped-Logo-LATAM-Horizontal-solo-alfa.png", group-title="COLOMBIA",LATAM TV (Bogotà)
 https://iptv-all.lanesh4d0w.repl.co/latam
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA",RCN HD
-http://saypopular.com:25461/oscar/20gar/52262
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleantioquia.png/258px-Teleantioquia.png", group-title="COLOMBIA",TELEANTIOQUIA
 https://hdvideo2.cdn.net.co/live01/ta.m3u8
@@ -745,6 +742,41 @@ http://162.244.80.176:8081/abr/stream/live/livestream_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ce9a3a96e0a17bbc1e2dd075a0c49f35.png", group-title="EL SALVADOR", SOLTV
 https://rtmp.info/soltv/envivo/chunklist_w1491188662.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CaracolTelevisi%C3%B3n2019.png", group-title="COLOMBIA",Canal Claro
+http://209.91.213.10:8088/play/a00b
+
+#EXTINF:-1 tvg-logo="https://twitter.com/Canal2Yopal/photo", group-title="COLOMBIA",Canal Dos (Ciudad de Yopal)
+http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA",Canal RCN
+http://186.101.216.211:8000/play/a09k
+
+#EXTINF:-1 tvg-logo="https://www.karlosperu.com/wp-content/uploads/2016/10/claromusica.jpg" group-title="MUSICA",Claro Musica
+http://209.91.213.10:8088/play/a027
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/320px-Claro_Sports_logo.svg.png" group-title="DEPORTES",Claro Sports
+http://209.91.213.10:8088/play/a024
+
+#EXTINF:-1 tvg-logo="http://serenotv.com/costa-rica/4colosalenvivo/" group-title="COLOMBIA",Colosal TV 
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/4e4566e3fd35a76a38105cab3a39e30b17aa493a3ec2c262b9f63ed24d4bbb32.png" group-title="MUSICA",Melody Channel Colombia
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/640px-RCN_Novelas_logo.svg.png" group-title="COLOMBIA",RCN Novelas
+http://209.91.213.10:8088/play/a020
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/640px-WinSports2017.png" group-title="DEPORTES",Win Sports
+http://186.101.216.211:8000/play/a0cq
+
+
+
+
+
+
+
+
 cine
 
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/golden.png", group-title="CINE", GOLDEN
@@ -767,6 +799,7 @@ http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=hbofamily&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=cinecanal&f=.m3u8
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinemax.png", group-title="CINE", CINEMAX
 http://ipeteve.com/php/SR_REGIO_303033/regio22.php?c=cinemax&f=.m3u8
+
 Sebastian
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/320px-Babytvv.png", group-title="SEBASTIAN", BABYTV
@@ -1244,12 +1277,3 @@ https://s3.zplayer.live/hls/5fxc6nu4wcnufvsa6kbe7vgtxdwtmdanni4x2qfvaritr27gmw4l
 
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="COLOMBIA", 001 RCN Diario 
 https://ft33pgzx58.azcdn728.net:8443/hls/z1dzi.m3u8?s=z2oQVLxZ1J-KPNDOa8wR_A&e=1624080604
-
-
-#EXTINF:-1 tvg-id="RCNNovelas.co", tvg-name="RCN Novelas", tvg-country="CO", tvg-language="Spanish", tvg-logo="", group-title="Entretenimiento", Novelas RCN
-http://209.91.213.10:8088/play/a020
-
-#EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="Canal RCN" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="Entertainment",Canal RCN
-http://186.101.216.211:8000/play/a09k
-
-
