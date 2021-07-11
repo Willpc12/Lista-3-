@@ -183,7 +183,7 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/chunklist_w2068912765.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-ac-vision-en-vivo.jpg", group-title="CINE", ACVISION
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/245px-Atrescine_logo.svg.png", group-title="MUNDO", A3 CINE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/245px-Atrescine_logo.svg.png", group-title="CINE", A3 CINE
 https://live.atresmediainternacional.com:443/ATRESMEDIA/a3cine-480.m3u8
 
 
