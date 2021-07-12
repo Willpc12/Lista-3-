@@ -76,6 +76,8 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg", group-title="SEBASTIAN",SUPERTOONS TV
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/h3EHEUJiY9SCjzx5AS2beHaou49M9fl02JMispLvs_Bm5OIJARvM2ZpAOg9qpQjBS8k=s180-rw" group-title="SEBASTIAN",HAPPY KIDS JR
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
 
 
@@ -172,13 +174,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="CINE",CINE ROMANTICO PLUTOTV 
 https://service-stitcher.clusters.pluto.tv/v2/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=5.101.0-56e39a577437a626b149c455a567ee3bb5805b7f&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=1.0.0&country=VE&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=91.0.4472&marketingRegion=VE&serverSideAds=true&sessionID=bc5511e9-e27e-11eb-a62a-0242ac110002&sid=bc5511e9-e27e-11eb-a62a-0242ac110002&userId=
 
-
 #EXTINF:-1 tvg-logo="https://odishaexpo.com/wp-content/uploads/2020/10/UP_Entertainment_Cine_Romantico_Logo.jpg", group-title="CINE",CINE ROMANTICO
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/05/FMTV-3-CINE-A-LA-CARTA-e1621951519311.png.webp", group-title="CINE", FMTV 3 SUPER CINE
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/chunklist_w2068912765.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-ac-vision-en-vivo.jpg", group-title="CINE", ACVISION
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
@@ -186,9 +186,14 @@ https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/245px-Atrescine_logo.svg.png", group-title="CINE", A3 CINE
 https://live.atresmediainternacional.com:443/ATRESMEDIA/a3cine-480.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/05/FMTV-matriz-CLASSIC-blanco-e1621951671944.png.webp", group-title="CINE", FMTV 2 CINE
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w922024847.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/640px-Cine.Ar_logo.svg.png" group-title="CINE", CINEAR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="CINE", CINE SUREÑO
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
 
 
@@ -232,7 +237,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png", group-title="DEPORTES", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/l5fZQ3V.png", group-title= "DEPORTES", POKER TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l5fZQ3V.png", group-title= "DEPORTES", POKER TV
 http://51.210.199.17/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQdBjyx.jpg" group-title="DEPORTES",TVS WOMEN SPORTS 
@@ -264,6 +269,9 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8?sd=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6miysb8.png" group-title="NOTICIAS", 24/7 CANAL DE NOTICIAS
 https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-SjHk5gt2MQc/TWDwSqtDENI/AAAAAAAACjA/DYoOlAEqzRk/s1600/tvmarti.jpg, group-title="NOTICIAS", TV MARTI  
+https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.iptv.cvahn.com/img/cbsnew.jpg", group-title="NOTICIAS", CBS NEWS (INGLES)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
@@ -279,7 +287,6 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kady79t.jpg", group-title="NOTICIAS",  UAO Play (COLOMBIA)
 https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
  
-
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6027/240/default.jpg", group-title="NOTICIAS", RT
 https://rt-esp-gd.secure2.footprint.net:443/1102_1600Kb.m3u8
 
@@ -439,11 +446,6 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Telemax-Logo-1-7080.jpg", group-title="MUNDO", TELEMAX  
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-SjHk5gt2MQc/TWDwSqtDENI/AAAAAAAACjA/DYoOlAEqzRk/s1600/tvmarti.jpg, group-title="MUNDO", TV MARTI  
-https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/250px-DKISS_2019_logo.svg.png", group-title="MUNDO", DKISS TV  
 http://91.126.141.201:1935/live/smil:kiss/.m3u8
@@ -640,7 +642,7 @@ http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png," group-title="MUNDO",PANAMERICANA TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF: -1 tvg-logo ="http://www.iptv.cvahn.com/img/canal11.png",group-title="MUNDO", CANAL 11
+#EXTINF: -1 tvg-logo="http://www.iptv.cvahn.com/img/canal11.png",group-title="MUNDO", CANAL 11
 https://cootv.cootel.com.ni:443/streams/d/SSLCH11-SD-GZN/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",group-title="MUNDO", CANAL 9
@@ -700,23 +702,97 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="CINE", CINEAR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CINE", CINE SUREÑO
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="SEBASTIAN",HAPPY KIDS JR
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUNDO",
+#EXTINF:-1 tvg-logo="", group-title="MUNDO",
 
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDO",
+#EXTINF:-1 tvg-logo="", group-title="MUNDO",
+cine
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/golden.png", group-title="CINE", GOLDEN
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41483
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenedge.png", group-title="CINE", GOLDEN EDGE
+ 
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenplus.png", group-title="CINE", GOLDEN PLUS
+ 
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", group-title="CINE", GOLDEN PREMIER
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41484
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo.png", group-title="CINE", HBO
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41491
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo2.png", group-title="CINE", HBO 2
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41015
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hboplus.png", group-title="CINE", HBO PLUS
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41492
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbofamily.png", group-title="CINE", HBO FAMILY
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41016
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinecanal.png", group-title="CINE", CINECANAL
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41476
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinemax.png", group-title="CINE", CINEMAX
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41475
+
+
+
+
+Sebastian
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/320px-Babytvv.png", group-title="SEBASTIAN", BABYTV
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41019
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/babyfirst.png", group-title="SEBASTIAN", BABY FIRST
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png", group-title="SEBASTIAN", BITME
+
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/boomerang.png", group-title="SEBASTIAN", BOOMERANG
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41020
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cartoonnetwork.png", group-title="SEBASTIAN", CARTOON NETWORK
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40972
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/disneyjunior.png", group-title="SEBASTIAN", DISNEY JR
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41003
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/disneyxd.png", group-title="SEBASTIAN", DISNEY XD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41005
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/discoverykids.png", group-title="SEBASTIAN", DISCOVERY KIDS
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41002
+#EXTINF:-1  tvg-logo="https://logoeps.com/wp-content/uploads/2013/04/national-geographic-kids-vector-logo.png", group-title="SEBASTIAN", Nat Geo KIDS
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41022
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/nick.png", group-title="SEBASTIAN", NICK
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41004
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png", group-title="SEBASTIAN", NICK JR
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41001
+
+
+
+Deportes
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png", group-title="DEPORTES", FOX SPORT 1
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41461
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png", group-title="DEPORTES", FOX SPORT 2
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41007
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-3_m.png", group-title="DEPORTES", FOX SPORT 3
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41467
+#EXTINF:-1 tvg-logo="https://www.mlbstatic.com/team-logos/league-on-dark/1.svg", group-title="DEPORTES", MLB
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41463
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2020/12/nba-800x419.jpg", group-title="DEPORTES", NBA
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41464
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/an/thumb/c/c7/Logo_Real_Madrid.svg/428px-Logo_Real_Madrid.svg.png", group-title="DEPORTES", REALMADRID
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41466
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" , group-title="DEPORTES", ESPN 1
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41468
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png", group-title="DEPORTES", ESPN 2
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41470
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg", group-title="DEPORTES", ESPN 3
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41008
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png", group-title="DEPORTES", ESPN EXTRA
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41469
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2041px-Claro_Sports_logo.svg.png" , group-title="DEPORTES", CLARO SPORT
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41011
+#EXTINF:-1 tvg-logo="https://roc21cdn-roc21.netdna-ssl.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg", group-title="DEPORTES ", TUDN MEXICO 
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40968
+
+
+
 
 REGIO
 
@@ -975,85 +1051,6 @@ http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41504
 
 
 
-cine
-
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/golden.png", group-title="CINE", GOLDEN
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41483
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenedge.png", group-title="CINE", GOLDEN EDGE
- 
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenplus.png", group-title="CINE", GOLDEN PLUS
- 
-#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", group-title="CINE", GOLDEN PREMIER
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41484
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo.png", group-title="CINE", HBO
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41491
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo2.png", group-title="CINE", HBO 2
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41015
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hboplus.png", group-title="CINE", HBO PLUS
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41492
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbofamily.png", group-title="CINE", HBO FAMILY
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41016
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinecanal.png", group-title="CINE", CINECANAL
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41476
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinemax.png", group-title="CINE", CINEMAX
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41475
-
-
-
-
-Sebastian
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/320px-Babytvv.png", group-title="SEBASTIAN", BABYTV
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41019
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/babyfirst.png", group-title="SEBASTIAN", BABY FIRST
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png", group-title="SEBASTIAN", BITME
-
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/boomerang.png", group-title="SEBASTIAN", BOOMERANG
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41020
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cartoonnetwork.png", group-title="SEBASTIAN", CARTOON NETWORK
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40972
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/disneyjunior.png", group-title="SEBASTIAN", DISNEY JR
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41003
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/disneyxd.png", group-title="SEBASTIAN", DISNEY XD
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41005
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/discoverykids.png", group-title="SEBASTIAN", DISCOVERY KIDS
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41002
-#EXTINF:-1  tvg-logo="https://logoeps.com/wp-content/uploads/2013/04/national-geographic-kids-vector-logo.png", group-title="SEBASTIAN", Nat Geo KIDS
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41022
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/nick.png", group-title="SEBASTIAN", NICK
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41004
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png", group-title="SEBASTIAN", NICK JR
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41001
-
-
-
-Deportes
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png", group-title="DEPORTES", FOX SPORT 1
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41461
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png", group-title="DEPORTES", FOX SPORT 2
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41007
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-3_m.png", group-title="DEPORTES", FOX SPORT 3
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41467
-#EXTINF:-1 tvg-logo="https://www.mlbstatic.com/team-logos/league-on-dark/1.svg", group-title="DEPORTES", MLB
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41463
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2020/12/nba-800x419.jpg", group-title="DEPORTES", NBA
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41464
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/an/thumb/c/c7/Logo_Real_Madrid.svg/428px-Logo_Real_Madrid.svg.png", group-title="DEPORTES", REALMADRID
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41466
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" , group-title="DEPORTES", ESPN 1
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41468
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png", group-title="DEPORTES", ESPN 2
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41470
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg", group-title="DEPORTES", ESPN 3
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41008
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png", group-title="DEPORTES", ESPN EXTRA
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41469
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2041px-Claro_Sports_logo.svg.png", group-title="DEPORTES", CLARO SPORT
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41011
-#EXTINF:-1 tvg-logo="https://roc21cdn-roc21.netdna-ssl.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg", group-title="DEPORTES ", TUDN MEXICO 
-http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40968
 
 
 
