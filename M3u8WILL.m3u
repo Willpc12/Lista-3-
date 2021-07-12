@@ -697,7 +697,7 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/640px-RCN_Novelas_logo.svg.png" group-title="MUNDO",RCN Novelas
 http://209.91.213.10:8088/play/a020
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDO", CINCO TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQwTwR0bGSfZ9ye-Ouk0xkjkr21uFMJHLsqueb1_Q=s88-c-k-c0x00ffffff-no-rj" group-title="MUNDO", CINCO TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
@@ -772,7 +772,7 @@ http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41461
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41007
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-3_m.png", group-title="DEPORTES", FOX SPORT 3
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41467
-#EXTINF:-1 tvg-logo="https://www.mlbstatic.com/team-logos/league-on-dark/1.svg", group-title="DEPORTES", MLB
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zzGOP2JFL._AC_UL160_.jpg", group-title="DEPORTES", MLB
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41463
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2020/12/nba-800x419.jpg", group-title="DEPORTES", NBA
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41464
