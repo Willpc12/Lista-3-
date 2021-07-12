@@ -1040,7 +1040,7 @@ http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41467
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41463
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2020/12/nba-800x419.jpg", group-title="DEPORTES", NBA
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41464
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/an/thumb/c/c7/Logo_Real_Madrid.svg/428px-Logo_Real_Madrid.svg.png", group-title="DEPORTES", REALMADRID
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/an/thumb/c/c7/Logo_Real_Madrid.svg/428px-Logo_Real_Madrid.svg.png", group-title="DEPORTES", REALMADRID
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41466
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" , group-title="DEPORTES", ESPN 1
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41468
@@ -1050,7 +1050,7 @@ http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41470
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41008
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png", group-title="DEPORTES", ESPN EXTRA
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41469
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2041px-Claro_Sports_logo.svg.png" , group-title="DEPORTES", CLARO SPORT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2041px-Claro_Sports_logo.svg.png", group-title="DEPORTES", CLARO SPORT
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41011
 #EXTINF:-1 tvg-logo="https://roc21cdn-roc21.netdna-ssl.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg", group-title="DEPORTES ", TUDN MEXICO 
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=40968
