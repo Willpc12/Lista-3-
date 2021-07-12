@@ -695,9 +695,28 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/640px-RCN_Novelas_logo.svg.png" group-title="MUNDO",RCN Novelas
 http://209.91.213.10:8088/play/a020
 
+#EXTINF:-1 tvg-logo="" group-title="MUNDO", CINCO TV
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="CINE", CINEAR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CINE", CINE SUREÑO
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="SEBASTIAN",HAPPY KIDS JR
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDO",
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDO",
 
 REGIO
 
@@ -1067,7 +1086,6 @@ will diario
 
 
 #EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2021/04/Nobody-scaled-e1618938594805.jpg", group-title="PELICULAS", 001  | Nadie   | WILLPC
-https://s3.zplayer.live/hls/5fxc6nu4wcnufvsa6kbe7vgtxdwtmdanni4x2qfvaritr27gmw4lrybblawq/index-v1-a1.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="MUNDO", 001 RCN Diario 
