@@ -137,6 +137,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="PLUTOTV", REALITY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=f9646c3d-aaa5-11eb-8d47-0242ac110002&sid=f9646c3d-aaa5-11eb-8d47-0242ac110002&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.0.3&h=96&w=150&q=75&dpr=1", group-title="PLUTOTV", VIAJES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="PLUTOTV", ESTRELLAS DE ACCION
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d70c256e-ac3f-11eb-a2fe-0242ac110002&sid=d70c256e-ac3f-11eb-a2fe-0242ac110002&userId=
 
@@ -700,12 +703,15 @@ http://209.91.213.10:8088/play/a020
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQwTwR0bGSfZ9ye-Ouk0xkjkr21uFMJHLsqueb1_Q=s88-c-k-c0x00ffffff-no-rj" group-title="MUNDO", CINCO TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/245px-Logo_Univision_2019.svg.png", group-title="MUNDO", UNIVISION
+https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="", group-title="MUNDO",
+
+
 
 
 
@@ -957,11 +963,140 @@ http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41063
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41064
 #EXTINF:-1 tvg-id="" tvg-logo="ESPA: TNT" tvg-logo="" tvg-logo="ESPAÃ‘A  SRREGIO.NET ",ESPA: TNT
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41065
+#EXTINF:-1 tvg-id="" tvg-logo="ESPA: TAQ 6" tvg-logo="" tvg-logo="ESPAÃ‘A  SRREGIO.NET ",ESPA: TAQ 6
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41066
+#EXTINF:-1 tvg-id="" tvg-logo="ESPA: TAQ 5" tvg-logo="" tvg-logo="ESPAÃ‘A  SRREGIO.NET ",ESPA: TAQ 5
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41067
+#EXTINF:-1 tvg-id="" tvg-logo="ESPA: TAQ 4" tvg-logo="" tvg-logo="ESPAÃ‘A  SRREGIO.NET ",ESPA: TAQ 4
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41068
+#EXTINF:-1 tvg-id="" tvg-logo="ESPA: TAQ 3" tvg-logo="" tvg-logo="ESPAÃ‘A  SRREGIO.NET ",ESPA: TAQ 3
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41069
+#EXTINF:-1 tvg-id="" tvg-logo="ESPA: TAQ 2" tvg-logo="" tvg-logo="ESPAÃ‘A  SRREGIO.NET ",ESPA: TAQ 2
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41070
+#EXTINF:-1 tvg-id="" tvg-logo="ESPA: TAQ 1" tvg-logo="" tvg-logo="ESPAÃ‘A  SRREGIO.NET ",ESPA: TAQ 1
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41071
 #EXTINF:-1 tvg-id="" tvg-logo="ESPA: SYFY HD" tvg-logo="" tvg-logo="ESPAÃ‘A  SRREGIO.NET ",ESPA: SYFY HD
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41072
 #EXTINF:-1 tvg-id="" tvg-logo="ESPA: SERIES HD" tvg-logo="" tvg-logo="ESPAÃ‘A  SRREGIO.NET ",ESPA: SERIES HD
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41073
-
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 POWER RANGERS" tvg-logo="http://ui.mrzutv.net:8080/images/2679fa10fc8cd7b25141befbeb9606e9.png" tvg-logo="24/7 mrzutv.net sss",24/7 POWER RANGERS
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=303
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 ROBOTECH" tvg-logo="http://ui.mrzutv.net:8080/images/3e24e9e5fd8766664d12dfec17c235f6.png" tvg-logo="24/7 mrzutv.net sss",24/7 ROBOTECH
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=304
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 SAILOR MOON" tvg-logo="https://w7.pngwing.com/pngs/641/622/png-transparent-sailor-moon-musicals-chibiusa-tuxedo-mask-sailor-mercury-fair-work-text-logo-sailor-mercury.png" tvg-logo="24/7 mrzutv.net sss",24/7 SAILOR MOON
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=305
+#EXTINF:-1 tvg-id="" tvg-logo="24/7  LOS SIMPSON" tvg-logo="http://ui.mrzutv.net:8080/images/2f5b6147106b070e0406e56efd1d067e.png" tvg-logo="24/7 mrzutv.net sss",24/7  LOS SIMPSON
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=307
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 SMALLVILLE" tvg-logo="http://ui.mrzutv.net:8080/images/7f0d3e708da0dd2a224bce0a5792068e.png" tvg-logo="24/7 mrzutv.net sss",24/7 SMALLVILLE
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=308
+#EXTINF:-1 tvg-id="" tvg-logo="24/7  SOUTH PARK" tvg-logo="http://ui.mrzutv.net:8080/images/a49e7b2a655d0e2e7c6c980de37691e1.png" tvg-logo="24/7 mrzutv.net sss",24/7  SOUTH PARK
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=309
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 SPIDER-MAN" tvg-logo="http://ui.mrzutv.net:8080/images/06ec361ec6044e62c15ca8be56ee9f02.png" tvg-logo="24/7 mrzutv.net sss",24/7 SPIDER-MAN
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=310
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 STRANGER THINGS" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/05/Stranger-Things-Logo.png" tvg-logo="24/7 mrzutv.net sss",24/7 STRANGER THINGS
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=311
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 SUPER CAMPEONES" tvg-logo="http://ui.mrzutv.net:8080/images/b8d018e1d82ae9d53e15e00a0f66c86b.png" tvg-logo="24/7 mrzutv.net sss",24/7 SUPER CAMPEONES
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=312
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 Peliculas de terror" tvg-logo="https://f0.pngfuel.com/png/961/734/terror-logo-png-clip-art-thumbnail.png" tvg-logo="24/7 mrzutv.net sss",24/7 Peliculas de terror
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=313
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 THUNDERCAST" tvg-logo="http://ui.mrzutv.net:8080/images/cd2366373823a341c6c9fbedc6585d5c.png" tvg-logo="24/7 mrzutv.net sss",24/7 THUNDERCAST
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=314
+#EXTINF:-1 tvg-id="" tvg-logo="24/7  THE WALKING DEAD" tvg-logo="http://ui.mrzutv.net:8080/images/77f9efb17d96fb6ed8a3d831ad313a14.png" tvg-logo="24/7 mrzutv.net sss",24/7  THE WALKING DEAD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=315
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 BARNY Y SUS AMIGOS" tvg-logo="http://176.9.51.86:8080/images/9ebdfee2487de7d284d8f1d703fbd211.png" tvg-logo="24/7 mrzutv.net sss",24/7 BARNY Y SUS AMIGOS
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=316
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 BOB ESPONJA" tvg-logo="http://176.9.51.86:8080/images/3e68abad70ea868d332899e0f9a7133f.png" tvg-logo="24/7 mrzutv.net sss",24/7 BOB ESPONJA
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=317
+#EXTINF:-1 tvg-id="" tvg-logo="24/7  CAILLOU" tvg-logo="http://ui.mrzutv.net:8080/images/ebd69793a9dcd9fde617c8d10e835c79.png" tvg-logo="24/7 mrzutv.net sss",24/7  CAILLOU
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=318
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 EL COYOTE Y CORRE CAMINOS" tvg-logo="http://ui.mrzutv.net:8080/images/dc67663de8bd7a2643df33eec231e1bc.png" tvg-logo="24/7 mrzutv.net sss",24/7 EL COYOTE Y CORRE CAMINOS
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=319
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="http://ui.mrzutv.net:8080/images/e078b425b65ad4c83189646a89e9acef.png" tvg-logo="24/7 mrzutv.net sss",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=320
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 HAPPY TREE FRIENDS" tvg-logo="http://ui.mrzutv.net:8080/images/b8360d3687c840438370cdb00af3c3b8.png" tvg-logo="24/7 mrzutv.net sss",24/7 HAPPY TREE FRIENDS
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=321
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 LA RISA EN VACIONES" tvg-logo="http://ui.mrzutv.net:8080/images/f34b890d3dc9245b8655203c20190d2a.png" tvg-logo="24/7 mrzutv.net sss",24/7 LA RISA EN VACIONES
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=322
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 LAZY TOWN" tvg-logo="https://i.ibb.co/34Pp8yr/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 LAZY TOWN
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=323
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 LA PANTERA ROSA" tvg-logo="https://i.ibb.co/6ymPCPb/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 LA PANTERA ROSA
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=325
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 PEPPA PIG" tvg-logo="https://i.ibb.co/MnsgDgb/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 PEPPA PIG
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=326
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 LA HORA PICO" tvg-logo="https://i.ibb.co/02xSdK6/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 LA HORA PICO
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=327
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 HÃ‰ROES EN PIJAMAS" tvg-logo="https://i.ibb.co/7GKncLG/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 HÃ‰ROES EN PIJAMAS
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=328
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 Shark Tank MÃ©xico TEP 2" tvg-logo="https://i.ibb.co/MPjTH94/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 Shark Tank MÃ©xico TEP 2
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=329
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 Shark Tank MÃ©xico TEP 1" tvg-logo="https://i.ibb.co/MPjTH94/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 Shark Tank MÃ©xico TEP 1
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=330
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 XMEN ANIME" tvg-logo="https://i.ibb.co/rfw9JT7/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 XMEN ANIME
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=331
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 BREAKING  BAD" tvg-logo="https://i.ibb.co/cYcjH1p/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 BREAKING  BAD
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=332
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 CABALLEROS DEL ZODIACO" tvg-logo="https://i.ibb.co/5TD73SK/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 CABALLEROS DEL ZODIACO
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=333
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 LA CASA DE PAPEL" tvg-logo="https://i.ibb.co/C7x8Kkn/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 LA CASA DE PAPEL
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=334
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 EL CHAVO DEL 8" tvg-logo="https://i.ibb.co/sbr2tXn/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 EL CHAVO DEL 8
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=335
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 EL CHEMA" tvg-logo="https://i.ibb.co/n7K614v/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 EL CHEMA
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=336
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 EL SEÃ‘OR DE LOS CIELOS" tvg-logo="https://i.ibb.co/Pzw8gnq/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 EL SEÃ‘OR DE LOS CIELOS
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=337
+#EXTINF:-1 tvg-id="" tvg-logo="24/7  CORAJE EL PERRO COBARDE" tvg-logo="https://i.ibb.co/xswdnRV/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7  CORAJE EL PERRO COBARDE
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=338
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 CSI: MIAMI" tvg-logo="https://i.ibb.co/XJv3tmW/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 CSI: MIAMI
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=339
+#EXTINF:-1 tvg-id="" tvg-logo="24/7  CUENTRO GREEM" tvg-logo="https://i.ibb.co/0mszb5j/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7  CUENTRO GREEM
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=340
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 DRAGON BALL SUPER" tvg-logo="https://i.ibb.co/KDncQrT/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 DRAGON BALL SUPER
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=341
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 ALF" tvg-logo="http://176.9.51.86:8080/images/d3953c357517751ced51ebf3230cd8f3.png" tvg-logo="24/7 mrzutv.net sss",24/7 ALF
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=342
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 SHERA" tvg-logo="https://i.ibb.co/wQyzP8j/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 SHERA
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=343
+#EXTINF:-1 tvg-id="" tvg-logo="24/7  DINOSAURIOS 1991" tvg-logo="https://i.ibb.co/2N0DH83/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7  DINOSAURIOS 1991
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=344
+#EXTINF:-1 tvg-id="" tvg-logo="24/7  DRAGON BALL 1984" tvg-logo="https://i.ibb.co/hFSJD4J/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7  DRAGON BALL 1984
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=345
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 DRAGON BALL GT 1996" tvg-logo="https://i.ibb.co/n3RZgJy/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 DRAGON BALL GT 1996
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=346
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 DRAGON BALL Z 1989" tvg-logo="https://i.ibb.co/MccZXRD/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 DRAGON BALL Z 1989
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=347
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 EL CHAPULIN COLORADO" tvg-logo="https://i.ibb.co/N6GHxhG/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 EL CHAPULIN COLORADO
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=348
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 EL PATRON DEL MAL " tvg-logo="https://i.ibb.co/fnBGGZG/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 EL PATRON DEL MAL 
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=349
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 PELICULAS ESTRENOS 2018" tvg-logo="https://i.ibb.co/7V6B8Kn/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 PELICULAS ESTRENOS 2018
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=350
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 FUTURAMA 1999" tvg-logo="https://i.ibb.co/0FhLJMz/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 FUTURAMA 1999
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=351
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 JUEGO DE TRONOS" tvg-logo="https://i.ibb.co/MSLsDJQ/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 JUEGO DE TRONOS
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=352
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 He-Man" tvg-logo="https://i.ibb.co/TP83hcn/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 He-Man
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=353
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 LA ROSA DE GUADALUPE" tvg-logo="https://i.ibb.co/0G8bPFb/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 LA ROSA DE GUADALUPE
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=354
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 LOS LOCOS ADDAMS" tvg-logo="https://i.ibb.co/VH2Q9Cm/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 LOS LOCOS ADDAMS
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=355
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 LA FAMILIA MONSTERS 1964" tvg-logo="https://i.ibb.co/QQ1kTMM/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 LA FAMILIA MONSTERS 1964
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=356
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 LUIS MIGUEL LA SERIE 2018" tvg-logo="https://i.ibb.co/d46Lb8Z/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 LUIS MIGUEL LA SERIE 2018
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=357
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 Malcolm in the middle 2000" tvg-logo="https://i.ibb.co/f8Sc1h6/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 Malcolm in the middle 2000
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=358
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 AÃ‘OS MARAVILLOSOS 1988" tvg-logo="https://i.ibb.co/sFXV1Qn/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 AÃ‘OS MARAVILLOSOS 1988
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=359
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 Mazinger Z" tvg-logo="https://i.ibb.co/3kppzZ1/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 Mazinger Z
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=360
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 Naruto" tvg-logo="https://i.ibb.co/7NWNKJJ/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 Naruto
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=361
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 PINKY y CEREBRO" tvg-logo="https://i.ibb.co/1nMBxwn/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 PINKY y CEREBRO
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=362
+#EXTINF:-1 tvg-id="" tvg-logo="24/7 PokÃ©mon" tvg-logo="https://i.ibb.co/vdf4ht2/Sin-t-tulo-1.png" tvg-logo="24/7 mrzutv.net sss",24/7 PokÃ©mon
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=363
 #EXTINF:-1 tvg-id="" tvg-logo="SD: UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png" tvg-logo="ENTRETENIMIENTO",SD: UNIVERSO
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41452
 #EXTINF:-1 tvg-id="" tvg-logo="fox sport 1" tvg-logo="" tvg-logo="DEPORTES  SRREGIO.NET ",fox sport 1
@@ -1048,6 +1183,8 @@ http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41502
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41503
 #EXTINF:-1 tvg-id="" tvg-logo="TOONCAST" tvg-logo="" tvg-logo="KIDS",TOONCAST
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41504
+
+
 
 
 
