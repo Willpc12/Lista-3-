@@ -212,7 +212,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://odishaexpo.com/wp-content/uploads/2020/10/UP_Entertainment_Cine_Romantico_Logo.jpg", group-title="CINE", Cine Romantico (XUMO)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinecanal.png" group-title="CINE",CineCanal (Bogotà)
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinecanal.png" group-title="CINE",CINECANAL (Bogotà)
 http://186.101.216.211:8000/play/a06e
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="CINE", CINE SUREÑO
@@ -778,7 +778,7 @@ http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=cinecanal&f=.m3u8
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinemax.png", group-title="CINE", CINEMAX
 http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=cinemax&f=.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png", group-title="CINE", FOX CHANNEL
-http://ipeteve.com/php/SR_REGIO_35857/regio22.php?c=starch&f=.m3u8
+https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
 
 
 
@@ -1162,7 +1162,6 @@ will diario
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="MUNDO", 001 RCN Diario 
-
 
 
 
