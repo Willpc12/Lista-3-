@@ -77,6 +77,15 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg", group-title="SEBASTIAN",SUPERTOONS TV
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/kids-hqm-logo.png", group-title="SEBASTIAN", HQM KIDS
+https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/a3IuY28uc21hcnRzdHVkeS5waW5rZm9uZ3R2X2FuZHJvaWRfZ29vZ2xlbWFya2V0X2ljb25fMTYxNzc5MjM1MV8wODY/icon.png?w=170&fakeurl=1", group-title="SEBASTIAN", BABY SHARK TV
+https://newidco-babysharktv-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/kr-ebs-kids-2560.jpg", group-title="SEBASTIAN", EBS KIDS 
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/h3EHEUJiY9SCjzx5AS2beHaou49M9fl02JMispLvs_Bm5OIJARvM2ZpAOg9qpQjBS8k=s180-rw" group-title="SEBASTIAN",HAPPY KIDS JR
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
@@ -141,6 +150,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.0.3&h=96&w=150&q=75&dpr=1", group-title="PLUTOTV", VIAJES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="PLUTOTV", FAILARMY
+https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="PLUTOTV", ESTRELLAS DE ACCION
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d70c256e-ac3f-11eb-a2fe-0242ac110002&sid=d70c256e-ac3f-11eb-a2fe-0242ac110002&userId=
 
@@ -195,6 +208,12 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w922024847.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/640px-Cine.Ar_logo.svg.png" group-title="CINE", CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://odishaexpo.com/wp-content/uploads/2020/10/UP_Entertainment_Cine_Romantico_Logo.jpg", group-title="CINE", Cine Romantico (XUMO)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinecanal.png" group-title="CINE",CineCanal (Bogotà)
+http://186.101.216.211:8000/play/a06e
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="CINE", CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
@@ -265,6 +284,13 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/150px-WinSports2017.png", group-title="DEPORTES",Win Sports	
 http://186.101.216.211:8000/play/a0cq
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN (USA)
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" group-title="DEPORTES",ESPN 2 (USA)
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/200px-Win_Sports%2B_logo.svg.png" group-title="DEPORTES",Win Sports +	
 http://186.101.216.211:8000/play/g07j
 
@@ -301,6 +327,12 @@ https://rt-esp-gd.secure2.footprint.net:443/1102_1600Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ob9ss3.jpg" group-title="NOTICIAS", EL PINGÜINO TV (CHILE)
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/axndhJe.jpg", group-title="NOTICIAS", CNN CHILE
+http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/CBS_News_logo.png/640px-CBS_News_logo.png", group-title="NOTICIAS", CBS NEWS
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Noticias_Caracol_2017.svg/revision/latest/scale-to-width-down/200?cb=20200209024421&path-prefix=es", group-title="NOTICIAS", CARACOL NOTICIAS
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
@@ -709,20 +741,15 @@ http://209.91.213.10:8088/play/a020
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQwTwR0bGSfZ9ye-Ouk0xkjkr21uFMJHLsqueb1_Q=s88-c-k-c0x00ffffff-no-rj" group-title="MUNDO", CINCO TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2pmSiXQcjhg/XbI0Q6gvXQI/AAAAAAAArqY/k_Qak4p83D8p-9bdpIILVGGjBXTTGffKQCK8BGAsYHg/s0/2019-10-24.png", group-title="MUNDO", ZEE MUNDO
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/200px-Logotrececanal.png", group-title="MUNDO",TRECE PARAGUAY
+http://174.138.118.252/live/trece.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/245px-Logo_Univision_2019.svg.png", group-title="MUNDO", UNIVISION
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="", group-title="MUNDO",
-
-
-#EXTINF:-1 tvg-logo="", group-title="MUNDO",
-
-
-#EXTINF:-1 tvg-logo="", group-title="MUNDO",
-
-
-#EXTINF:-1 tvg-logo="", group-title="MUNDO",
 
 
 
@@ -1230,43 +1257,12 @@ will diario
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2pmSiXQcjhg/XbI0Q6gvXQI/AAAAAAAArqY/k_Qak4p83D8p-9bdpIILVGGjBXTTGffKQCK8BGAsYHg/s0/2019-10-24.png", group-title="MUNDO", ZEE MUNDO
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/200px-Logotrececanal.png", group-title="MUNDO",TRECE PARAGUAY
-http://174.138.118.252/live/trece.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/axndhJe.jpg", group-title="NOTICIAS", CNN
-http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/CBS_News_logo.png/640px-CBS_News_logo.png", group-title="NOTICIAS", CBS NEWS
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/kids-hqm-logo.png", group-title="SEBASTIAN", HQM KIDS
-https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/a3IuY28uc21hcnRzdHVkeS5waW5rZm9uZ3R2X2FuZHJvaWRfZ29vZ2xlbWFya2V0X2ljb25fMTYxNzc5MjM1MV8wODY/icon.png?w=170&fakeurl=1", group-title="SEBASTIAN", BABY SHARK TV
-https://newidco-babysharktv-1.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/kr-ebs-kids-2560.jpg", group-title="SEBASTIAN", EBS KIDS 
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://odishaexpo.com/wp-content/uploads/2020/10/UP_Entertainment_Cine_Romantico_Logo.jpg", group-title="CINE", Cine Romantico (XUMO)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="United States",CineCanal (Bogotà)
-http://186.101.216.211:8000/play/a06e
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN (USA)
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" group-title="DEPORTES",ESPN 2 (USA)
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="PLUTOTV", FAILARMY
-https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8
+
 
 
 
