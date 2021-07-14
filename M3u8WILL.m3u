@@ -1213,13 +1213,3 @@ will diario
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="MUNDO", 001 RCN Diario 
 
-
-
-#EXTINF: -1 tvg-id="discovery.turbo.gb" tvg-name="UK232:Discovery TURBO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK232DiscoveryTURBOHD.png" group-title="UK Doc", UK232:Discovery TURBO HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28827
-#EXTINF: -1 tvg-id="dmax.gb" tvg-name="UK233:DMAX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK233DMAXHD.png" group-title="UK Doc", UK233:DMAX HD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28826
-#EXTINF: -1 tvg-id="h2.gb" tvg-name="UK250:H2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK250H2FHD.png" group-title="UK Doc", UK250:H2 FHD
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28809
-#EXTINF: -1 tvg-id="national.geographic.wild.gb" tvg-name="UK276:NAT GEO WILD FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK276NATGEOWILDFHD.png" group-title="UK Doc", UK276:NAT GEO WILD FHD
-
