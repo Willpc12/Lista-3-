@@ -1217,18 +1217,3 @@ will diario
 
 
 
-#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/b/3/csm_511-941_import_12632a7631.png" group-title="COLOMBIA",RCN
-http://tvnext.biz:25462/live/gerard/gerard/4002.rtmp
-
-#EXTINF:-1 tvg-logo="https://colombia.mom-rsf.org/typo3temp/_processed_/b/3/csm_511-941_import_12632a7631.png" group-title="COLOMBIA",RCN
-http://tvnext.biz:25462/live/Puma/Puma/4002.rtmp
-
-
-#EXTINF:-1 tvg-logo="https://tejanonation.files.wordpress.com/2015/06/unimas.png" group-title="COLOMBIA",Unimas
-http://tvnext.biz:25462/live/Puma/Puma/3795.rtmp
-
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/unvso.png" group-title="COLOMBIA",Universo
-http://tvnext.biz:25462/live/gerard/gerard/3757.rtmp
-
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/unvso.png" group-title="COLOMBIA",Universo
-http://tvnext.biz:25462/live/Puma/Puma/3757.rtmp
