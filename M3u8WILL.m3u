@@ -55,6 +55,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0ec7b
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="SEBASTIAN", BABAR PLUTOTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=707237ea-b27c-11eb-8aa5-0242ac110002&sid=707237ea-b27c-11eb-8aa5-0242ac110002&userId=
+
 #EXTINF:-1 tvg-logo="https://centrocomercialhollywood.com/wp-content/uploads/2019/07/Logo-Planet-Kids-300x300.png", group-title="SEBASTIAN", PLANETA KIDS (ESPAÑA)
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com:443/manifest/1200.m3u8
 
@@ -261,6 +262,11 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES",TNT SPORTS 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/150px-WinSports2017.png", group-title="DEPORTES",Win Sports	
+http://186.101.216.211:8000/play/a0cq
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/200px-Win_Sports%2B_logo.svg.png" group-title="DEPORTES",Win Sports +	
+http://186.101.216.211:8000/play/g07j
 
 
 
@@ -694,7 +700,7 @@ http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="MUNDO",Canal RCN
 http://186.101.216.211:8000/play/a09k
 
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="MUNDO",Colosal TV 
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="MUNDO",COLOSAL TV 
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/640px-RCN_Novelas_logo.svg.png" group-title="MUNDO",RCN Novelas
@@ -707,16 +713,19 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
 
 
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="", group-title="MUNDO",
 
 
 #EXTINF:-1 tvg-logo="", group-title="MUNDO",
+
+
+#EXTINF:-1 tvg-logo="", group-title="MUNDO",
+
+
+#EXTINF:-1 tvg-logo="", group-title="MUNDO",
+
+
+
 cine
 
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/golden.png", group-title="CINE", GOLDEN
@@ -740,6 +749,8 @@ http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41476
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinemax.png", group-title="CINE", CINEMAX
 http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41475
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png", group-title="CINE", FOX CHANNEL
+https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
 
 
 
@@ -1213,6 +1224,49 @@ will diario
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="MUNDO", 001 RCN Diario 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2pmSiXQcjhg/XbI0Q6gvXQI/AAAAAAAArqY/k_Qak4p83D8p-9bdpIILVGGjBXTTGffKQCK8BGAsYHg/s0/2019-10-24.png", group-title="MUNDO", ZEE MUNDO
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/200px-Logotrececanal.png", group-title="MUNDO",TRECE PARAGUAY
+http://174.138.118.252/live/trece.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/axndhJe.jpg", group-title="NOTICIAS", CNN
+http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/CBS_News_logo.png/640px-CBS_News_logo.png", group-title="NOTICIAS", CBS NEWS
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/kids-hqm-logo.png", group-title="SEBASTIAN", HQM KIDS
+https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/a3IuY28uc21hcnRzdHVkeS5waW5rZm9uZ3R2X2FuZHJvaWRfZ29vZ2xlbWFya2V0X2ljb25fMTYxNzc5MjM1MV8wODY/icon.png?w=170&fakeurl=1", group-title="SEBASTIAN", BABY SHARK TV
+https://newidco-babysharktv-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/kr-ebs-kids-2560.jpg", group-title="SEBASTIAN", EBS KIDS 
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://odishaexpo.com/wp-content/uploads/2020/10/UP_Entertainment_Cine_Romantico_Logo.jpg", group-title="CINE", Cine Romantico (XUMO)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="United States",CineCanal (Bogotà)
+http://186.101.216.211:8000/play/a06e
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN (USA)
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" group-title="DEPORTES",ESPN 2 (USA)
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="PLUTOTV", FAILARMY
+https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8
 
 
 
