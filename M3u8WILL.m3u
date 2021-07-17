@@ -845,12 +845,6 @@ http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=cinemax&f=.m3u8
 
 
 
-Sebastian
-
-
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/babyfirst.png", group-title="SEBASTIAN", BABY FIRST
-http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=babyfirst&f=.m3u8
-
 
 
 
@@ -869,9 +863,8 @@ http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=espn1mx&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=espn2mx&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg", group-title="DEPORTES", ESPN 3 (ESPAÑOL)
 http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=espn2mx&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png", group-title="DEPORTES", ESPN EXTRA (ESPAÑOL)
   #EXTINF:-1 tvg-logo="https://roc21cdn-roc21.netdna-ssl.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg", group-title="DEPORTES ", TUDN MEXICO 
-http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=univisiondeportes&f=.m3u8
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=tudn&f=.m3u8
 
 REGIO
 
