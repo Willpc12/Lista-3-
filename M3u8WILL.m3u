@@ -825,25 +825,21 @@ ________________________________________________________________________________
 cine
 
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/golden.png", group-title="CINE", GOLDEN
-
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=golden&f=.m3u8
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenedge.png", group-title="CINE", GOLDEN EDGE
-
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=goldenedge&f=.m3u8
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenplus.png", group-title="CINE", GOLDEN PLUS
- 
-#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", group-title="CINE", GOLDEN PREMIER
-
+ http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=goldenplus&f=.m3u8
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo.png", group-title="CINE", HBO
-
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=hbo&f=.m3u8
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo2.png", group-title="CINE", HBO 2
-
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=hbo2&f=.m3u8
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hboplus.png", group-title="CINE", HBO PLUS
-
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=hboplus&f=.m3u8
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbofamily.png", group-title="CINE", HBO FAMILY
-
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinecanal.png", group-title="CINE", CINECANAL 2
-
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=hbofamily&f=.m3u8
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinemax.png", group-title="CINE", CINEMAX
-
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=cinemax&f=.m3u8
 
 
 
@@ -851,47 +847,31 @@ cine
 
 Sebastian
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/320px-Babytvv.png", group-title="SEBASTIAN", BABYTV
 
 #EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/babyfirst.png", group-title="SEBASTIAN", BABY FIRST
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=infantiles&ch=babyfirst&f=.m3u8
 
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/boomerang.png", group-title="SEBASTIAN", BOOMERANG
 
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cartoonnetwork.png", group-title="SEBASTIAN", CARTOON NETWORK
 
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/disneyjunior.png", group-title="SEBASTIAN", DISNEY JR
-
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/disneyxd.png", group-title="SEBASTIAN", DISNEY XD
-
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/discoverykids.png", group-title="SEBASTIAN", DISCOVERY KIDS
-
-#EXTINF:-1  tvg-logo="https://logoeps.com/wp-content/uploads/2013/04/national-geographic-kids-vector-logo.png", group-title="SEBASTIAN", Nat Geo KIDS
-
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/nick.png", group-title="SEBASTIAN", NICK
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png", group-title="SEBASTIAN", NICK JR
 
 
 Deportes
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png", group-title="DEPORTES", FOX SPORT 1
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png", group-title="DEPORTES", FOX SPORT 2
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-3_m.png", group-title="DEPORTES", FOX SPORT 3
-
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png", group-title="DEPORTES", FOX SPORT 1 (ESPAÑOL)
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=fox-sports1mx&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png", group-title="DEPORTES", FOX SPORT 2 (ESPAÑOL)
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=fox-sports2mx&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-3_m.png", group-title="DEPORTES", FOX SPORT 3 (ESPAÑOL)
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" , group-title="DEPORTES", ESPN 1 (ESPAÑOL)
-
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=espn1mx&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png", group-title="DEPORTES", ESPN 2 (ESPAÑOL)
-
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=espn2mx&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg", group-title="DEPORTES", ESPN 3 (ESPAÑOL)
-
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=espn2mx&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png", group-title="DEPORTES", ESPN EXTRA (ESPAÑOL)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2041px-Claro_Sports_logo.svg.png" , group-title="DEPORTES", CLARO SPORT
-
   #EXTINF:-1 tvg-logo="https://roc21cdn-roc21.netdna-ssl.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg", group-title="DEPORTES ", TUDN MEXICO 
-
+http://ipeteve.com/php/SR_REGIO_35857/bg.php?cat=latinos&ch=univisiondeportes&f=.m3u8
 
 REGIO
 
