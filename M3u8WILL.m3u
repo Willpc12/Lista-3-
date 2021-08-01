@@ -1123,6 +1123,16 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png", group-title="MUNDO", CHILEVISION |CHILE
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w922024847.m3u8
 
+#EXTINF:-1 group-title="MUNDO" tvg-logo="http://www.m3u.cl/logo/96701_FMTV_1.png",FMTV | CHILE
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="http://www.m3u.cl/logo/96701_FMTV_1.png",FMTV 2 | CHILE
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="http://www.m3u.cl/logo/96701_FMTV_1.png",FMTV 3 | CHILE
+https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
+
+
 
 
 
