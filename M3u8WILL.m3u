@@ -763,9 +763,6 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/senal-colombia-logo.png", group-title="MUNDO", SEÑAL COLOMBIA | COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://teleredtelevision.com/wp-content/uploads/2020/08/106414576_2667104786876196_7086919220868530256_n-300x300.jpg", group-title="MUNDO", TELERED | 
-http://k4.usastreams.com/ARBtv/teleplus/.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CUBAVISION_2017.png/250px-CUBAVISION_2017.png" group-title="MUNDO",CUBAVISION | CUBA
 http://190.122.96.187:8888/http/010
 
@@ -787,13 +784,10 @@ http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.rbr.com/wp-content/uploads/america-teve.jpg", group-title="MUNDO", AMERICA TV | 
 https://americateve-rokuus.amagi.tv:443/masterR404lp.m3u8
 
-#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/848210/Nuestra_Vision_Logo.jpg?p=publish&w=200", group-title="MUNDO", NUESTRA VISION | 
-https://siloh-ns1.plutotv.net:443/lilo/production/Nuestravision/master_4.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/TVMax_2016.png/revision/latest/scale-to-width-down/250?cb=20171029093258&path-prefix=es", group-title="MUNDO", TV MAX | PANAMA
 https://bcovlive-a.akamaihd.net:443/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Canal_10_Nicaragua_2006.png/revision/latest/scale-to-width-down/200?cb=20201020221804&path-prefix=es",group-title="TOKIO2020", CANAL 10 HD | 
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Canal_10_Nicaragua_2006.png/revision/latest/scale-to-width-down/200?cb=20201020221804&path-prefix=es",group-title="TOKYO2020", CANAL 10 HD | 
 https://cootv.cootel.com.ni:443/streams/d/SSLCH10-SD-ZUK/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="MUNDO",ABC TV | PARAGUAY
@@ -820,9 +814,6 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png", group-title="MUNDO", ESTRELLA TV | MEXICO  
 https://estrellatv-roku.amagi.tv:443/playlistR432p.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Telemax-Logo-1-7080.jpg", group-title="MUNDO", TELEMAX |   
-https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/250px-DKISS_2019_logo.svg.png", group-title="MUNDO", DKISS TV | ESPAÑA  
 http://91.126.141.201:1935/live/smil:kiss/.m3u8
 
@@ -844,16 +835,16 @@ https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="MUNDO", CANAL 10 RIO NEGRO | 
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="MUNDO",CANAL 26 | 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="MUNDO",CANAL 26 | ARGENTINA
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/Canal-3-Pinamar.jpg" group-title="MUNDO",CANAL 3 PINAMAR | 
+#EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/Canal-3-Pinamar.jpg" group-title="TOKYO2020",CANAL 3 PINAMAR | ARGENTINA
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/01_logo/canal_cuatro_argentina.jpg" group-title="MUNDO",CANAL 4 JUJUY | 
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w2121338131_b316000.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1276199099478552577/9KzAG68i_400x400.jpg" group-title="MUNDO",CANAL 9 (Comodoro Rivadavia) | 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1276199099478552577/9KzAG68i_400x400.jpg" group-title="TOKYO2020",CANAL 9 (Comodoro Rivadavia) | ARGENTINA
 https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalprovincial.com.ar/wp-content/themes/canalprovincia/images/logo.jpg" group-title="MUNDO",CANAL PROVINCIAL (San Miguel) | 
@@ -864,9 +855,6 @@ https://panel.dattalive.com/8250/8250/chunklist_w1456715835.m3u8?_=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="MUNDO",CIUDAD TV RESISTENCIA (Chaco) | 
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/75UgF.png" group-title="MUNDO",CPE TV | 
-https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sZ1yE4e.png" group-title="MUNDO",MULTIVISION FEDERAL | MEXICO
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
@@ -907,9 +895,6 @@ http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6d2fOjq.png", group-title="MUNDO", SURAM | COLOMBIA
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hlrdeds.png", group-title="MUNDO",CANAL CAPITAL | COLOMBIA
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f3c5TIR.png", group-title="MUNDO",CANAL CNC MEDELLIN | COLOMBIA
 http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
 
@@ -931,8 +916,6 @@ http://inliveserver.com:1935/14510/14510/chunklist_w255137212.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNDjR1edbxFUJ8KSf8dffHp6ch_Xz35Cm9UIlH9PGTyheprfQc", group-title="MUNDO",CANAL 14 SAN CARLOS | 
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w853617232.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/multimedios1.jpg", group-title="MUNDO",CANAL 8 | 
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r5p97Ex.jpg", group-title="MUNDO",TELESUR | COSTA RICA
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
@@ -967,14 +950,11 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png", group-title="MUNDO",RNN | 
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rv3jShy.jpg", group-title="MUNDO",ROMANA TV CANAL42 | 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rv3jShy.jpg", group-title="MUNDO",ROMANA TV CANAL42 | REP. DOMINICANA
 http://tv.romanatv42.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png", group-title="MUNDO",TELEFUTURO CANAL 23 | 
 https://ss8.domint.net:3118/tf_str/futu/chunklist_w1341184038.m3u8
-
-#EXTINF:-1 tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png", group-title="MUNDO",TELEMILENIO | 
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png", group-title="MUNDO",TELENORD 12 | 
 http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
@@ -993,9 +973,6 @@ http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-33-sv.png", group-title="MUNDO",CANAL 33 |   
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1384192008101634052/ntn7MMPd_400x400.jpg", group-title="MUNDO",TELE 1 | 
-https://5ca9af4645e15.streamlock.net/canaluno/smil:canaluno.smil/chunklist_w1614286216_b1428000_DVR_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RmBR5sM.png", group-title="MUNDO",RTP | 
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
@@ -1021,7 +998,7 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF: -1 tvg-logo="http://www.iptv.cvahn.com/img/canal11.png",group-title="MUNDO", CANAL 11 | 
 https://cootv.cootel.com.ni:443/streams/d/SSLCH11-SD-GZN/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",group-title="MUNDO", CANAL 9 | 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",group-title="TOKYO2020", CANAL 9 | 
 https://cootv.cootel.com.ni:443/streams/d/SSLCH09-HD-CVS/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gJQjLC4uY64nX5RDj7As24mWj35sC73ukw&usqp=CAU", group-title ="MUNDO", TV MÁS + |  CHILE
@@ -1161,9 +1138,6 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/245px-Logo_Univision_2019.svg.png", group-title="MUNDO", UNIVISION | USA
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
 
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://play-lh.googleusercontent.com/06blQk_MW8hp4sQEfxlkxrm3Vlnyj0Wg6Diu_CdLui3wW8Pk9SXFaScG-ErDuKzYQes",SARAPIQUÍ | COSTA RICA
-http://209.126.105.158:1935/stv/web/playlist.m3u8
-
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png",TELESUR | COSTA RICA
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
@@ -1185,8 +1159,6 @@ http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png",WOW | EL SALVADOR
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU",TELEDIEZ PASO DE LOS LIBRES | ARGENTINA
-https://videohd.live:19360/8020/8020.m3u8
 
 
 
