@@ -312,9 +312,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a
 #EXTINF:-1 tvg-logo="https://odishaexpo.com/wp-content/uploads/2020/10/UP_Entertainment_Cine_Romantico_Logo.jpg", group-title="CINE",CINE ROMANTICO
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/05/FMTV-3-CINE-A-LA-CARTA-e1621951519311.png.webp", group-title="CINE", FMTV 3 SUPER CINE | ECUADOR
-https://rtmp02.portalexpress.es/fmtv3/fmtv3/chunklist_w2068912765.m3u8
-
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-ac-vision-en-vivo.jpg", group-title="CINE", ACVISION | ECUADOR
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
 
@@ -397,6 +394,29 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8
 #EXTINF:-1 group-title="CINE" tvg-logo="https://lh3.googleusercontent.com/-1AkpM1rC75w/YGdiuKFuQzI/AAAAAAABBGg/lG-2DxIFeU8K4vxZQxqPVZ6J29Bu5ZuSgCK8BGAsYHg/s512/2021-04-02.png",ZPTV | LATINOAMERICA
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 
+   #EXTINF:-1 group-title="CINE" tvg-logo="http://www.m3u.cl/logo/96701_FMTV_1.png",FMTV | CHILE
+ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Viendomovies2011.png/180px-Viendomovies2011.png",VIENDO MOVIES
+http://tv.masterplaytv.live:25461/noviembre2/bJN4fI5fpU/37767
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Viendomovies2011.png/180px-Viendomovies2011.png",VIENDO MOVIES ESTRENO 
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6799
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Viendomovies2011.png/180px-Viendomovies2011.png",VIENDO MOVIES TERROR
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6800
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Viendomovies2011.png/180px-Viendomovies2011.png",VIENDO MOVIES MARVEL
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/87513
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Viendomovies2011.png/180px-Viendomovies2011.png", VIENDO MOVIES ZOMBIE
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/87549
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Viendomovies2011.png/180px-Viendomovies2011.png",VIENDO MOVIES COMEDIA
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/87544
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Viendomovies2011.png/180px-Viendomovies2011.png",VIENDO MOVIES FUTURAMA
+http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6802
 
 
 
@@ -727,6 +747,7 @@ https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png",SEXY KPOP TV | USA
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+
 
 
   #EXTINF:-1 group-title="MUSICA" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/vevo_logo_despues.jpg",VEVO REGGAETÓN & TRAP | USA
@@ -1122,14 +1143,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png", group-title="MUNDO", CHILEVISION |CHILE
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w922024847.m3u8
 
-#EXTINF:-1 group-title="MUNDO" tvg-logo="http://www.m3u.cl/logo/96701_FMTV_1.png",FMTV | CHILE
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
-#EXTINF:-1 group-title="MUNDO" tvg-logo="http://www.m3u.cl/logo/96701_FMTV_1.png",FMTV 2 | CHILE
-https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
-#EXTINF:-1 group-title="MUNDO" tvg-logo="http://www.m3u.cl/logo/96701_FMTV_1.png",FMTV 3 | CHILE
-https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 
 
 
@@ -1137,439 +1152,427 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 
 __________________________________________________________________________________________________________________________________________
 
+RASTA12
 
-
-#EXTINF:-1 group-title="SEBASTIAN",Nick Jr LAT SD:
+#EXTINF:-1 group-title="SEBASTIAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png",NICK JR LAT 
 https://blackghost.live/play/codeplus4-804.php?c=86805
-#EXTINF:-1 group-title="SEBASTIAN",Nick Jr
+#EXTINF:-1 group-title="SEBASTIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png",NICK JR
 https://blackghost.live/play/codeplus3-804.php?c=34779
-#EXTINF:-1 group-title="SEBASTIAN",NICK JR (LAT)
+#EXTINF:-1 group-title="SEBASTIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png",NICK JR (LAT)
 https://blackghost.live/play/codeplus4-804.php?c=1092
-#EXTINF:-1 group-title="SEBASTIAN",NatGeo Kids LAT SD:
+#EXTINF:-1 group-title="SEBASTIAN",NatGeo Kids LAT 
 https://blackghost.live/play/codeplus4-804.php?c=86785
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS" tvg-logo="/logos/tntsports.png" group-title="Lista 16",TNT SPORTS
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=tnt-sports&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="/logos/fox-sports-premium1.png" group-title="Lista 16",FOX SPORTS PREMIUM
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=fox-sports-premium&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="/logos/tudn.png" group-title="Lista 16",TUDN
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=tudn&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="GOLTV(Spanish).us" tvg-name="GOLTV Latino en vivo Online" tvg-logo="/logos/goltvlatino.png" group-title="Lista 16",GOLTV Latino en vivo Online
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=goltvlatino&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Sports Latino en vivo Online" tvg-logo="/logos/beinlatino.png" group-title="Lista 16",Bein Sports Latino en vivo Online
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=beinlatino&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="VTV URUGUAY" tvg-logo="/logos/vtv.png" group-title="Lista 16",VTV URUGUAY
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=vtv&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="CaracolTVCanal1.co" tvg-name="CARACOL TV" tvg-logo="/logos/caracoltv.png" group-title="Lista 16",CARACOL TV
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=caracoltv&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="GOL PERU" tvg-logo="/logos/golperu.png" group-title="Lista 16",GOL PERU
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=golperu&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="CDF" tvg-logo="/logos/cdf.png" group-title="Lista 16",CDF
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=cdfpremium&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="FOXSports(ConoSurArgentina).ar" tvg-name="FOX SPORTS ARGENTINA" tvg-logo="/logos/foxsports1ar.png" group-title="Lista 16",FOX SPORTS ARGENTINA
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=fox-sports1ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(Argentina).ar" tvg-name="FOX SPORTS 2 ARGENTINA" tvg-logo="/logos/foxsports2ar.png" group-title="Lista 16",FOX SPORTS 2 ARGENTINA
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=fox-sports2ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports3(ConoSur).ar" tvg-name="FOX SPORTS 3 ARGENTINA" tvg-logo="/logos/foxsports3ar.png" group-title="Lista 16",FOX SPORTS 3 ARGENTINA
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=fox-sports3ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN ARGENTINA" tvg-logo="/logos/espnar.png" group-title="Lista 16",ESPN ARGENTINA
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=espn1ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 ARGENTINA" tvg-logo="/logos/espn2ar.png" group-title="Lista 16",ESPN 2 ARGENTINA
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=espn2ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN3(South).ar" tvg-name="ESPN 3 ARGENTINA" tvg-logo="/logos/espn3ar.png" group-title="Lista 16",ESPN 3 ARGENTINA
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=espn3ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX SPORTS MEXICO" tvg-logo="/logos/foxsports1mx.png" group-title="Lista 16",FOX SPORTS MEXICO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=fox-sports1mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="FOX SPORTS 2 MEXICO" tvg-logo="/logos/foxsports2mx.png" group-title="Lista 16",FOX SPORTS 2 MEXICO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=fox-sports2mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="FOX SPORTS 3 MEXICO" tvg-logo="/logos/foxsports3mx.png" group-title="Lista 16",FOX SPORTS 3 MEXICO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=fox-sports3mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN MEXICO" tvg-logo="/logos/espnmx.png" group-title="Lista 16",ESPN MEXICO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=espn1mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2 MEXICO" tvg-logo="/logos/espn2mx.png" group-title="Lista 16",ESPN 2 MEXICO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=espn2mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3 MEXICO" tvg-logo="/logos/espn3mx.png" group-title="Lista 16",ESPN 3 MEXICO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=espn3mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ESPNEXTRA.co" tvg-name="ESPN + ARGENTINA" tvg-logo="/logos/espnmasar.png" group-title="Lista 16",ESPN + ARGENTINA
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=espn+ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="DIRECTV SPORTS" tvg-logo="/logos/directvsports.png" group-title="Lista 16",DIRECTV SPORTS
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=directv-sports&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="DIRECTV SPORTS 2" tvg-logo="/logos/directvsports2.png" group-title="Lista 16",DIRECTV SPORTS 2
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=directv-sports2&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="DIRECTV SPORTS PLUS" tvg-logo="/logos/directv-sports-plus.png" group-title="Lista 16",DIRECTV SPORTS PLUS
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=directv-sports-plus&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="/logos/tyc.png" group-title="Lista 16",TYC SPORTS
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=tyc&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="GOLF CHANNEL" tvg-logo="/logos/golflatino.png" group-title="Lista 16",GOLF CHANNEL
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=golflatino&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="StarAction.ar" tvg-name="FOX PREMIUM ACTION" tvg-logo="/logos/foxaction.png" group-title="Lista 16",FOX PREMIUM ACTION
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=foxaction&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="ADRENALINA SPORTS" tvg-logo="/logos/adrenalinatv.png" group-title="Lista 16",ADRENALINA SPORTS
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=adrenalinatv&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AYM SPORTS" tvg-logo="/logos/aym.png" group-title="Lista 16",AYM SPORTS
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=aymsports&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="UNIVISION DEPORTES" tvg-logo="/logos/univisiondeportes.png" group-title="Lista 16",UNIVISION DEPORTES
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=univisiondeportes&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS" tvg-logo="/logos/win.png" group-title="Lista 16",WIN SPORTS
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=winsports&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="TELEFE" tvg-logo="/logos/telefe.png" group-title="Lista 16",TELEFE
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=telefe&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="EL TRECE" tvg-logo="/logos/eltrece.png" group-title="Lista 16",EL TRECE
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=eltrece&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="AMERICA TV" tvg-logo="/logos/america2.png" group-title="Lista 16",AMERICA TV
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=america2&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TvPublica.ar" tvg-name="TV PUBLICA" tvg-logo="/logos/tvpublica.png" group-title="Lista 16",TV PUBLICA
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=tvpublica&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TODONOTICIAS.ar" tvg-name="TN ARGENTINA" tvg-logo="/logos/tn.png" group-title="Lista 16",TN ARGENTINA
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=tn&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N ARGENTINA" tvg-logo="/logos/c5n.png" group-title="Lista 16",C5N ARGENTINA
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=c5n&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Elnueve.ar" tvg-name="EL NUEVE" tvg-logo="/logos/canalnueve.png" group-title="Lista 16",EL NUEVE
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=canal9ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="CANAL 26" tvg-logo="/logos/canal26.png" group-title="Lista 16",CANAL 26
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=canal26ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="CRONICA TV" tvg-logo="/logos/cronicatv.png" group-title="Lista 16",CRONICA TV
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=cronicatv&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="CIUDAD MAGAZINE" tvg-logo="/logos/ciudadmagazine.png" group-title="Lista 16",CIUDAD MAGAZINE
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=ciudadmagazine&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="America24.ar" tvg-name="A 24" tvg-logo="/logos/a24.png" group-title="Lista 16",A 24
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=a24&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="XHLTDT.mx" tvg-name="TELEVISA DEL BAJIO-" tvg-logo="/logos/televisabajio.png" group-title="Lista 16",TELEVISA DEL BAJIO-
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=canalbajio&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="CANAL 5" tvg-logo="/logos/canal5televisa.png" group-title="Lista 16",CANAL 5
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=canal5televisa&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="AZTECA UNO" tvg-logo="/logos/azteca.png" group-title="Lista 16",AZTECA UNO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=azteca&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="AZTECA 7" tvg-logo="/logos/azteca7.png" group-title="Lista 16",AZTECA 7
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=azteca7&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+" tvg-logo="/logos/aztecamas.png" group-title="Lista 16",A+
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=aztecamas&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Cinema.mx" tvg-name="CINEMA" tvg-logo="/logos/aztecacinema.png" group-title="Lista 16",CINEMA
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=aztecacinema&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Mundo.mx" tvg-name="MUNDO" tvg-logo="/logos/aztecamundo.png" group-title="Lista 16",MUNDO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=aztecamundo&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Corazon.mx" tvg-name="CORAZON" tvg-logo="/logos/aztecacorazon.png" group-title="Lista 16",CORAZON
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=aztecacorazon&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="/logos/canalestrellas.png" group-title="Lista 16",LAS ESTRELLAS
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=canalestrellas&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="TLNOVELAS" tvg-logo="/logos/telenovelas.png" group-title="Lista 16",TLNOVELAS
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=telenovelas&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="/logos/mtvlatino.png" group-title="Lista 16",MTV
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=mtv&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="STAR CHANNEL" tvg-logo="/logos/foxlatino.png" group-title="Lista 16",STAR CHANNEL
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=fox&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="StarSeries.ar" tvg-name="STAR SERIES" tvg-logo="/logos/foxseries.png" group-title="Lista 16",STAR SERIES
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=foxseries&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="STARFUN.ar" tvg-name="STAR FUN" tvg-logo="/logos/foxfamily.png" group-title="Lista 16",STAR FUN
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=foxfamily&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="STARCINEMA.ar" tvg-name="STAR CINEMA" tvg-logo="/logos/foxcinema.png" group-title="Lista 16",STAR CINEMA
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=foxcinema&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="STARCOMEDY.ar" tvg-name="STAR COMEDY" tvg-logo="/logos/foxcomedy.png" group-title="Lista 16",STAR COMEDY
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=foxcomedy&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="StarClassics.ar" tvg-name="STAR CLASSICS" tvg-logo="/logos/foxclassics.png" group-title="Lista 16",STAR CLASSICS
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=foxclassics&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="StarHits.co" tvg-name="STAR HITS" tvg-logo="/logos/foxmovies.png" group-title="Lista 16",STAR HITS
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=foxmovies&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="StarLife.mx" tvg-name="STAR LIFE" tvg-logo="/logos/foxlifelatino.png" group-title="Lista 16",STAR LIFE
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=foxlife&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" tvg-logo="/logos/hbo.png" group-title="Lista 16",HBO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=hbo&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2" tvg-logo="/logos/hbo2.png" group-title="Lista 16",HBO 2
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=hbo2&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="HBOPlus.co" tvg-name="HBO PLUS" tvg-logo="/logos/hboplus.png" group-title="Lista 16",HBO PLUS
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=hboplus&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.co" tvg-name="HBO FAMILY" tvg-logo="/logos/hbofamily.png" group-title="Lista 16",HBO FAMILY
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=hbofamily&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="HBOSignature.ar" tvg-name="HBO SIGNATURE" tvg-logo="/logos/hbosignature.png" group-title="Lista 16",HBO SIGNATURE
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=hbosignature&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-name="HBO XTREME" tvg-logo="/logos/hboxtreme.png" group-title="Lista 16",HBO XTREME
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=maxprime&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="HBOMundi.co" tvg-name="HBO MUNDI" tvg-logo="/logos/hbomundi.png" group-title="Lista 16",HBO MUNDI
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=maxlatino&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="HBO POP" tvg-logo="/logos/hbopop.png" group-title="Lista 16",HBO POP
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=maxup&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN" tvg-logo="/logos/golden.png" group-title="Lista 16",GOLDEN
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=golden&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="GOLDEN PLUS" tvg-logo="/logos/goldenplus.png" group-title="Lista 16",GOLDEN PLUS
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=goldenplus&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="/logos/goldenedge.png" group-title="Lista 16",GOLDEN EDGE
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=goldenedge&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX" tvg-logo="/logos/cinemax.png" group-title="Lista 16",CINEMAX
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=cinemax&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL" tvg-logo="/logos/cinecanal.png" group-title="Lista 16",CINECANAL
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=cinecanal&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT LATINO" tvg-logo="/logos/tntlatino.png" group-title="Lista 16",TNT LATINO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=tnt&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES" tvg-logo="/logos/tntseries.png" group-title="Lista 16",TNT SERIES
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=tntseries&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN LATINO" tvg-logo="/logos/axnlatino.png" group-title="Lista 16",AXN LATINO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=axn&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC LATINO" tvg-logo="/logos/amclatino.png" group-title="Lista 16",AMC LATINO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=amc&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM LATINO" tvg-logo="/logos/tcmlatino.png" group-title="Lista 16",TCM LATINO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=tcm&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY LATINO" tvg-logo="/logos/syfy.png" group-title="Lista 16",SYFY LATINO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=syfy&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="FXMovies.mx" tvg-name="FXM" tvg-logo="/logos/fxm.png" group-title="Lista 16",FXM
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=fxm&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="/logos/fx.png" group-title="Lista 16",FX
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=fx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Space.ar" tvg-name="SPACE" tvg-logo="/logos/space.png" group-title="Lista 16",SPACE
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=space&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL LATINO" tvg-logo="/logos/comedycentrallatino.png" group-title="Lista 16",COMEDY CENTRAL LATINO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=comedycentral&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="PARAMOUNT CHANNEL LATINO" tvg-logo="/logos/paramountlatino.png" group-title="Lista 16",PARAMOUNT CHANNEL LATINO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=paramountchannel&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="SONY" tvg-logo="/logos/sony.png" group-title="Lista 16",SONY
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=sony&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="/logos/tbs.png" group-title="Lista 16",TBS
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=tbs&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL" tvg-logo="/logos/studiouniversal.png" group-title="Lista 16",STUDIO UNIVERSAL
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=studiouniversal&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="UNIVERSAL CHANNEL" tvg-logo="/logos/universalchannel.png" group-title="Lista 16",UNIVERSAL CHANNEL
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=universalchannel&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER" tvg-logo="/logos/warner.png" group-title="Lista 16",WARNER
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=warner&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="/logos/depelicula.png" group-title="Lista 16",DE PELICULA
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=depelicula&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="/logos/distritocomedia.png" group-title="Lista 16",DISTRITO COMEDIA
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=distritocomedia
-#EXTINF:-1 tvg-id="History.mx" tvg-name="HISTORY" tvg-logo="/logos/historylatino.png" group-title="Lista 16",HISTORY
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=history&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="H2History.ar" tvg-name="HISTORY 2" tvg-logo="/logos/history2.png" group-title="Lista 16",HISTORY 2
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=history2&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL" tvg-logo="/logos/discoverychannellatino.png" group-title="Lista 16",DISCOVERY CHANNEL
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=discoverychannel&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="DISCOVERY TLC" tvg-logo="/logos/tlc.png" group-title="Lista 16",DISCOVERY TLC
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=tlc&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="HGTV.mx" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="/logos/discoverycivilization.png" group-title="Lista 16",DISCOVERY CIVILIZATION
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=discoverycivilization&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="DISCOVERY TURBO" tvg-logo="/logos/discoveryturbo.png" group-title="Lista 16",DISCOVERY TURBO
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=discoveryturbo&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER" tvg-logo="/logos/discoverytheater.png" group-title="Lista 16",DISCOVERY THEATER
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=discoverytheater&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="DISCOVERY SCIENCIE" tvg-logo="/logos/discoverysci.png" group-title="Lista 16",DISCOVERY SCIENCIE
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=discoverysciencie&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ID.mx" tvg-name="INVESTIGACION DISCOVERY" tvg-logo="/logos/invdiscovery.png" group-title="Lista 16",INVESTIGACION DISCOVERY
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=discoveryinvestigacion&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="DISCOVERY H&H" tvg-logo="/logos/discoveryhh.png" group-title="Lista 16",DISCOVERY H&H
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=discoveryhh&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORL" tvg-logo="/logos/discoveryworl.png" group-title="Lista 16",DISCOVERY WORL
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=discoveryworl&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="/logos/nationalgeographiclatino.png" group-title="Lista 16",NATIONAL GEOGRAPHIC
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=nationalgeo&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.mx" tvg-name="NAT GEO WILL" tvg-logo="/logos/natgeowilllatino.png" group-title="Lista 16",NAT GEO WILL
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=nationalwill&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="/logos/ae.png" group-title="Lista 16",A&E
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=ae&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="/logos/animalplanet.png" group-title="Lista 16",ANIMAL PLANET
-https://blackghost.live/play/wistream-bglive-731.php?cat=latinos&ch=animalplanet&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="cartoon network" tvg-logo="/logos/cartoonnetwork.png" group-title="Lista 16",cartoon network
-https://blackghost.live/play/wistream-bglive-731.php?cat=infantiles&ch=cartoonnetwork&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="discovery kids" tvg-logo="/logos/discoverykids.png" group-title="Lista 16",discovery kids
-https://blackghost.live/play/wistream-bglive-731.php?cat=infantiles&ch=discoverykids&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="disney junior" tvg-logo="/logos/disneyjunior.png" group-title="Lista 16",disney junior
-https://blackghost.live/play/wistream-bglive-731.php?cat=infantiles&ch=disneyjunior&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="disney xd" tvg-logo="/logos/disneyxd.png" group-title="Lista 16",disney xd
-https://blackghost.live/play/wistream-bglive-731.php?cat=infantiles&ch=disneyxd&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="disney channel" tvg-logo="/logos/disneychannel.png" group-title="Lista 16",disney channel
-https://blackghost.live/play/wistream-bglive-731.php?cat=infantiles&ch=disneychannel&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Nick.mx" tvg-name="nick" tvg-logo="/logos/nick.png" group-title="Lista 16",nick
-https://blackghost.live/play/wistream-bglive-731.php?cat=infantiles&ch=nick&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="nicktoons" tvg-logo="/logos/nicktoons.png" group-title="Lista 16",nicktoons
-https://blackghost.live/play/wistream-bglive-731.php?cat=infantiles&ch=nicktoons&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="BabyFirstAmericasSpanish.mx" tvg-name="babyfirst" tvg-logo="/logos/babyfirst.png" group-title="Lista 16",babyfirst
-https://blackghost.live/play/wistream-bglive-731.php?cat=infantiles&ch=babyfirst&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="tooncast" tvg-logo="/logos/tooncast.png" group-title="Lista 16",tooncast
-https://blackghost.live/play/wistream-bglive-731.php?cat=infantiles&ch=tooncast&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="boomerang" tvg-logo="/logos/boomerang.png" group-title="Lista 16",boomerang
-https://blackghost.live/play/wistream-bglive-731.php?cat=infantiles&ch=boomerang&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="boing" tvg-logo="/logos/boing.png" group-title="Lista 16",boing
-https://blackghost.live/play/wistream-bglive-731.php?cat=infantiles&ch=boing&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="clantv" tvg-logo="/logos/clantv.png" group-title="Lista 16",clantv
-https://blackghost.live/play/wistream-bglive-731.php?cat=infantiles&ch=clantv&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="paka paka" tvg-logo="/logos/pakapaka.png" group-title="Lista 16",paka paka
-https://blackghost.live/play/wistream-bglive-731.php?cat=infantiles&ch=pakapaka&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="kidstv" tvg-logo="/logos/kidstv.png" group-title="Lista 16",kidstv
-https://blackghost.live/play/wistream-bglive-731.php?cat=infantiles&ch=kidstv&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="BabyFirstAmericasSpanish.mx" tvg-name="babyfirst" tvg-logo="/logos/babyfirst.png" group-title="SEBASTIAN",babyfirst
+https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=babyfirst&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="cartoon network" tvg-logo="/logos/cartoonnetwork.png" group-title="SEBASTIAN",cartoon network
+https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=cartoonnetwork&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="discovery kids" tvg-logo="/logos/discoverykids.png" group-title="SEBASTIAN",discovery kids
+https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=discoverykids&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="disney junior" tvg-logo="/logos/disneyjunior.png" group-title="SEBASTIAN",disney junior
+https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=disneyjunior&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="disney xd" tvg-logo="/logos/disneyxd.png" group-title="SEBASTIAN",disney xd
+https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=disneyxd&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="disney channel" tvg-logo="/logos/disneychannel.png" group-title="SEBASTIAN",disney channel
+https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=disneychannel&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="Nick.mx" tvg-name="nick" tvg-logo="/logos/nick.png" group-title="SEBASTIAN",nick
+https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=nick&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="nicktoons" tvg-logo="/logos/nicktoons.png" group-title="SEBASTIAN",nicktoons
+https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=nicktoons&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="tooncast" tvg-logo="/logos/tooncast.png" group-title="SEBASTIAN",tooncast
+https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=tooncast&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180719/kgz/kisspng-logo-boing-mediaset-espaa-comunicacin-spain-te-boomerang-outline-5b504e541a6a21.7728930715319895881082.jpg" group-title="SEBASTIAN",BOING
+https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=boing&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Clan_TVE_logo.png/revision/latest/scale-to-width-down/1000?cb=20160113231304&path-prefix=es" group-title="SEBASTIAN",CLAN TV 
+https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=clantv&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="SEBASTIAN",PAKA PAKA
+https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=pakapaka&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Kids_TV.png/revision/latest/scale-to-width-down/250?cb=20210109122952" group-title="SEBASTIAN",KIDS TV
+https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=kidstv&k=blcckgh0oo05t&f=.m3u8
 
+DEPORTES
 
-
-
-
-#EXTINF:-1 group-title="Lista 28",PREMIUM | HISTORY 2 HD
-https://blackghost.live/play/codeplus4-731.php?c=97416
-#EXTINF:-1 group-title="Lista 28",PREMIUM | A&E  HD
-https://blackghost.live/play/codeplus4-731.php?c=996
-#EXTINF:-1 group-title="Lista 28",PREMIUM | A&E HD Latino
-https://blackghost.live/play/codeplus4-731.php?c=997
-#EXTINF:-1 group-title="Lista 28",PREMIUM | A&E HD (MX)
-https://blackghost.live/play/codeplus4-731.php?c=86931
-#EXTINF:-1 group-title="Lista 28",PREMIUM | AXN LATINO (DUAL AUDIO)
-https://blackghost.live/play/codeplus4-731.php?c=1002
-#EXTINF:-1 group-title="Lista 28",PREMIUM | AXN HD Mexico
-https://blackghost.live/play/codeplus4-731.php?c=1003
-#EXTINF:-1 group-title="Lista 28",PREMIUM | ANIMAL PLANET LATINO HD
-https://blackghost.live/play/codeplus4-731.php?c=969
-#EXTINF:-1 group-title="Lista 28",PREMIUM | ANIMAL PLANET HD
-https://blackghost.live/play/codeplus4-731.php?c=970
-#EXTINF:-1 group-title="Lista 28",PREMIUM | COMEDY CENTRAL MX HD
-https://blackghost.live/play/codeplus4-731.php?c=1004
-#EXTINF:-1 group-title="Lista 28",PREMIUM | COMEDY CENTRAL HD
-https://blackghost.live/play/codeplus4-731.php?c=1005
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISTRITO COMEDIA
-https://blackghost.live/play/codeplus4-731.php?c=1007
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY CHANNEL
-https://blackghost.live/play/codeplus4-731.php?c=971
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY CHANNEL HD
-https://blackghost.live/play/codeplus4-731.php?c=972
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY CIVILIZACION
-https://blackghost.live/play/codeplus4-731.php?c=973
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY H&H
-https://blackghost.live/play/codeplus4-731.php?c=974
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY H&H HD
-https://blackghost.live/play/codeplus4-731.php?c=975
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY ID
-https://blackghost.live/play/codeplus4-731.php?c=976
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY ID MX HD
-https://blackghost.live/play/codeplus4-731.php?c=977
-#EXTINF:-1 group-title="Lista 28",PREMIUM | ID HD (Dual Audio) Latino
-https://blackghost.live/play/codeplus4-731.php?c=7926
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY SCIENCE HD
-https://blackghost.live/play/codeplus4-731.php?c=978
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY THEATER HD
-https://blackghost.live/play/codeplus4-731.php?c=980
-#EXTINF:-1 group-title="Lista 28",PREMIUM | Discovery TLC Latino HD
-https://blackghost.live/play/codeplus4-731.php?c=981
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY TURBO HD
-https://blackghost.live/play/codeplus4-731.php?c=982
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY WORLD FHD
-https://blackghost.live/play/codeplus4-731.php?c=983
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY WORLD HD
-https://blackghost.live/play/codeplus4-731.php?c=984
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY CHANNEL LATINO
-https://blackghost.live/play/codeplus4-731.php?c=7915
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY CIVILIZATION LATINO
-https://blackghost.live/play/codeplus4-731.php?c=7916
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY H&H LATINO HD
-https://blackghost.live/play/codeplus4-731.php?c=7917
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY SCIENCE LATINO FHD
-https://blackghost.live/play/codeplus4-731.php?c=7918
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY TURBO LATINO FHD
-https://blackghost.live/play/codeplus4-731.php?c=7919
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY THEATER LATINO FHD
-https://blackghost.live/play/codeplus4-731.php?c=7920
-#EXTINF:-1 group-title="Lista 28",PREMIUM | DISCOVERY WORLD LATINO FHD
-https://blackghost.live/play/codeplus4-731.php?c=7921
-#EXTINF:-1 group-title="Lista 28",PREMIUM | Discovery TLC HD (MX)
-https://blackghost.live/play/codeplus4-731.php?c=7931
-#EXTINF:-1 group-title="Lista 28",PREMIUM | Discovery Familia HD
-https://blackghost.live/play/codeplus4-731.php?c=43852
-#EXTINF:-1 group-title="Lista 28",PREMIUM | Nat Geo (LAT) HD 
-https://blackghost.live/play/codeplus4-731.php?c=7929
-#EXTINF:-1 group-title="Lista 28",PREMIUM | Nat Geo (MX) FHD
-https://blackghost.live/play/codeplus4-731.php?c=990
-#EXTINF:-1 group-title="Lista 28",PREMIUM | Nat Geo Latino FHD
-https://blackghost.live/play/codeplus4-731.php?c=991
-#EXTINF:-1 group-title="Lista 28",PREMIUM | Nat Geo Wild FHD
-https://blackghost.live/play/codeplus4-731.php?c=993
-#EXTINF:-1 group-title="Lista 28",PREMIUM | Nat Geo Wild Latino HD
-https://blackghost.live/play/codeplus4-731.php?c=7930
-#EXTINF:-1 group-title="Lista 28",PREMIUM |  Nat Geo Mundo SD
-https://blackghost.live/play/codeplus4-731.php?c=44228
-#EXTINF:-1 group-title="Lista 28",PREMIUM | HISTORY CHANNEL FHD
-https://blackghost.live/play/codeplus4-731.php?c=989
-#EXTINF:-1 group-title="Lista 28",PREMIUM | History Channel FHD Latino
-https://blackghost.live/play/codeplus4-731.php?c=7925
-#EXTINF:-1 group-title="Lista 28",PREMIUM | HISTORY EN ESPANOL | UHD
-https://blackghost.live/play/codeplus4-731.php?c=82621
-#EXTINF:-1 group-title="Lista 28",PREMIUM | H2 HD
-https://blackghost.live/play/codeplus4-731.php?c=987
-#EXTINF:-1 group-title="Lista 28",PREMIUM | STAR CHANNEL HD Latino ( Dual audio)
-https://blackghost.live/play/codeplus4-731.php?c=1010
-#EXTINF:-1 group-title="Lista 28",PREMIUM | STAR LIFE HD
-https://blackghost.live/play/codeplus4-731.php?c=1011
-#EXTINF:-1 group-title="Lista 28",PREMIUM | EL GOURMET FHD
-https://blackghost.live/play/codeplus4-731.php?c=985
-#EXTINF:-1 group-title="Lista 28",PREMIUM | EL GOURMET LATINO
-https://blackghost.live/play/codeplus4-731.php?c=7922
-#EXTINF:-1 group-title="Lista 28",PREMIUM |  Universal Channel HD (LATINO)
-https://blackghost.live/play/codeplus4-731.php?c=86424
-#EXTINF:-1 group-title="Lista 28",PREMIUM | E! ENTERTAINMENT HD
-https://blackghost.live/play/codeplus4-731.php?c=1008
-#EXTINF:-1 group-title="Lista 28",PREMIUM | GLITZ
-https://blackghost.live/play/codeplus4-731.php?c=1013
-#EXTINF:-1 group-title="Lista 28",PREMIUM | HOLA TV
-https://blackghost.live/play/codeplus4-731.php?c=1015
-#EXTINF:-1 group-title="Lista 28",PREMIUM | I SAT
-https://blackghost.live/play/codeplus4-731.php?c=1016
-#EXTINF:-1 group-title="Lista 28",PREMIUM | LIFETIME HD
-https://blackghost.live/play/codeplus4-731.php?c=1017
-#EXTINF:-1 group-title="Lista 28",PREMIUM | MAS CHIC HD
-https://blackghost.live/play/codeplus4-731.php?c=1018
-#EXTINF:-1 group-title="Lista 28",PREMIUM | PASIONES HD
-https://blackghost.live/play/codeplus4-731.php?c=1020
-#EXTINF:-1 group-title="Lista 28",PREMIUM | FILM & ARTS HD
-https://blackghost.live/play/codeplus4-731.php?c=1045
-#EXTINF:-1 group-title="Lista 28",PREMIUM | SUNDANCE HD
-https://blackghost.live/play/codeplus4-731.php?c=1075
-#EXTINF:-1 group-title="Lista 28",PREMIUM | I SAT LATINO
-https://blackghost.live/play/codeplus4-731.php?c=7927
-#EXTINF:-1 group-title="Lista 28",PREMIUM | MAS CHIC LATINO HD
-https://blackghost.live/play/codeplus4-731.php?c=7928
-#EXTINF:-1 group-title="Lista 28",PREMIUM | Unicable Latino HD
-https://blackghost.live/play/codeplus4-731.php?c=7932
-#EXTINF:-1 group-title="Lista 28",PREMIUM | Wobi Latino SD
-https://blackghost.live/play/codeplus4-731.php?c=7933
-#EXTINF:-1 group-title="Lista 28",PREMIUM | WOBI
-https://blackghost.live/play/codeplus4-731.php?c=995
-#EXTINF:-1 group-title="Lista 28",PREMIUM | SUN CHANNEL
-https://blackghost.live/play/codeplus4-731.php?c=82456
-#EXTINF:-1 group-title="Lista 28",PREMIUM | TruTV (MX) HD
-https://blackghost.live/play/codeplus4-731.php?c=38481
-#EXTINF:-1 group-title="Lista 28",PREMIUM |  TruTV SD
-#EXTINF:-1 group-title="Lista 28",LAT SD: Telemundo
-https://blackghost.live/play/codeplus4-731.php?c=86794
-
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS" tvg-logo="/logos/tntsports.png" group-title="DEPORTES", | TNT SPORTS
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=tnt-sports&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="/logos/fox-sports-premium1.png" group-title="DEPORTES", | FOX SPORTS PREMIUM
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox-sports-premium&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="/logos/tudn.png" group-title="DEPORTES", | TUDN
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=tudn&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Sports Latino en vivo Online" tvg-logo="/logos/beinlatino.png" group-title="DEPORTES",BEIN SPORT LATINO 
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=beinlatino&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="GOLTV(Spanish).us" tvg-name="GOLTV Latino en vivo Online" tvg-logo="/logos/goltvlatino.png" group-title="DEPORTES",GOLTV 
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=goltvlatino&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="GOL PERU" tvg-logo="/logos/golperu.png" group-title="DEPORTES",GOL | PERU
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=golperu&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="FOXSports(ConoSurArgentina).ar" tvg-name="FOX SPORTS ARGENTINA" tvg-logo="/logos/foxsports1ar.png" group-title="DEPORTES",FOX SPORTS | ARGENTINA
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox-sports1ar&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports2(Argentina).ar" tvg-name="FOX SPORTS 2 ARGENTINA" tvg-logo="/logos/foxsports2ar.png" group-title="DEPORTES",FOX SPORTS 2 | ARGENTINA
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox-sports2ar&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports3(ConoSur).ar" tvg-name="FOX SPORTS 3 ARGENTINA" tvg-logo="/logos/foxsports3ar.png" group-title="DEPORTES",FOX SPORTS 3 | ARGENTINA
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox-sports3ar&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN ARGENTINA" tvg-logo="/logos/espnar.png" group-title="DEPORTES",ESPN | ARGENTINA
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=espn1ar&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 ARGENTINA" tvg-logo="/logos/espn2ar.png" group-title="DEPORTES",ESPN 2 | ARGENTINA
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=espn2ar&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN3(South).ar" tvg-name="ESPN 3 ARGENTINA" tvg-logo="/logos/espn3ar.png" group-title="DEPORTES",ESPN 3 | ARGENTINA
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=espn3ar&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX SPORTS MEXICO" tvg-logo="/logos/foxsports1mx.png" group-title="DEPORTES",FOX SPORTS | MEXICO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox-sports1mx&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="FOX SPORTS 2 MEXICO" tvg-logo="/logos/foxsports2mx.png" group-title="DEPORTES",FOX SPORTS 2 | MEXICO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox-sports2mx&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="FOX SPORTS 3 MEXICO" tvg-logo="/logos/foxsports3mx.png" group-title="DEPORTES",FOX SPORTS 3 | MEXICO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox-sports3mx&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN MEXICO" tvg-logo="/logos/espnmx.png" group-title="DEPORTES",ESPN | MEXICO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=espn1mx&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2 MEXICO" tvg-logo="/logos/espn2mx.png" group-title="DEPORTES",ESPN 2 | MEXICO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=espn2mx&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3 MEXICO" tvg-logo="/logos/espn3mx.png" group-title="DEPORTES",ESPN  | MEXICO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=espn3mx&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="ESPNEXTRA.co" tvg-name="ESPN + ARGENTINA" tvg-logo="/logos/espnmasar.png" group-title="DEPORTES",ESPN PLUS | ARGENTINA
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=espn+ar&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="DIRECTV SPORTS" tvg-logo="/logos/directvsports.png" group-title="DEPORTES",DIRECTV SPORTS
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=directv-sports&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="DIRECTV SPORTS 2" tvg-logo="/logos/directvsports2.png" group-title="DEPORTES",DIRECTV SPORTS 2
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=directv-sports2&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="DIRECTV SPORTS PLUS" tvg-logo="/logos/directv-sports-plus.png" group-title="DEPORTES",DIRECTV SPORTS PLUS
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=directv-sports-plus&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="/logos/tyc.png" group-title="DEPORTES",TYC SPORTS
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=tyc&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="GOLF CHANNEL" tvg-logo="/logos/golflatino.png" group-title="DEPORTES",GOLF CHANNEL
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=golflatino&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="StarAction.ar" tvg-name="FOX PREMIUM ACTION" tvg-logo="/logos/foxaction.png" group-title="DEPORTES",FOX PREMIUM ACTION
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxaction&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="ADRENALINA SPORTS" tvg-logo="/logos/adrenalinatv.png" group-title="DEPORTES",ADRENALINA SPORTS
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=adrenalinatv&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AYM SPORTS" tvg-logo="/logos/aym.png" group-title="DEPORTES",AYM SPORTS
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=aymsports&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="UNIVISION DEPORTES" tvg-logo="/logos/univisiondeportes.png" group-title="DEPORTES",UNIVISION DEPORTES
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=univisiondeportes&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS" tvg-logo="/logos/win.png" group-title="DEPORTES",WIN SPORTS
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=winsports&k=blcckgh0oo05t&f=.m3u8
 
 
 #EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN UHD (EXCLUSIVO)
-https://blackghost.live/play/codeplus4-731.php?c=87063
+https://blackghost.live/play/codeplus4-804.php?c=87063
 #EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN HD
-https://blackghost.live/play/codeplus4-731.php?c=905
+https://blackghost.live/play/codeplus4-804.php?c=905
 #EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN FHD
-https://blackghost.live/play/codeplus4-731.php?c=920
+https://blackghost.live/play/codeplus4-804.php?c=920
 #EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN HD OPC 2
-https://blackghost.live/play/codeplus4-731.php?c=921
+https://blackghost.live/play/codeplus4-804.php?c=921
 #EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN SD
-https://blackghost.live/play/codeplus4-731.php?c=2976
+https://blackghost.live/play/codeplus4-804.php?c=2976
+
+PREMIUM
+
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-channel.png" group-title="PREMIUM",STAR CHANNEL
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/star-series.png" group-title="PREMIUM",STAR SERIES
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxseries&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-fun.png" group-title="PREMIUM",STAR FUN
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxfamily&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-cinema.png" group-title="PREMIUM",STAR CINEMA
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxcinema&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-comedy.png" group-title="PREMIUM",STAR COMEDY
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxcomedy&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/star-classics.png" group-title="PREMIUM",STAR CLASSICS
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxclassics&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-hits.png" group-title="PREMIUM",STAR HITS
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxmovies&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-life.png" group-title="PREMIUM",STAR LIFE
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxlife&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbo.png" group-title="PREMIUM",HBO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=hbo&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbo2.png" group-title="PREMIUM",HBO 2
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=hbo2&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hboplus.png" group-title="PREMIUM",HBO PLUS
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=hboplus&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbofamily.png" group-title="PREMIUM",HBO FAMILY
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=hbofamily&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbosignature.png" group-title="PREMIUM",HBO SIGNATURE
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=hbosignature&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hboxtreme.png" group-title="PREMIUM",HBO XTREME
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=maxprime&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbomundi.png" group-title="PREMIUM",HBO MUNDI
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=maxlatino&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbopop.png" group-title="PREMIUM",HBO POP
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=maxup&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/golden.png" group-title="PREMIUM",GOLDEN
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=golden&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenplus.png" group-title="PREMIUM",GOLDEN PLUS
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=goldenplus&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenedge.png" group-title="PREMIUM",GOLDEN EDGE
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=goldenedge&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinemax.png" group-title="PREMIUM",CINEMAX
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=cinemax&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinecanal.png" group-title="PREMIUM",CINECANAL
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=cinecanal&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntlatino.png" group-title="PREMIUM",TNT LATINO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=tnt&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntseries.png" group-title="PREMIUM",TNT SERIES
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=tntseries&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/axnlatino.png" group-title="PREMIUM",AXN LATINO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=axn&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/amclatino.png" group-title="PREMIUM",AMC LATINO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=amc&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tcmlatino.png" group-title="PREMIUM",TCM LATINO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=tcm&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/syfy.png" group-title="PREMIUM",SYFY LATINO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=syfy&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fxm.png" group-title="PREMIUM",FXM
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fxm&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fx.png" group-title="PREMIUM",FX
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fx&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/space.png" group-title="PREMIUM",SPACE
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=space&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/comedycentrallatino.png" group-title="PREMIUM",COMEDY CENTRAL LATINO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=comedycentral&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/paramountlatino.png" group-title="PREMIUM",PARAMOUNT CHANNEL LATINO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=paramountchannel&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/sony.png" group-title="PREMIUM",SONY
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=sony&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tbs.png" group-title="PREMIUM",TBS
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=tbs&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/studiouniversal.png" group-title="PREMIUM",STUDIO UNIVERSAL
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=studiouniversal&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/universalchannel.png" group-title="PREMIUM",UNIVERSAL CHANNEL
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=universalchannel&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/warner.png" group-title="PREMIUM",WARNER
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=warner&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/depelicula.png" group-title="PREMIUM",DE PELICULA
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=depelicula&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/distritocomedia.png" group-title="PREMIUM",DISTRITO COMEDIA
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=distritocomedia
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/historylatino.png" group-title="PREMIUM",HISTORY
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=history&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/history2.png" group-title="PREMIUM",HISTORY 2
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=history2&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverychannellatino.png" group-title="PREMIUM",DISCOVERY CHANNEL
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=discoverychannel&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tlc.png" group-title="PREMIUM",DISCOVERY TLC
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=tlc&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hgtv.png" group-title="PREMIUM",DISCOVERY CIVILIZATION
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=discoverycivilization&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryturbo.png" group-title="PREMIUM",DISCOVERY TURBO
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=discoveryturbo&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverytheater.png" group-title="PREMIUM",DISCOVERY THEATER
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=discoverytheater&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverysci.png" group-title="PREMIUM",DISCOVERY SCIENCIE
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=discoverysciencie&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/invdiscovery.png" group-title="PREMIUM",INVESTIGACION DISCOVERY
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=discoveryinvestigacion&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryhh.png" group-title="PREMIUM",DISCOVERY H&H
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=discoveryhh&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryworl.png" group-title="PREMIUM",DISCOVERY WORLD
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=discoveryworl&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nationalgeographiclatino.png" group-title="PREMIUM",NATIONAL GEOGRAPHIC
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=nationalgeo&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/natgeowilllatino.png" group-title="PREMIUM",NAT GEO WILL
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=nationalwill&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/ae.png" group-title="PREMIUM",A&E
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=ae&k=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/animalplanet.png" group-title="PREMIUM",ANIMAL PLANET
+https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=animalplanet&k=blcckgh0oo05t&f=.m3u8
 
 
 
+Lista 28
+
+#EXTINF:-1 group-title="Lista 28",LAT SD: Animal Planet
+https://blackghost.live/play/codeplus4-804.php?c=86721
+#EXTINF:-1 group-title="Lista 28",LAT HD: A&E
+https://blackghost.live/play/codeplus4-804.php?c=86722
+#EXTINF:-1 group-title="Lista 28",LAT SD: A&E
+https://blackghost.live/play/codeplus4-804.php?c=86723
+#EXTINF:-1 group-title="Lista 28",LAT HD: AXN HD
+https://blackghost.live/play/codeplus4-804.php?c=86724
+#EXTINF:-1 group-title="Lista 28",LAT SD: AXN
+https://blackghost.live/play/codeplus4-804.php?c=86725
+#EXTINF:-1 group-title="Lista 28",LAT SD:Comedy Central
+https://blackghost.live/play/codeplus4-804.php?c=86726
+#EXTINF:-1 group-title="Lista 28",LAT HD: SONY
+https://blackghost.live/play/codeplus4-804.php?c=86727
+#EXTINF:-1 group-title="Lista 28",LAT SD: Sony
+https://blackghost.live/play/codeplus4-804.php?c=86728
+#EXTINF:-1 group-title="Lista 28",LAT HD: WARNER
+https://blackghost.live/play/codeplus4-804.php?c=86729
+#EXTINF:-1 group-title="Lista 28",LAT SD:!E
+https://blackghost.live/play/codeplus4-804.php?c=86731
+#EXTINF:-1 group-title="Lista 28",LAT HD: FX
+https://blackghost.live/play/codeplus4-804.php?c=86732
+#EXTINF:-1 group-title="Lista 28",LAT SD: FX
+https://blackghost.live/play/codeplus4-804.php?c=86733
+#EXTINF:-1 group-title="Lista 28",LAT HD: UNIVERSAL
+https://blackghost.live/play/codeplus4-804.php?c=86734
+#EXTINF:-1 group-title="Lista 28",LAT SD: Universal
+https://blackghost.live/play/codeplus4-804.php?c=86735
+#EXTINF:-1 group-title="Lista 28",LAT SD: SyFy
+https://blackghost.live/play/codeplus4-804.php?c=86736
+#EXTINF:-1 group-title="Lista 28",LAT SD: Discovery Channel
+https://blackghost.live/play/codeplus4-804.php?c=86737
+#EXTINF:-1 group-title="Lista 28",LAT HD: Discovery ID
+https://blackghost.live/play/codeplus4-804.php?c=86738
+#EXTINF:-1 group-title="Lista 28",LAT SD: Discovery ID
+https://blackghost.live/play/codeplus4-804.php?c=86739
+#EXTINF:-1 group-title="Lista 28",LAT SD: Discovery TLC
+https://blackghost.live/play/codeplus4-804.php?c=86740
+#EXTINF:-1 group-title="Lista 28",LAT HD: Discovery H&H
+https://blackghost.live/play/codeplus4-804.php?c=86741
+#EXTINF:-1 group-title="Lista 28",LAT SD: Discovery h&h
+https://blackghost.live/play/codeplus4-804.php?c=86742
+#EXTINF:-1 group-title="Lista 28",LAT SD: Discovery Theater
+https://blackghost.live/play/codeplus4-804.php?c=86743
+#EXTINF:-1 group-title="Lista 28",LAT SD: Discovery Turbo
+https://blackghost.live/play/codeplus4-804.php?c=86744
+#EXTINF:-1 group-title="Lista 28",LAT SD:Discovery Kids
+https://blackghost.live/play/codeplus4-804.php?c=86745
+#EXTINF:-1 group-title="Lista 28",LAT HD: STAR CHANNEL
+https://blackghost.live/play/codeplus4-804.php?c=86746
+#EXTINF:-1 group-title="Lista 28",LAT SD: star channel
+https://blackghost.live/play/codeplus4-804.php?c=86747
+#EXTINF:-1 group-title="Lista 28",LAT HD:FOX SERIES
+https://blackghost.live/play/codeplus4-804.php?c=86748
+#EXTINF:-1 group-title="Lista 28",LAT HD: star series
+https://blackghost.live/play/codeplus4-804.php?c=86749
+#EXTINF:-1 group-title="Lista 28",LAT SD: Star Fun
+https://blackghost.live/play/codeplus4-804.php?c=86750
+#EXTINF:-1 group-title="Lista 28",LAT HD: STAR ACTION
+https://blackghost.live/play/codeplus4-804.php?c=86751
+#EXTINF:-1 group-title="Lista 28",LAT SD: Star Action
+https://blackghost.live/play/codeplus4-804.php?c=86752
+#EXTINF:-1 group-title="Lista 28",LAT SD: FOX MOVIE
+https://blackghost.live/play/codeplus4-804.php?c=86753
+#EXTINF:-1 group-title="Lista 28",LAT SD: Star Hits
+https://blackghost.live/play/codeplus4-804.php?c=86754
+#EXTINF:-1 group-title="Lista 28",LAT HD: Star Classics
+https://blackghost.live/play/codeplus4-804.php?c=86755
+#EXTINF:-1 group-title="Lista 28",LAT SD: Star Life
+https://blackghost.live/play/codeplus4-804.php?c=86756
+#EXTINF:-1 group-title="Lista 28",LAT HD: HBO
+https://blackghost.live/play/codeplus4-804.php?c=86757
+#EXTINF:-1 group-title="Lista 28",LAT SD: HBO
+https://blackghost.live/play/codeplus4-804.php?c=86758
+#EXTINF:-1 group-title="Lista 28",LAT SD: HBO 2
+https://blackghost.live/play/codeplus4-804.php?c=86759
+#EXTINF:-1 group-title="Lista 28",LAT SD: HBO Plus
+https://blackghost.live/play/codeplus4-804.php?c=86760
+#EXTINF:-1 group-title="Lista 28",LAT SD: HBO Family
+https://blackghost.live/play/codeplus4-804.php?c=86761
+#EXTINF:-1 group-title="Lista 28",LAT SD: SHOWTIME
+https://blackghost.live/play/codeplus4-804.php?c=86762
+#EXTINF:-1 group-title="Lista 28",LAT HD: CINE LATINO
+https://blackghost.live/play/codeplus4-804.php?c=86764
+#EXTINF:-1 group-title="Lista 28",LAT SD: FX Movies Lat
+https://blackghost.live/play/codeplus4-804.php?c=86767
+#EXTINF:-1 group-title="Lista 28",LAT SD: Paramount Channel
+https://blackghost.live/play/codeplus4-804.php?c=86768
+#EXTINF:-1 group-title="Lista 28",LAT HD: TNT
+https://blackghost.live/play/codeplus4-804.php?c=86769
+#EXTINF:-1 group-title="Lista 28",LAT SD:TNT
+https://blackghost.live/play/codeplus4-804.php?c=86770
+#EXTINF:-1 group-title="Lista 28",LAT SD:TNT Series
+https://blackghost.live/play/codeplus4-804.php?c=86771
+#EXTINF:-1 group-title="Lista 28",LAT SD: TBS
+https://blackghost.live/play/codeplus4-804.php?c=86772
+#EXTINF:-1 group-title="Lista 28",LAT SD: CinecanalW
+https://blackghost.live/play/codeplus4-804.php?c=86773
+#EXTINF:-1 group-title="Lista 28",LAT HD: SPACE
+https://blackghost.live/play/codeplus4-804.php?c=86774
+#EXTINF:-1 group-title="Lista 28",LAT SD:Space
+https://blackghost.live/play/codeplus4-804.php?c=86775
+#EXTINF:-1 group-title="Lista 28",LAT SD: Studio
+https://blackghost.live/play/codeplus4-804.php?c=86776
+#EXTINF:-1 group-title="Lista 28",LAT SD:I.Sat
+https://blackghost.live/play/codeplus4-804.php?c=86778
+#EXTINF:-1 group-title="Lista 28",LAT SD | NBC Universo
+https://blackghost.live/play/codeplus4-804.php?c=86780
+#EXTINF:-1 group-title="Lista 28",LAT SD: HBO Xtreme
+https://blackghost.live/play/codeplus4-804.php?c=86781
+#EXTINF:-1 group-title="Lista 28",LAT SD:Cinemax
+https://blackghost.live/play/codeplus4-804.php?c=86782
+#EXTINF:-1 group-title="Lista 28",LAT SD: NatGeo
+https://blackghost.live/play/codeplus4-804.php?c=86783
+#EXTINF:-1 group-title="Lista 28",LAT SD: NATGEO Wild
+https://blackghost.live/play/codeplus4-804.php?c=86784
+#EXTINF:-1 group-title="Lista 28",LAT SD:NatGeo Kids
+https://blackghost.live/play/codeplus4-804.php?c=86785
+#EXTINF:-1 group-title="Lista 28",LAT HD: HISTORY
+https://blackghost.live/play/codeplus4-804.php?c=86786
+#EXTINF:-1 group-title="Lista 28",LAT SD: History Channel
+https://blackghost.live/play/codeplus4-804.php?c=86787
+#EXTINF:-1 group-title="Lista 28",LAT SD:H2
+https://blackghost.live/play/codeplus4-804.php?c=86788
+#EXTINF:-1 group-title="Lista 28",LAT SD: Lifetime
+https://blackghost.live/play/codeplus4-804.php?c=86790
+#EXTINF:-1 group-title="Lista 28",LAT SD: Arts
+https://blackghost.live/play/codeplus4-804.php?c=86791
+#EXTINF:-1 group-title="Lista 28",LAT SD | Univision
+https://blackghost.live/play/codeplus4-804.php?c=86792
+#EXTINF:-1 group-title="Lista 28",LAT HD : Telemundo
+https://blackghost.live/play/codeplus4-804.php?c=86793
+#EXTINF:-1 group-title="Lista 28",LAT SD: Telemundo
+https://blackghost.live/play/codeplus4-804.php?c=86794
+#EXTINF:-1 group-title="Lista 28",LAT SD: Unimas
+https://blackghost.live/play/codeplus4-804.php?c=86795
+#EXTINF:-1 group-title="Lista 28",LAT SD: Galavision Usa
+https://blackghost.live/play/codeplus4-804.php?c=86796
+#EXTINF:-1 group-title="Lista 28",LAT HD: EstrellaTV
+https://blackghost.live/play/codeplus4-804.php?c=86797
+#EXTINF:-1 group-title="Lista 28",LAT SD:Nickelodeon
+https://blackghost.live/play/codeplus4-804.php?c=86798
+#EXTINF:-1 group-title="Lista 28",LAT SD:Disney XD
+https://blackghost.live/play/codeplus4-804.php?c=86799
+#EXTINF:-1 group-title="Lista 28",LAT SD:Cartoon Network
+https://blackghost.live/play/codeplus4-804.php?c=86800
+#EXTINF:-1 group-title="Lista 28",LAT HD: DISNEY
+https://blackghost.live/play/codeplus4-804.php?c=86801
+#EXTINF:-1 group-title="Lista 28",LAT SD:Disney Channel
+https://blackghost.live/play/codeplus4-804.php?c=86802
+#EXTINF:-1 group-title="Lista 28",LAT SD:Boomerang
+https://blackghost.live/play/codeplus4-804.php?c=86803
+#EXTINF:-1 group-title="Lista 28",LAT SD:Baby TV
+https://blackghost.live/play/codeplus4-804.php?c=86804
+#EXTINF:-1 group-title="Lista 28",LAT SD:Nick Jr
+https://blackghost.live/play/codeplus4-804.php?c=86805
+#EXTINF:-1 group-title="Lista 28",LAT SD: Disney Jr
+https://blackghost.live/play/codeplus4-804.php?c=86806
+#EXTINF:-1 group-title="Lista 28",LAT SD:CNN USA
+https://blackghost.live/play/codeplus4-804.php?c=86807
+#EXTINF:-1 group-title="Lista 28",LAT SD:CNN
+https://blackghost.live/play/codeplus4-804.php?c=86808
+#EXTINF:-1 group-title="Lista 28",LAT SD: MTV
+https://blackghost.live/play/codeplus4-804.php?c=86809
+#EXTINF:-1 group-title="Lista 28",LAT SD: MTV Hits
+https://blackghost.live/play/codeplus4-804.php?c=86810
+#EXTINF:-1 group-title="Lista 28",LAT SD: Mtv Tres
+https://blackghost.live/play/codeplus4-804.php?c=86811
+#EXTINF:-1 group-title="Lista 28",LAT SD: VH1
+https://blackghost.live/play/codeplus4-804.php?c=86812
 #EXTINF:-1 group-title="Lista 28",Deportes SD | TDN (720)
-https://blackghost.live/play/codeplus4-731.php?c=86821
+https://blackghost.live/play/codeplus4-804.php?c=86821
 #EXTINF:-1 group-title="Lista 28",Deportes SD | ESPN
-https://blackghost.live/play/codeplus4-731.php?c=86822
+https://blackghost.live/play/codeplus4-804.php?c=86822
 #EXTINF:-1 group-title="Lista 28",Deportes HD | ESPN (720)
-https://blackghost.live/play/codeplus4-731.php?c=86823
+https://blackghost.live/play/codeplus4-804.php?c=86823
 #EXTINF:-1 group-title="Lista 28",Deportes SD | ESPN 2
-https://blackghost.live/play/codeplus4-731.php?c=86824
+https://blackghost.live/play/codeplus4-804.php?c=86824
 #EXTINF:-1 group-title="Lista 28",Deportes SD | ESPN 3
-https://blackghost.live/play/codeplus4-731.php?c=86825
+https://blackghost.live/play/codeplus4-804.php?c=86825
 #EXTINF:-1 group-title="Lista 28",Deportes SD | Fox Sports
-https://blackghost.live/play/codeplus4-731.php?c=86826
+https://blackghost.live/play/codeplus4-804.php?c=86826
 #EXTINF:-1 group-title="Lista 28",Deportes SD | FOX SPORTS HD (720)
-https://blackghost.live/play/codeplus4-731.php?c=86827
+https://blackghost.live/play/codeplus4-804.php?c=86827
 #EXTINF:-1 group-title="Lista 28",Deportes SD | FoxSport 2
-https://blackghost.live/play/codeplus4-731.php?c=86828
+https://blackghost.live/play/codeplus4-804.php?c=86828
 #EXTINF:-1 group-title="Lista 28",Deportes SD | FOX SPORTS 2 (720)
-https://blackghost.live/play/codeplus4-731.php?c=86829
+https://blackghost.live/play/codeplus4-804.php?c=86829
 #EXTINF:-1 group-title="Lista 28",Deportes SD | FoxSport 3
-https://blackghost.live/play/codeplus4-731.php?c=86830
+https://blackghost.live/play/codeplus4-804.php?c=86830
 #EXTINF:-1 group-title="Lista 28",Deportes SD | UTDN USA
-https://blackghost.live/play/codeplus4-731.php?c=86831
+https://blackghost.live/play/codeplus4-804.php?c=86831
 #EXTINF:-1 group-title="Lista 28",Deportes SD | UTDN Mx
-https://blackghost.live/play/codeplus4-731.php?c=86832
+https://blackghost.live/play/codeplus4-804.php?c=86832
 #EXTINF:-1 group-title="Lista 28",Deportes SD | ADRENALINA
+https://blackghost.live/play/codeplus4-804.php?c=86835
 
 
 
@@ -1580,73 +1583,6 @@ https://blackghost.live/play/codeplus4-731.php?c=86832
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-cine
-
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/golden.png", group-title="CINE", GOLDEN
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=golden&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenedge.png", group-title="CINE", GOLDEN EDGE
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=goldenedge&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/goldenplus.png", group-title="CINE", GOLDEN PLUS
- http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=goldenplus&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo.png", group-title="CINE", HBO
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=hbo&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbo2.png", group-title="CINE", HBO 2
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=hbo2&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hboplus.png", group-title="CINE", HBO PLUS
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=hboplus&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/hbofamily.png", group-title="CINE", HBO FAMILY
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=hbofamily&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/cinemax.png", group-title="CINE", CINEMAX
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=cinemax&f=.m3u8
-
-
-
-
-
-
-
-
-
-Deportes
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png", group-title="DEPORTES", FOX SPORT 1 (ESPAÑOL)
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=fox-sports1mx&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png", group-title="DEPORTES", FOX SPORT 2 (ESPAÑOL)
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=fox-sports2mx&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-3_m.png", group-title="DEPORTES", FOX SPORT 3 (ESPAÑOL)
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" , group-title="DEPORTES", ESPN 1 (ESPAÑOL)
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=espn1mx&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png", group-title="DEPORTES", ESPN 2 (ESPAÑOL)
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=espn2mx&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg", group-title="DEPORTES", ESPN 3 (ESPAÑOL)
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=espn2mx&f=.m3u8
-  #EXTINF:-1 tvg-logo="https://roc21cdn-roc21.netdna-ssl.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg", group-title="DEPORTES ", TUDN MEXICO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=tudn&f=.m3u8
 
 REGIO
 
@@ -1717,8 +1653,6 @@ http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=aymsports&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=univisiondeportes&f=.m3u8
 #EXTINF:-1 tvg-id="/logos/win.png" ,WIN SPORTS
 http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=winsports&f=.m3u8
-
-
 #EXTINF:-1  ,TELEFE 
 http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=telefe&f=.m3u8
 #EXTINF:-1  ,EL TRECE 
@@ -1843,10 +1777,6 @@ http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=warner&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=depelicula&f=.m3u8
 #EXTINF:-1  ,DISTRITO COMEDIA 
 http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=distritocomedia&f=.m3u8
-
-
-
-
 #EXTINF:-1  ,cartoon network en vivo
 http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=cartoonnetwork&f=.m3u8
 #EXTINF:-1  ,discovery kids en vivo
