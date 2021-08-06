@@ -1583,23 +1583,23 @@ https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/babyfirst.png" group-title="SEBASTIAN",BABYFIRST
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=infantiles&ch=babyfirst&f=.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",FOX LATINO 
+#EXTINF:-1 group-title="PREMIUM",STAR CHANNEL
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=fox&f=.m3u8
-#EXTINF:-1 group-title="PREMIUM",FOX PREMIUM ACTION 
+#EXTINF:-1 group-title="PREMIUM",STAR ACTION 
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxaction&f=.m3u8
-#EXTINF:-1 group-title="PREMIUM"group-title="PREMIUM",FOX PREMIUM SERIES 
+#EXTINF:-1 group-title="PREMIUM"group-title="PREMIUM",STAR SERIES 
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxseries&f=.m3u8
-#EXTINF:-1 group-title="PREMIUM",FOX PREMIUM FAMILY 
+#EXTINF:-1 group-title="PREMIUM",STAR FUN 
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxfamily&f=.m3u8
-#EXTINF:-1 group-title="PREMIUM",FOX PREMIUM CINEMA 
+#EXTINF:-1 group-title="PREMIUM",STAR CINEMA 
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxcinema&f=.m3u8
-#EXTINF:-1 group-title="PREMIUM",FOX PREMIUM COMEDY 
+#EXTINF:-1 group-title="PREMIUM",STAR COMEDY
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxcomedy&f=.m3u8
-#EXTINF:-1 group-title="PREMIUM",FOX PREMIUM CLASICS 
+#EXTINF:-1 group-title="PREMIUM",STAR CLASSICS
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxclassics&f=.m3u8
-#EXTINF:-1 group-title="PREMIUM",FOX PREMIUM MOVIES 
+#EXTINF:-1 group-title="PREMIUM",STAR CLASSICS
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxmovies&f=.m3u8
-#EXTINF:-1 group-title="PREMIUM",FOX LIFE LATINO 
+#EXTINF:-1 group-title="PREMIUM",STAR LIFE 
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxlife&f=.m3u8
 #EXTINF:-1 group-title="PREMIUM",HBO LATINO 
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=hbo&f=.m3u8
