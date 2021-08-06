@@ -1160,106 +1160,105 @@ https://blackghost.live/play/codeplus4-804.php?c=86805
 https://blackghost.live/play/codeplus3-804.php?c=34779
 #EXTINF:-1 group-title="SEBASTIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png",NICK JR (LAT)
 https://blackghost.live/play/codeplus4-804.php?c=1092
-#EXTINF:-1 group-title="SEBASTIAN",NatGeo Kids LAT 
+#EXTINF:-1 group-title="SEBASTIAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/150px-Natgeo_Kids_logo.svg.png",NAT GEO KIDS 
 https://blackghost.live/play/codeplus4-804.php?c=86785
-#EXTINF:-1 tvg-id="BabyFirstAmericasSpanish.mx" tvg-name="babyfirst" tvg-logo="/logos/babyfirst.png" group-title="SEBASTIAN",babyfirst
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/babyfirst.png" group-title="SEBASTIAN",BABYFIRST
 https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=babyfirst&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="cartoon network" tvg-logo="/logos/cartoonnetwork.png" group-title="SEBASTIAN",cartoon network
-https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=cartoonnetwork&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="discovery kids" tvg-logo="/logos/discoverykids.png" group-title="SEBASTIAN",discovery kids
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cartoonnetwork.png" group-title="SEBASTIAN",CARTOON NETWORK
+https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=cartoonnetworkk=blcckgh0oo05t&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverykids.png" group-title="SEBASTIAN",DISCOVERY KIDS
 https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=discoverykids&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="disney junior" tvg-logo="/logos/disneyjunior.png" group-title="SEBASTIAN",disney junior
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneyjunior.png" group-title="SEBASTIAN",DISNEY JUNIOR
 https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=disneyjunior&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="disney xd" tvg-logo="/logos/disneyxd.png" group-title="SEBASTIAN",disney xd
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneyxd.png" group-title="SEBASTIAN",DISNEY XD
 https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=disneyxd&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="disney channel" tvg-logo="/logos/disneychannel.png" group-title="SEBASTIAN",disney channel
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneychannel.png" group-title="SEBASTIAN",DISNEY CHANNEL
 https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=disneychannel&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Nick.mx" tvg-name="nick" tvg-logo="/logos/nick.png" group-title="SEBASTIAN",nick
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nick.png" group-title="SEBASTIAN",NICK
 https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=nick&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="nicktoons" tvg-logo="/logos/nicktoons.png" group-title="SEBASTIAN",nicktoons
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nicktoons.png" group-title="SEBASTIAN",NICKTOONS 
 https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=nicktoons&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="tooncast" tvg-logo="/logos/tooncast.png" group-title="SEBASTIAN",tooncast
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tooncast.png" group-title="SEBASTIAN",TOONCAST
 https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=tooncast&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180719/kgz/kisspng-logo-boing-mediaset-espaa-comunicacin-spain-te-boomerang-outline-5b504e541a6a21.7728930715319895881082.jpg" group-title="SEBASTIAN",BOING
-https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=boing&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Clan_TVE_logo.png/revision/latest/scale-to-width-down/1000?cb=20160113231304&path-prefix=es" group-title="SEBASTIAN",CLAN TV 
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/clantv.png" group-title="SEBASTIAN",CLAN TV 
 https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=clantv&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="SEBASTIAN",PAKA PAKA
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/pakapaka.png" group-title="SEBASTIAN",PAKA PAKA
 https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=pakapaka&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Kids_TV.png/revision/latest/scale-to-width-down/250?cb=20210109122952" group-title="SEBASTIAN",KIDS TV
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/kidstv.png" group-title="SEBASTIAN",KIDS TV
 https://blackghost.live/play/wistream-bglive-804.php?cat=infantiles&ch=kidstv&k=blcckgh0oo05t&f=.m3u8
 
 DEPORTES
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS" tvg-logo="/logos/tntsports.png" group-title="DEPORTES", | TNT SPORTS
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/tntsports.png" group-title="DEPORTES", | TNT SPORTS
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=tnt-sports&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="FOX SPORTS PREMIUM" tvg-logo="/logos/fox-sports-premium1.png" group-title="DEPORTES", | FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/fox-sports-premium1.png" group-title="DEPORTES", | FOX SPORTS PREMIUM
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox-sports-premium&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="/logos/tudn.png" group-title="DEPORTES", | TUDN
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/tudn.png" group-title="DEPORTES", | TUDN
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=tudn&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="Bein Sports Latino en vivo Online" tvg-logo="/logos/beinlatino.png" group-title="DEPORTES",BEIN SPORT LATINO 
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/beinlatino.png" group-title="DEPORTES",BEIN SPORT LATINO 
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=beinlatino&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="GOLTV(Spanish).us" tvg-name="GOLTV Latino en vivo Online" tvg-logo="/logos/goltvlatino.png" group-title="DEPORTES",GOLTV 
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/goltvlatino.png" group-title="DEPORTES",GOLTV 
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=goltvlatino&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="GOL PERU" tvg-logo="/logos/golperu.png" group-title="DEPORTES",GOL | PERU
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/golperu.png" group-title="DEPORTES",GOL | PERU
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=golperu&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="FOXSports(ConoSurArgentina).ar" tvg-name="FOX SPORTS ARGENTINA" tvg-logo="/logos/foxsports1ar.png" group-title="DEPORTES",FOX SPORTS | ARGENTINA
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/foxsports1ar.png" group-title="DEPORTES",FOX SPORTS | ARGENTINA
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox-sports1ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(Argentina).ar" tvg-name="FOX SPORTS 2 ARGENTINA" tvg-logo="/logos/foxsports2ar.png" group-title="DEPORTES",FOX SPORTS 2 | ARGENTINA
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/foxsports2ar.png" group-title="DEPORTES",FOX SPORTS 2 | ARGENTINA
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox-sports2ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports3(ConoSur).ar" tvg-name="FOX SPORTS 3 ARGENTINA" tvg-logo="/logos/foxsports3ar.png" group-title="DEPORTES",FOX SPORTS 3 | ARGENTINA
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/foxsports3ar.png" group-title="DEPORTES",FOX SPORTS 3 | ARGENTINA
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox-sports3ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN ARGENTINA" tvg-logo="/logos/espnar.png" group-title="DEPORTES",ESPN | ARGENTINA
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/espnar.png" group-title="DEPORTES",ESPN | ARGENTINA
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=espn1ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 ARGENTINA" tvg-logo="/logos/espn2ar.png" group-title="DEPORTES",ESPN 2 | ARGENTINA
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/espn2ar.png" group-title="DEPORTES",ESPN 2 | ARGENTINA
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=espn2ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN3(South).ar" tvg-name="ESPN 3 ARGENTINA" tvg-logo="/logos/espn3ar.png" group-title="DEPORTES",ESPN 3 | ARGENTINA
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/espn3ar.png" group-title="DEPORTES",ESPN 3 | ARGENTINA
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=espn3ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX SPORTS MEXICO" tvg-logo="/logos/foxsports1mx.png" group-title="DEPORTES",FOX SPORTS | MEXICO
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/foxsports1mx.png" group-title="DEPORTES",FOX SPORTS | MEXICO
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox-sports1mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="FOX SPORTS 2 MEXICO" tvg-logo="/logos/foxsports2mx.png" group-title="DEPORTES",FOX SPORTS 2 | MEXICO
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/foxsports2mx.png" group-title="DEPORTES",FOX SPORTS 2 | MEXICO
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox-sports2mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="FOX SPORTS 3 MEXICO" tvg-logo="/logos/foxsports3mx.png" group-title="DEPORTES",FOX SPORTS 3 | MEXICO
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/foxsports3mx.png" group-title="DEPORTES",FOX SPORTS 3 | MEXICO
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=fox-sports3mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN MEXICO" tvg-logo="/logos/espnmx.png" group-title="DEPORTES",ESPN | MEXICO
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/espnmx.png" group-title="DEPORTES",ESPN | MEXICO
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=espn1mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2 MEXICO" tvg-logo="/logos/espn2mx.png" group-title="DEPORTES",ESPN 2 | MEXICO
+#EXTINF:-1 tvg-logo="/https://adictosaldeporte.com/logos/espn2mx.png" group-title="DEPORTES",ESPN 2 | MEXICO
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=espn2mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3 MEXICO" tvg-logo="/logos/espn3mx.png" group-title="DEPORTES",ESPN  | MEXICO
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/espn3mx.png" group-title="DEPORTES",ESPN 3  | MEXICO
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=espn3mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="ESPNEXTRA.co" tvg-name="ESPN + ARGENTINA" tvg-logo="/logos/espnmasar.png" group-title="DEPORTES",ESPN PLUS | ARGENTINA
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/espnmasar.png" group-title="DEPORTES",ESPN PLUS | ARGENTINA
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=espn+ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="DIRECTV SPORTS" tvg-logo="/logos/directvsports.png" group-title="DEPORTES",DIRECTV SPORTS
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/directvsports.png" group-title="DEPORTES",DIRECTV SPORTS
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=directv-sports&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="DIRECTV SPORTS 2" tvg-logo="/logos/directvsports2.png" group-title="DEPORTES",DIRECTV SPORTS 2
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/directvsports2.png" group-title="DEPORTES",DIRECTV SPORTS 2
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=directv-sports2&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="DIRECTV SPORTS PLUS" tvg-logo="/logos/directv-sports-plus.png" group-title="DEPORTES",DIRECTV SPORTS PLUS
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/directv-sports-plus.png" group-title="DEPORTES",DIRECTV SPORTS PLUS
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=directv-sports-plus&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS" tvg-logo="/logos/tyc.png" group-title="DEPORTES",TYC SPORTS
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/tyc.png" group-title="DEPORTES",TYC SPORTS
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=tyc&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="GOLF CHANNEL" tvg-logo="/logos/golflatino.png" group-title="DEPORTES",GOLF CHANNEL
+#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/golflatino.png" group-title="DEPORTES",GOLF CHANNEL
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=golflatino&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="StarAction.ar" tvg-name="FOX PREMIUM ACTION" tvg-logo="/logos/foxaction.png" group-title="DEPORTES",FOX PREMIUM ACTION
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-action.png" group-title="DEPORTES",FOX PREMIUM ACTION
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=foxaction&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="ADRENALINA SPORTS" tvg-logo="/logos/adrenalinatv.png" group-title="DEPORTES",ADRENALINA SPORTS
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/adrenalinatv.png" group-title="DEPORTES",ADRENALINA SPORTS
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=adrenalinatv&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AYM SPORTS" tvg-logo="/logos/aym.png" group-title="DEPORTES",AYM SPORTS
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/aym.png" group-title="DEPORTES",AYM SPORTS
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=aymsports&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="UNIVISION DEPORTES" tvg-logo="/logos/univisiondeportes.png" group-title="DEPORTES",UNIVISION DEPORTES
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/univisiondeportes.png" group-title="DEPORTES",UNIVISION DEPORTES
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=univisiondeportes&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS" tvg-logo="/logos/win.png" group-title="DEPORTES",WIN SPORTS
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/win.png" group-title="DEPORTES",WIN SPORTS
 https://blackghost.live/play/wistream-bglive-804.php?cat=latinos&ch=winsports&k=blcckgh0oo05t&f=.m3u8
 
 
-#EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN UHD (EXCLUSIVO)
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Lista 28",COLOMBIA | RCN UHD (EXCLUSIVO)
 https://blackghost.live/play/codeplus4-804.php?c=87063
-#EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Lista 28",COLOMBIA | RCN HD
 https://blackghost.live/play/codeplus4-804.php?c=905
-#EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN FHD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Lista 28",COLOMBIA | RCN FHD
 https://blackghost.live/play/codeplus4-804.php?c=920
-#EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN HD OPC 2
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Lista 28",COLOMBIA | RCN HD OPC 2
 https://blackghost.live/play/codeplus4-804.php?c=921
-#EXTINF:-1 group-title="Lista 28",COLOMBIA | RCN SD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="Lista 28",COLOMBIA | RCN SD
 https://blackghost.live/play/codeplus4-804.php?c=2976
 
 PREMIUM
@@ -1576,265 +1575,119 @@ https://blackghost.live/play/codeplus4-804.php?c=86835
 
 
 
-
-
-
-
-
-
-
-
 REGIO
 
 #EXTINF:-1  tvg-id="Lista TV", Univision
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="/logos/tntsports.png" ,TNT SPORTS
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=tnt-sports&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/fox-sports-premium1.png" ,FOX SPORTS PREMIUM
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=fox-sports-premium&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/tudn.png" ,TUDN
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=tudn&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/goltvlatino.png" ,GOLTV Latino en vivo Online
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=goltvlatino&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/beinlatino.png" ,Bein Sports Latino en vivo Online
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=beinlatino&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/vtv.png" ,VTV URUGUAY
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=vtv&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/caracoltv.png" ,CARACOL TV
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=caracoltv&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/golperu.png" ,GOL PERU
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=golperu&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/cdf.png" ,CDF
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=cdfpremium&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/foxsports1ar.png" ,FOX SPORTS ARGENTINA
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=fox-sports1ar&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/foxsports2ar.png" ,FOX SPORTS 2 ARGENTINA
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=fox-sports2ar&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/foxsports3ar.png" ,FOX SPORTS 3 ARGENTINA
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=fox-sports3ar&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/espnar.png" ,ESPN ARGENTINA
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=espn1ar&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/espn2ar.png" ,ESPN 2 ARGENTINA
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=espn2ar&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/espn3ar.png" ,ESPN 3 ARGENTINA
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=espn3ar&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/foxsports1mx.png" ,FOX SPORTS MEXICO
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=fox-sports1mx&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/foxsports2mx.png" ,FOX SPORTS 2 MEXICO
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=fox-sports2mx&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/foxsports3mx.png" ,FOX SPORTS 3 MEXICO
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/espnmx.png" ,ESPN MEXICO
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=espn1mx&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/espn2mx.png" ,ESPN 2 MEXICO
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=espn2mx&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/espn3mx.png" ,ESPN 3 MEXICO
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=espn3mx&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/espnmasar.png" ,ESPN + ARGENTINA
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=espn+ar&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/directvsports.png" ,DIRECTV SPORTS
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=directv-sports&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/directvsports2.png" ,DIRECTV SPORTS 2
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=directv-sports2&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/directv-sports-plus.png" ,DIRECTV SPORTS PLUS
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=directv-sports-plus&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/tyc.png" ,TYC SPORTS
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=tyc&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/golflatino.png" ,GOLF CHANNEL
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=golflatino&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/foxaction.png" ,FOX PREMIUM ACTION
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=foxaction&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/adrenalinatv.png" ,ADRENALINA SPORTS
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=adrenalinatv&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/aym.png" ,AYM SPORTS
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=aymsports&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/univisiondeportes.png" ,UNIVISION DEPORTES
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=univisiondeportes&f=.m3u8
-#EXTINF:-1 tvg-id="/logos/win.png" ,WIN SPORTS
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=winsports&f=.m3u8
-#EXTINF:-1  ,TELEFE 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=telefe&f=.m3u8
-#EXTINF:-1  ,EL TRECE 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=eltrece&f=.m3u8
-#EXTINF:-1  ,AMERICA TV 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=america2&f=.m3u8
-#EXTINF:-1  ,TV PUBLICA 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=tvpublica&f=.m3u8
-#EXTINF:-1  ,TN ARGENTINA 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=tn&f=.m3u8
-#EXTINF:-1  ,C5N ARGENTINA 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=c5n&f=.m3u8
-#EXTINF:-1  ,EL NUEVE 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=canal9ar&f=.m3u8
-#EXTINF:-1  ,CANAL 26 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=canal26ar&f=.m3u8
-#EXTINF:-1  ,CRONICA TV 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=cronicatv&f=.m3u8
-#EXTINF:-1  ,CIUDAD MAGAZINE 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=ciudadmagazine&f=.m3u8
-#EXTINF:-1  ,A 24 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=a24&f=.m3u8
-#EXTINF:-1  ,TELEVISA DEL BAJIO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=canalbajio&f=.m3u8
-#EXTINF:-1  ,CANAL 5 TELEVISA 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=canal5televisa&f=.m3u8
-#EXTINF:-1  ,AZTECA 1 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=azteca&f=.m3u8
-#EXTINF:-1  ,AZTECA SIETE 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=azteca7&f=.m3u8
-#EXTINF:-1  ,AZTECA MAS 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=aztecamas&f=.m3u8
-#EXTINF:-1  ,AZTECA CINEMA 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=aztecacinema&f=.m3u8
-#EXTINF:-1  ,AZTECA MUNDO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=aztecamundo&f=.m3u8
-#EXTINF:-1  ,AZTECA CORAZON 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=aztecacorazon&f=.m3u8
-#EXTINF:-1  ,CANAL LAS ESTRELLAS 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=canalestrellas&f=.m3u8
-#EXTINF:-1  ,TLNOVELAS 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=telenovelas&f=.m3u8
-#EXTINF:-1  ,MTV LATINO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=mtv&f=.m3u8
-#EXTINF:-1  ,FOX LATINO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=fox&f=.m3u8
-#EXTINF:-1  ,FOX PREMIUM ACTION 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=foxaction&f=.m3u8
-#EXTINF:-1  ,FOX PREMIUM SERIES 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=foxseries&f=.m3u8
-#EXTINF:-1  ,FOX PREMIUM FAMILY 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=foxfamily&f=.m3u8
-#EXTINF:-1  ,FOX PREMIUM CINEMA 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=foxcinema&f=.m3u8
-#EXTINF:-1  ,FOX PREMIUM COMEDY 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=foxcomedy&f=.m3u8
-#EXTINF:-1  ,FOX PREMIUM CLASICS 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=foxclassics&f=.m3u8
-#EXTINF:-1  ,FOX PREMIUM MOVIES 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=foxmovies&f=.m3u8
-#EXTINF:-1  ,FOX LIFE LATINO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=foxlife&f=.m3u8
-#EXTINF:-1  ,HBO LATINO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=hbo&f=.m3u8
-#EXTINF:-1  ,HBO 2 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=hbo2&f=.m3u8
-#EXTINF:-1  ,HBO PLUS 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=hboplus&f=.m3u8
-#EXTINF:-1  ,HBO FAMILY 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=hbofamily&f=.m3u8
-#EXTINF:-1  ,HBO SIGNATURE 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=hbosignature&f=.m3u8
-#EXTINF:-1  ,HBO XTREME 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=maxprime&f=.m3u8
-#EXTINF:-1  ,HBO MUNDI 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=maxlatino&f=.m3u8
-#EXTINF:-1  ,HBO POP 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=maxup&f=.m3u8
-#EXTINF:-1  ,GOLDEN 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=golden&f=.m3u8
-#EXTINF:-1  ,GOLDEN PLUS 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=goldenplus&f=.m3u8
-#EXTINF:-1  ,GOLDEN EDGE 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=goldenedge&f=.m3u8
-#EXTINF:-1  ,CINEMAX 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=cinemax&f=.m3u8
-#EXTINF:-1  ,CINECANAL 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=cinecanal&f=.m3u8
-#EXTINF:-1  ,TNT LATINO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=tnt&f=.m3u8
-#EXTINF:-1  ,TNT SERIES 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=tntseries&f=.m3u8
-#EXTINF:-1  ,AXN LATINO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=axn&f=.m3u8
-#EXTINF:-1  ,AMC LATINO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=amc&f=.m3u8
-#EXTINF:-1  ,TCM LATINO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=tcm&f=.m3u8
-#EXTINF:-1  ,SYFY LATINO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=syfy&f=.m3u8
-#EXTINF:-1  ,FXM 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=fxm&f=.m3u8
-#EXTINF:-1  ,FX 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=fx&f=.m3u8
-#EXTINF:-1  ,SPACE 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=space&f=.m3u8
-#EXTINF:-1  ,COMEDY CENTRAL LATINO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=comedycentral&f=.m3u8
-#EXTINF:-1  ,PARAMOUNT CHANNEL LATINO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=paramountchannel&f=.m3u8
-#EXTINF:-1  ,SONY 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=sony&f=.m3u8
-#EXTINF:-1  ,TBS 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=tbs&f=.m3u8
-#EXTINF:-1  ,STUDIO UNIVERSAL 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=studiouniversal&f=.m3u8
-#EXTINF:-1  ,UNIVERSAL CHANNEL 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=universalchannel&f=.m3u8
-#EXTINF:-1  ,WARNER 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=warner&f=.m3u8
-#EXTINF:-1  ,DE PELICULA 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=depelicula&f=.m3u8
-#EXTINF:-1  ,DISTRITO COMEDIA 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=distritocomedia&f=.m3u8
-#EXTINF:-1  ,cartoon network en vivo
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=cartoonnetwork&f=.m3u8
-#EXTINF:-1  ,discovery kids en vivo
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=discoverykids&f=.m3u8
-#EXTINF:-1  ,disney junior en vivo
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=disneyjunior&f=.m3u8
-#EXTINF:-1  ,disney xd en vivo
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=disneyxd&f=.m3u8
-#EXTINF:-1  ,disney channel en vivo
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=disneychannel&f=.m3u8
-#EXTINF:-1  ,nick en vivo
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=nick&f=.m3u8
-#EXTINF:-1  ,nicktoons en vivo
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=nicktoons&f=.m3u8
-#EXTINF:-1  ,babyfirst en vivo
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=babyfirst&f=.m3u8
-#EXTINF:-1  ,tooncast en vivo
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=tooncast&f=.m3u8
-#EXTINF:-1  ,boomerang en vivo
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=boomerang&f=.m3u8
-#EXTINF:-1  ,boing en vivo
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=boing&f=.m3u8
-#EXTINF:-1  ,clantv en vivo
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=clantv&f=.m3u8
-#EXTINF:-1  ,paka paka en vivo
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=pakapaka&f=.m3u8
-#EXTINF:-1  ,kidstv en vivo
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=infantiles&ch=kidstv&f=.m3u8
-#EXTINF:-1  ,HISTORY
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=history&f=.m3u8
-#EXTINF:-1  ,HISTORY 2 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=history2&f=.m3u8
-#EXTINF:-1  ,DISCOVERY CHANNEL 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=discoverychannel&f=.m3u8
-#EXTINF:-1  ,DISCOVERY TLC 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=tlc&f=.m3u8
-#EXTINF:-1  ,DISCOVERY CIVILIZATION 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=discoverycivilization&f=.m3u8
-#EXTINF:-1  ,DISCOVERY TURBO 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=discoveryturbo&f=.m3u8
-#EXTINF:-1  ,DISCOVERY THEATER 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=discoverytheater&f=.m3u8
-#EXTINF:-1  ,DISCOVERY SCIENCIE 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=discoverysciencie&f=.m3u8
-#EXTINF:-1  ,INVESTIGACION DISCOVERY 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=discoveryinvestigacion&f=.m3u8
-#EXTINF:-1  ,DISCOVERY H&H 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=discoveryhh&f=.m3u8
-#EXTINF:-1  ,DISCOVERY WORL 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=discoveryworl&f=.m3u8
-#EXTINF:-1  ,NATIONAL GEOGRAPHIC 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=nationalgeo&f=.m3u8
-#EXTINF:-1  ,NAT GEO WILL 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=nationalwill&f=.m3u8
-#EXTINF:-1  ,A&E 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=ae&f=.m3u8
-#EXTINF:-1  ,ANIMAL PLANET 
-http://ipeteve.com/php/SR_REGIO_250721/bg.php?cat=latinos&ch=animalplanet&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/babyfirst.png" group-title="SEBASTIAN",BABYFIRST
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=infantiles&ch=babyfirst&f=.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",FOX LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=fox&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",FOX PREMIUM ACTION 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxaction&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM"group-title="PREMIUM",FOX PREMIUM SERIES 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxseries&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",FOX PREMIUM FAMILY 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxfamily&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",FOX PREMIUM CINEMA 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxcinema&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",FOX PREMIUM COMEDY 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxcomedy&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",FOX PREMIUM CLASICS 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxclassics&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",FOX PREMIUM MOVIES 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxmovies&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",FOX LIFE LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxlife&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=hbo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO 2 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=hbo2&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO PLUS 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=hboplus&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO FAMILY 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=hbofamily&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO SIGNATURE 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=hbosignature&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO XTREME 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=maxprime&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO MUNDI 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=maxlatino&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO POP 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=maxup&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",GOLDEN 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=golden&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",GOLDEN PLUS 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=goldenplus&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",GOLDEN EDGE 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=goldenedge&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",CINEMAX 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=cinemax&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",CINECANAL 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=cinecanal&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",TNT LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=tnt&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",TNT SERIES 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=tntseries&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",AXN LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=axn&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",AMC LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=amc&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",TCM LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=tcm&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",SYFY LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=syfy&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",FXM 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=fxm&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",FX 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=fx&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",SPACE 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=space&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",COMEDY CENTRAL LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=comedycentral&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",PARAMOUNT CHANNEL LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=paramountchannel&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",SONY 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=sony&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",TBS 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=tbs&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",STUDIO UNIVERSAL 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=studiouniversal&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",UNIVERSAL CHANNEL 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=universalchannel&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",WARNER 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=warner&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",HISTORY
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=history&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",HISTORY 2 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=history2&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",DISCOVERY CHANNEL 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoverychannel&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",DISCOVERY TLC 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=tlc&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",DISCOVERY CIVILIZATION 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoverycivilization&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",DISCOVERY TURBO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoveryturbo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",DISCOVERY THEATER 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoverytheater&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",DISCOVERY SCIENCIE 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoverysciencie&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",INVESTIGACION DISCOVERY 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoveryinvestigacion&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",DISCOVERY H&H
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoveryhh&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",DISCOVERY WORLD 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoveryworl&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",NATIONAL GEOGRAPHIC
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=nationalgeo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",NAT GEO WILL 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=nationalwill&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",A&E 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=ae&f=.m3u8
+
 
 
 
