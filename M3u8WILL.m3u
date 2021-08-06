@@ -1687,6 +1687,8 @@ http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=nationalgeo&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=nationalwill&f=.m3u8
 #EXTINF:-1 group-title="PREMIUM",A&E 
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=ae&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM",ANIMAL PLANET 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=animalplanet&f=.m3u8
 
 
 
