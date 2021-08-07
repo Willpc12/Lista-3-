@@ -1495,7 +1495,7 @@ http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=warner&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=history&f=.m3u8
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/history2.png" group-title="PREMIUM 1",HISTORY 2 
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=history2&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverychannellatino.png" group-title="PREMIUM",DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverychannellatino.png" group-title="PREMIUM 1",DISCOVERY CHANNEL 
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoverychannel&f=.m3u8
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tlc.png" group-title="PREMIUM 1",DISCOVERY TLC 
 http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=tlc&f=.m3u8
