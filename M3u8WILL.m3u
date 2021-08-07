@@ -1174,9 +1174,126 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
 
 
+__________________________________________________________________________________________________________________________________________
 
 
 
+
+
+REGIO PREMIUM 1
+
+#EXTINF:-1  tvg-id="PREMIUM", Univision
+https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/babyfirst.png" group-title="SEBASTIAN",BABYFIRST
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=infantiles&ch=babyfirst&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-channel.png" group-title="PREMIUM 1",STAR CHANNEL
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=fox&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-action.png" group-title="PREMIUM 1",STAR ACTION 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxaction&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-series.png" group-title="PREMIUM 1",STAR SERIES 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxseries&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-fun.png" group-title="PREMIUM 1",STAR FUN 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxfamily&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-cinema.png" group-title="PREMIUM 1",STAR CINEMA 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxcinema&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-comedy.png" group-title="PREMIUM 1",STAR COMEDY
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxcomedy&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-classics.png" group-title="PREMIUM 1",STAR CLASSICS
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxclassics&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-hits.png" group-title="PREMIUM 1",STAR MOVIES
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxmovies&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-life.png" group-title="PREMIUM 1",STAR LIFE 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=foxlife&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbo.png" group-title="PREMIUM 1",HBO LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=hbo&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbo2.png" group-title="PREMIUM 1",HBO 2 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=hbo2&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hboplus.png" group-title="PREMIUM 1",HBO PLUS 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=hboplus&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbofamily.png" group-title="PREMIUM 1",HBO FAMILY 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=hbofamily&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbosignature.png" group-title="PREMIUM 1",HBO SIGNATURE 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=hbosignature&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hboxtreme.png" group-title="PREMIUM 1",HBO XTREME 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=maxprime&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbomundi.png" group-title="PREMIUM 1",HBO MUNDI 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=maxlatino&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbopop.png" group-title="PREMIUM 1",HBO POP 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=maxup&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/golden.png" group-title="PREMIUM 1",GOLDEN 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=golden&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenplus.png" group-title="PREMIUM 1",GOLDEN PLUS 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=goldenplus&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenedge.png" group-title="PREMIUM 1",GOLDEN EDGE 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=goldenedge&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinemax.png" group-title="PREMIUM 1",CINEMAX 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=cinemax&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinecanal.png" group-title="PREMIUM 1",CINECANAL 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=cinecanal&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntlatino.png" group-title="PREMIUM 1",TNT LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=tnt&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntseries.png" group-title="PREMIUM 1",TNT SERIES 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=tntseries&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/axnlatino.png" group-title="PREMIUM 1",AXN LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=axn&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/amclatino.png" group-title="PREMIUM 1",AMC LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=amc&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tcmlatino.png" group-title="PREMIUM 1",TCM LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=tcm&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/syfy.png"  group-title="PREMIUM 1",SYFY LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=syfy&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fxm.png" group-title="PREMIUM 1",FXM 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=fxm&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fx.png" group-title="PREMIUM 1",FX 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=fx&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/space.png" group-title="PREMIUM 1",SPACE 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=space&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/comedycentrallatino.png" group-title="PREMIUM 1",COMEDY CENTRAL LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=comedycentral&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/paramountlatino.png" group-title="PREMIUM 1",PARAMOUNT CHANNEL LATINO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=paramountchannel&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/sony.png" group-title="PREMIUM 1",SONY 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=sony&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tbs.png" group-title="PREMIUM 1",TBS 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=tbs&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/studiouniversal.png" group-title="PREMIUM 1",STUDIO UNIVERSAL 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=studiouniversal&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/universalchannel.png" group-title="PREMIUM 1",UNIVERSAL CHANNEL 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=universalchannel&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/warner.png" group-title="PREMIUM 1",WARNER 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=warner&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/historylatino.png" group-title="PREMIUM 1",HISTORY
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=history&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/history2.png" group-title="PREMIUM 1",HISTORY 2 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=history2&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverychannellatino.png" group-title="PREMIUM 1",DISCOVERY CHANNEL 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoverychannel&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tlc.png" group-title="PREMIUM 1",DISCOVERY TLC 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=tlc&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hgtv.png" group-title="PREMIUM 1",DISCOVERY CIVILIZATION 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoverycivilization&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryturbo.png" group-title="PREMIUM 1",DISCOVERY TURBO 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoveryturbo&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverytheater.png" group-title="PREMIUM 1",DISCOVERY THEATER 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoverytheater&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverysci.png" group-title="PREMIUM 1",DISCOVERY SCIENCIE 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoverysciencie&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/invdiscovery.png" group-title="PREMIUM 1",INVESTIGACION DISCOVERY 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoveryinvestigacion&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryhh.png" group-title="PREMIUM 1",DISCOVERY H&H
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoveryhh&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryworl.png" group-title="PREMIUM 1",DISCOVERY WORLD 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=discoveryworl&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nationalgeographiclatino.png" group-title="PREMIUM 1",NATIONAL GEOGRAPHIC
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=nationalgeo&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/natgeowilllatino.png" group-title="PREMIUM 1",NAT GEO WILL 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=nationalwill&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/ae.png" group-title="PREMIUM 1",A&E 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=ae&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/animalplanet.png" group-title="PREMIUM 1",ANIMAL PLANET 
+http://ipeteve.com/php/SR_REGIO_040821/bg.php?cat=latinos&ch=animalplanet&f=.m3u8
 
 
 
@@ -1284,13 +1401,13 @@ https://blackghost.live/play/wistream-bglive-808.php?cat=latinos&ch=winsports&k=
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="PREMIUM 2",COLOMBIA | RCN HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="PREMIUM 2",A COLOMBIA | RCN HD
 https://blackghost.live/play/codeplus4-808.php?c=905
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="PREMIUM 2",COLOMBIA | RCN FHD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="PREMIUM 2",A COLOMBIA | RCN FHD
 https://blackghost.live/play/codeplus4-808.php?c=920
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="PREMIUM 2",COLOMBIA | RCN HD OPC 2
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="PREMIUM 2",A COLOMBIA | RCN HD OPC 2
 https://blackghost.live/play/codeplus4-808.php?c=921
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="PREMIUM 2",COLOMBIA | RCN SD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="PREMIUM 2",A COLOMBIA | RCN SD
 https://blackghost.live/play/codeplus4-808.php?c=2976
 
 PREMIUM 2
