@@ -742,6 +742,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1 group-title="MUSICA" tvg-logo="http://www.m3u.cl/logo/101700_Rewind_TV.png",REWIND | CHILE
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/vevo_logo_despues.jpg",VEVO REGGAETÓN & TRAP | USA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
+
 #EXTINF:-1 group-title="MUSICA" tvg-logo="http://viernesestudio.com/wp-content/uploads/2018/10/Coope-Logo-3.jpg",COOPE TV | ARGENTINA
 https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 
@@ -750,8 +753,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
 
 
-  #EXTINF:-1 group-title="MUSICA" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/vevo_logo_despues.jpg",VEVO REGGAETÓN & TRAP | USA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
+  
 
 
 
@@ -1505,5 +1507,4 @@ will diario
 
 #EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2017/10/duro-de-cuidar.jpg", group-title="PELICULAS", 001  | Duro de cuidar  | WILLPC
 https://fvs.io/redirector?token=QVg0d1Z4MDlwSDRIT1hsRE9VODJHZkpNWXlKbW43SWYramRYakZ2TzVtc2FNRTdpWW1WVWRGWGl3Ym5sa3BBTWIzaVFkdC9OM09WRm5vOGJsNFd1ZUZuWXB4VnZKOWNkN1BGVzE2Z084aVlpMmwrRWZGbFZDcnlTcnF6QkhoUWh1SGhzUlBNclJUZC9kNXdJYTJjUU9qb3FTNEdxSFhGQXl1RT06Vi9WWjJXdC9EVE9jckhQQTQ2bGJtdz09
-
 
