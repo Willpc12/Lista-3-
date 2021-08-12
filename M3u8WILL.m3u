@@ -1185,115 +1185,114 @@ REGIO PREMIUM 1
 #EXTINF:-1  tvg-id="PREMIUM", Univision
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/babyfirst.png" group-title="SEBASTIAN",BABYFIRST
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=infantiles&ch=babyfirst&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-channel.png" group-title="PREMIUM 1",STAR CHANNEL
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=fox&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-action.png" group-title="PREMIUM 1",STAR ACTION 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxaction&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-series.png" group-title="PREMIUM 1",STAR SERIES 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxseries&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-fun.png" group-title="PREMIUM 1",STAR FUN 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxfamily&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-cinema.png" group-title="PREMIUM 1",STAR CINEMA 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxcinema&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-comedy.png" group-title="PREMIUM 1",STAR COMEDY
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxcomedy&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-classics.png" group-title="PREMIUM 1",STAR CLASSICS
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxclassics&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-hits.png" group-title="PREMIUM 1",STAR MOVIES
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxmovies&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-life.png" group-title="PREMIUM 1",STAR LIFE 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxlife&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbo.png" group-title="PREMIUM 1",HBO LATINO 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=hbo&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbo2.png" group-title="PREMIUM 1",HBO 2 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=hbo2&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hboplus.png" group-title="PREMIUM 1",HBO PLUS 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=hboplus&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbofamily.png" group-title="PREMIUM 1",HBO FAMILY 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=hbofamily&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbosignature.png" group-title="PREMIUM 1",HBO SIGNATURE 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=hbosignature&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hboxtreme.png" group-title="PREMIUM 1",HBO XTREME 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=maxprime&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbomundi.png" group-title="PREMIUM 1",HBO MUNDI 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=maxlatino&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbopop.png" group-title="PREMIUM 1",HBO POP 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=maxup&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/golden.png" group-title="PREMIUM 1",GOLDEN 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=golden&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenplus.png" group-title="PREMIUM 1",GOLDEN PLUS 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=goldenplus&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenedge.png" group-title="PREMIUM 1",GOLDEN EDGE 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=goldenedge&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinemax.png" group-title="PREMIUM 1",CINEMAX 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=cinemax&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinecanal.png" group-title="PREMIUM 1",CINECANAL 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=cinecanal&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntlatino.png" group-title="PREMIUM 1",TNT LATINO 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=tnt&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntseries.png" group-title="PREMIUM 1",TNT SERIES 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=tntseries&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/axnlatino.png" group-title="PREMIUM 1",AXN LATINO 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=axn&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/amclatino.png" group-title="PREMIUM 1",AMC LATINO 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=amc&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tcmlatino.png" group-title="PREMIUM 1",TCM LATINO 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=tcm&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/syfy.png"  group-title="PREMIUM 1",SYFY LATINO 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=syfy&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fxm.png" group-title="PREMIUM 1",FXM 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=fxm&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fx.png" group-title="PREMIUM 1",FX 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=fx&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/space.png" group-title="PREMIUM 1",SPACE 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=space&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/comedycentrallatino.png" group-title="PREMIUM 1",COMEDY CENTRAL LATINO 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=comedycentral&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/paramountlatino.png" group-title="PREMIUM 1",PARAMOUNT CHANNEL LATINO 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=paramountchannel&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/sony.png" group-title="PREMIUM 1",SONY 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=sony&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tbs.png" group-title="PREMIUM 1",TBS 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=tbs&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/studiouniversal.png" group-title="PREMIUM 1",STUDIO UNIVERSAL 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=studiouniversal&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/universalchannel.png" group-title="PREMIUM 1",UNIVERSAL CHANNEL 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=universalchannel&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/warner.png" group-title="PREMIUM 1",WARNER 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=warner&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/historylatino.png" group-title="PREMIUM 1",HISTORY
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=history&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/history2.png" group-title="PREMIUM 1",HISTORY 2 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=history2&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverychannellatino.png" group-title="PREMIUM 1",DISCOVERY CHANNEL 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoverychannel&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tlc.png" group-title="PREMIUM 1",DISCOVERY TLC 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=tlc&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hgtv.png" group-title="PREMIUM 1",DISCOVERY CIVILIZATION 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoverycivilization&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryturbo.png" group-title="PREMIUM 1",DISCOVERY TURBO 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoveryturbo&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverytheater.png" group-title="PREMIUM 1",DISCOVERY THEATER 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoverytheater&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverysci.png" group-title="PREMIUM 1",DISCOVERY SCIENCIE 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoverysciencie&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/invdiscovery.png" group-title="PREMIUM 1",INVESTIGACION DISCOVERY 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoveryinvestigacion&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryhh.png" group-title="PREMIUM 1",DISCOVERY H&H
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoveryhh&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryworl.png" group-title="PREMIUM 1",DISCOVERY WORLD 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoveryworl&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nationalgeographiclatino.png" group-title="PREMIUM 1",NATIONAL GEOGRAPHIC
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=nationalgeo&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/natgeowilllatino.png" group-title="PREMIUM 1",NAT GEO WILL 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=nationalwill&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/ae.png" group-title="PREMIUM 1",A&E 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=ae&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/animalplanet.png" group-title="PREMIUM 1",ANIMAL PLANET 
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=animalplanet&f=.m3u8
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/babyfirst.png" group-title="SEBASTIAN",BABYFIRST								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=infantiles&ch=babyfirst&f=.m3u8								
+								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-channel.png" group-title="PREMIUM 1",STAR CHANNEL								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=fox&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-action.png" group-title="PREMIUM 1",STAR ACTION								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxaction&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-series.png" group-title="PREMIUM 1",STAR SERIES								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxseries&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-fun.png" group-title="PREMIUM 1",STAR FUN								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxfamily&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-cinema.png" group-title="PREMIUM 1",STAR CINEMA								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxcinema&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-comedy.png" group-title="PREMIUM 1",STAR COMEDY								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxcomedy&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-classics.png" group-title="PREMIUM 1",STAR CLASSICS								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxclassics&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-hits.png" group-title="PREMIUM 1",STAR MOVIES								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxmovies&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-life.png" group-title="PREMIUM 1",STAR LIFE								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=foxlife&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbo.png" group-title="PREMIUM 1",HBO LATINO								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=hbo&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbo2.png" group-title="PREMIUM 1",HBO 2								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=hbo2&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hboplus.png" group-title="PREMIUM 1",HBO PLUS								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=hboplus&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbofamily.png" group-title="PREMIUM 1",HBO FAMILY								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=hbofamily&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbosignature.png" group-title="PREMIUM 1",HBO SIGNATURE								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=hbosignature&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hboxtreme.png" group-title="PREMIUM 1",HBO XTREME								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=maxprime&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbomundi.png" group-title="PREMIUM 1",HBO MUNDI								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=maxlatino&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbopop.png" group-title="PREMIUM 1",HBO POP								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=maxup&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/golden.png" group-title="PREMIUM 1",GOLDEN								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=golden&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenplus.png" group-title="PREMIUM 1",GOLDEN PLUS								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=goldenplus&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenedge.png" group-title="PREMIUM 1",GOLDEN EDGE								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=goldenedge&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinemax.png" group-title="PREMIUM 1",CINEMAX								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=cinemax&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinecanal.png" group-title="PREMIUM 1",CINECANAL								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=cinecanal&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntlatino.png" group-title="PREMIUM 1",TNT LATINO								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=tnt&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntseries.png" group-title="PREMIUM 1",TNT SERIES								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=tntseries&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/axnlatino.png" group-title="PREMIUM 1",AXN LATINO								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=axn&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/amclatino.png" group-title="PREMIUM 1",AMC LATINO								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=amc&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tcmlatino.png" group-title="PREMIUM 1",TCM LATINO								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=tcm&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/syfy.png" group-title="PREMIUM 1",SYFY LATINO								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=syfy&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fxm.png" group-title="PREMIUM 1",FXM								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=fxm&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fx.png" group-title="PREMIUM 1",FX								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=fx&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/space.png" group-title="PREMIUM 1",SPACE								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=space&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/comedycentrallatino.png" group-title="PREMIUM 1",COMEDY CENTRAL LATINO					
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=comedycentral&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/paramountlatino.png" group-title="PREMIUM 1",PARAMOUNT CHANNEL LATINO					
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=paramountchannel&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/sony.png" group-title="PREMIUM 1",SONY								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=sony&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tbs.png" group-title="PREMIUM 1",TBS								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=tbs&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/studiouniversal.png" group-title="PREMIUM 1",STUDIO UNIVERSAL							
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=studiouniversal&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/universalchannel.png" group-title="PREMIUM 1",UNIVERSAL CHANNEL							
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=universalchannel&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/warner.png" group-title="PREMIUM 1",WARNER								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=warner&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/historylatino.png" group-title="PREMIUM 1",HISTORY								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=history&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/history2.png" group-title="PREMIUM 1",HISTORY 2								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=history2&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverychannellatino.png" group-title="PREMIUM 1",DISCOVERY CHANNEL						
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoverychannel&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tlc.png" group-title="PREMIUM 1",DISCOVERY TLC								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=tlc&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hgtv.png" group-title="PREMIUM 1",DISCOVERY CIVILIZATION								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoverycivilization&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryturbo.png" group-title="PREMIUM 1",DISCOVERY TURBO							
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoveryturbo&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverytheater.png" group-title="PREMIUM 1",DISCOVERY THEATER							
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoverytheater&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverysci.png" group-title="PREMIUM 1",DISCOVERY SCIENCIE							
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoverysciencie&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/invdiscovery.png" group-title="PREMIUM 1",INVESTIGACION DISCOVERY						
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoveryinvestigacion&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryhh.png" group-title="PREMIUM 1",DISCOVERY H&H								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoveryhh&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryworl.png" group-title="PREMIUM 1",DISCOVERY WORLD							http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=discoveryworl&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nationalgeographiclatino.png" group-title="PREMIUM 1",NATIONAL GEOGRAPHIC					
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=nationalgeo&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/natgeowilllatino.png" group-title="PREMIUM 1",NAT GEO WILL								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=nationalwill&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/ae.png" group-title="PREMIUM 1",A&E								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=ae&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/animalplanet.png" group-title="PREMIUM 1",ANIMAL PLANET								
+http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=latinos&ch=animalplanet&f=.m3u8								
 
 
 
@@ -1309,97 +1308,6 @@ https://blackghost.live/play/codeplus3-807.php?c=34779
 https://blackghost.live/play/codeplus4-807.php?c=1092
 #EXTINF:-1 group-title="SEBASTIAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/150px-Natgeo_Kids_logo.svg.png",NAT GEO KIDS 
 https://blackghost.live/play/codeplus4-807.php?c=86785
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/babyfirst.png" group-title="SEBASTIAN",BABYFIRST
-https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=babyfirst&k=blcckgh0oo05t&f=.m3u8
-
-SEBASTIAN
-
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cartoonnetwork.png" group-title="PREMIUM 2",CARTOON NETWORK
-https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=cartoonnetworkk=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverykids.png" group-title="PREMIUM 2",DISCOVERY KIDS
-https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=discoverykids&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneyjunior.png" group-title="PREMIUM 2",DISNEY JUNIOR
-https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=disneyjunior&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneyxd.png" group-title="PREMIUM 2",DISNEY XD
-https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=disneyxd&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneychannel.png" group-title="PREMIUM 2",DISNEY CHANNEL
-https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=disneychannel&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nick.png" group-title="PREMIUM 2",NICK
-https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=nick&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nicktoons.png" group-title="PREMIUM 2",NICKTOONS 
-https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=nicktoons&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tooncast.png" group-title="PREMIUM 2",TOONCAST
-https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=tooncast&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/clantv.png" group-title="PREMIUM 2",CLAN TV 
-https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=clantv&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/pakapaka.png" group-title="PREMIUM 2",PAKA PAKA
-https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=pakapaka&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/kidstv.png" group-title="PREMIUM 2",KIDS TV
-https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=kidstv&k=blcckgh0oo05t&f=.m3u8
-
-DEPORTES PREMIUM 2
-
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/tntsports.png" group-title="PREMIUM 2", | TNT SPORTS
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=tnt-sports&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/fox-sports-premium1.png" group-title="PREMIUM 2", | FOX SPORTS PREMIUM
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=fox-sports-premium&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/tudn.png" group-title="PREMIUM 2", | TUDN
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=tudn&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/beinlatino.png" group-title="PREMIUM 2",BEIN SPORT LATINO 
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=beinlatino&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/goltvlatino.png" group-title="PREMIUM 2",GOLTV 
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=goltvlatino&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/golperu.png" group-title="PREMIUM 2",GOL | PERU
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=golperu&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/foxsports1ar.png" group-title="PREMIUM 2",FOX SPORTS | ARGENTINA
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=fox-sports1ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/foxsports2ar.png" group-title="PREMIUM 2",FOX SPORTS 2 | ARGENTINA
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=fox-sports2ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/foxsports3ar.png" group-title="PREMIUM 2",FOX SPORTS 3 | ARGENTINA
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=fox-sports3ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/espnar.png" group-title="PREMIUM 2",ESPN | ARGENTINA
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=espn1ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/espn2ar.png" group-title="PREMIUM 2",ESPN 2 | ARGENTINA
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=espn2ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/espn3ar.png" group-title="PREMIUM 2",ESPN 3 | ARGENTINA
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=espn3ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/foxsports1mx.png" group-title="PREMIUM 2",FOX SPORTS | MEXICO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=fox-sports1mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/foxsports2mx.png" group-title="PREMIUM 2",FOX SPORTS 2 | MEXICO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=fox-sports2mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/foxsports3mx.png" group-title="PREMIUM 2",FOX SPORTS 3 | MEXICO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=fox-sports3mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/espnmx.png" group-title="PREMIUM 2",ESPN | MEXICO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=espn1mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="/https://adictosaldeporte.com/logos/espn2mx.png" group-title="PREMIUM 2",ESPN 2 | MEXICO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=espn2mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/espn3mx.png" group-title="PREMIUM 2",ESPN 3  | MEXICO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=espn3mx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/espnmasar.png" group-title="PREMIUM 2",ESPN PLUS | ARGENTINA
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=espn+ar&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/directvsports.png" group-title="PREMIUM 2",DIRECTV SPORTS
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=directv-sports&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/directvsports2.png" group-title="PREMIUM 2",DIRECTV SPORTS 2
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=directv-sports2&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/directv-sports-plus.png" group-title="PREMIUM 2",DIRECTV SPORTS PLUS
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=directv-sports-plus&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/tyc.png" group-title="PREMIUM 2",TYC SPORTS
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=tyc&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosaldeporte.com/logos/golflatino.png" group-title="PREMIUM 2",GOLF CHANNEL
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=golflatino&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-action.png" group-title="PREMIUM 2",FOX PREMIUM ACTION
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxaction&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/adrenalinatv.png" group-title="PREMIUM 2",ADRENALINA SPORTS
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=adrenalinatv&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/aym.png" group-title="PREMIUM 2",AYM SPORTS
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=aymsports&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/univisiondeportes.png" group-title="PREMIUM 2",UNIVISION DEPORTES
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=univisiondeportes&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/win.png" group-title="PREMIUM 2",WIN SPORTS
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=winsports&k=blcckgh0oo05t&f=.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="PREMIUM 2",A COLOMBIA | RCN HD
 https://blackghost.live/play/codeplus4-807.php?c=905
@@ -1410,116 +1318,147 @@ https://blackghost.live/play/codeplus4-807.php?c=921
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg" group-title="PREMIUM 2",A COLOMBIA | RCN SD
 https://blackghost.live/play/codeplus4-807.php?c=2976
 
-PREMIUM 2
 
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-channel.png" group-title="PREMIUM 2",STAR CHANNEL
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=fox&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/star-series.png" group-title="PREMIUM 2",STAR SERIES
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxseries&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-fun.png" group-title="PREMIUM 2",STAR FUN
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxfamily&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-cinema.png" group-title="PREMIUM 2",STAR CINEMA
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxcinema&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-comedy.png" group-title="PREMIUM 2",STAR COMEDY
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxcomedy&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1  tvg-logo="https://adictosalatele.com/logos/star-classics.png" group-title="PREMIUM 2",STAR CLASSICS
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxclassics&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-hits.png" group-title="PREMIUM 2",STAR HITS
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxmovies&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-life.png" group-title="PREMIUM 2",STAR LIFE
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxlife&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbo.png" group-title="PREMIUM 2",HBO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=hbo&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbo2.png" group-title="PREMIUM 2",HBO 2
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=hbo2&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hboplus.png" group-title="PREMIUM 2",HBO PLUS
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=hboplus&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbofamily.png" group-title="PREMIUM 2",HBO FAMILY
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=hbofamily&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbosignature.png" group-title="PREMIUM 2",HBO SIGNATURE
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=hbosignature&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hboxtreme.png" group-title="PREMIUM 2",HBO XTREME
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=maxprime&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbomundi.png" group-title="PREMIUM 2",HBO MUNDI
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=maxlatino&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbopop.png" group-title="PREMIUM 2",HBO POP
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=maxup&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/golden.png" group-title="PREMIUM 2",GOLDEN
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=golden&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenplus.png" group-title="PREMIUM 2",GOLDEN PLUS
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=goldenplus&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenedge.png" group-title="PREMIUM 2",GOLDEN EDGE
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=goldenedge&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinemax.png" group-title="PREMIUM 2",CINEMAX
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=cinemax&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinecanal.png" group-title="PREMIUM 2",CINECANAL
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=cinecanal&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntlatino.png" group-title="PREMIUM 2",TNT LATINO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=tnt&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntseries.png" group-title="PREMIUM 2",TNT SERIES
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=tntseries&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/axnlatino.png" group-title="PREMIUM 2",AXN LATINO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=axn&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/amclatino.png" group-title="PREMIUM 2",AMC LATINO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=amc&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tcmlatino.png" group-title="PREMIUM 2",TCM LATINO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=tcm&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/syfy.png" group-title="PREMIUM 2",SYFY LATINO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=syfy&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fxm.png" group-title="PREMIUM 2",FXM
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=fxm&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fx.png" group-title="PREMIUM 2",FX
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=fx&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/space.png" group-title="PREMIUM 2",SPACE
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=space&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/comedycentrallatino.png" group-title="PREMIUM 2",COMEDY CENTRAL LATINO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=comedycentral&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/paramountlatino.png" group-title="PREMIUM 2",PARAMOUNT CHANNEL LATINO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=paramountchannel&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/sony.png" group-title="PREMIUM 2",SONY
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=sony&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tbs.png" group-title="PREMIUM 2",TBS
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=tbs&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/studiouniversal.png" group-title="PREMIUM 2",STUDIO UNIVERSAL
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=studiouniversal&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/universalchannel.png" group-title="PREMIUM 2",UNIVERSAL CHANNEL
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=universalchannel&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/warner.png" group-title="PREMIUM 2",WARNER
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=warner&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/depelicula.png" group-title="PREMIUM 2",DE PELICULA
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=depelicula&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/distritocomedia.png" group-title="PREMIUM 2",DISTRITO COMEDIA
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=distritocomedia
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/historylatino.png" group-title="PREMIUM 2",HISTORY
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=history&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/history2.png" group-title="PREMIUM 2",HISTORY 2
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=history2&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverychannellatino.png" group-title="PREMIUM 2",DISCOVERY CHANNEL
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoverychannel&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tlc.png" group-title="PREMIUM 2",DISCOVERY TLC
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=tlc&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hgtv.png" group-title="PREMIUM 2",DISCOVERY CIVILIZATION
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoverycivilization&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryturbo.png" group-title="PREMIUM 2",DISCOVERY TURBO
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoveryturbo&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverytheater.png" group-title="PREMIUM 2",DISCOVERY THEATER
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoverytheater&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverysci.png" group-title="PREMIUM 2",DISCOVERY SCIENCIE
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoverysciencie&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/invdiscovery.png" group-title="PREMIUM 2",INVESTIGACION DISCOVERY
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoveryinvestigacion&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryhh.png" group-title="PREMIUM 2",DISCOVERY H&H
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoveryhh&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryworl.png" group-title="PREMIUM 2",DISCOVERY WORLD
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoveryworl&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nationalgeographiclatino.png" group-title="PREMIUM 2",NATIONAL GEOGRAPHIC
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=nationalgeo&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/natgeowilllatino.png" group-title="PREMIUM 2",NAT GEO WILL
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=nationalwill&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/ae.png" group-title="PREMIUM 2",A&E
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=ae&k=blcckgh0oo05t&f=.m3u8
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/animalplanet.png" group-title="PREMIUM 2",ANIMAL PLANET
-https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=animalplanet&k=blcckgh0oo05t&f=.m3u8
+SEBASTIAN
+
+								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/babyfirst.png" group-title="SEBASTIAN",BABYFIRST								
+https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=kidstv&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cartoonnetwork.png" group-title="PREMIUM 2",CARTOON NETWORK								
+https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=cartoonnetwork&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverykids.png" group-title="PREMIUM 2",DISCOVERY KIDS								
+https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=discoverykids&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneyjunior.png" group-title="PREMIUM 2",DISNEY JUNIOR								
+https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=disneyjunior&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneyxd.png" group-title="PREMIUM 2",DISNEY XD								
+https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=disneyxd&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/disneychannel.png" group-title="PREMIUM 2",DISNEY CHANNEL								
+https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=disneychannel&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nick.png" group-title="PREMIUM 2",NICK								
+https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=nick&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nicktoons.png" group-title="PREMIUM 2",NICKTOONS								
+https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=nicktoons&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tooncast.png" group-title="PREMIUM 2",TOONCAST								
+https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=tooncast&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/clantv.png" group-title="PREMIUM 2",CLAN TV								
+https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=clantv&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/pakapaka.png" group-title="PREMIUM 2",PAKA PAKA								
+https://blackghost.live/play/wistream-bglive-807.php?cat=infantiles&ch=pakapaka&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/kidstv.png" group-title="PREMIUM 2",KIDS TV								
+								
+								
+PREMIUM 2								
+								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-channel.png" group-title="PREMIUM 2",STAR CHANNEL								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=fox&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-series.png" group-title="PREMIUM 2",STAR SERIES								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxseries&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-fun.png" group-title="PREMIUM 2",STAR FUN								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxfamily&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-cinema.png" group-title="PREMIUM 2",STAR CINEMA								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxcinema&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-comedy.png" group-title="PREMIUM 2",STAR COMEDY								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxcomedy&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-classics.png" group-title="PREMIUM 2",STAR CLASSICS								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxclassics&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-hits.png" group-title="PREMIUM 2",STAR HITS								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxmovies&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/star-life.png" group-title="PREMIUM 2",STAR LIFE								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=foxlife&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbo.png" group-title="PREMIUM 2",HBO								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=hbo&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbo2.png" group-title="PREMIUM 2",HBO 2								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=hbo2&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hboplus.png" group-title="PREMIUM 2",HBO PLUS								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=hboplus&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbofamily.png" group-title="PREMIUM 2",HBO FAMILY								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=hbofamily&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbosignature.png" group-title="PREMIUM 2",HBO SIGNATURE								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=hbosignature&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hboxtreme.png" group-title="PREMIUM 2",HBO XTREME								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=maxprime&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbomundi.png" group-title="PREMIUM 2",HBO MUNDI								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=maxlatino&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hbopop.png" group-title="PREMIUM 2",HBO POP								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=maxup&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/golden.png" group-title="PREMIUM 2",GOLDEN								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=golden&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenplus.png" group-title="PREMIUM 2",GOLDEN PLUS								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=goldenplus&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/goldenedge.png" group-title="PREMIUM 2",GOLDEN EDGE								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=goldenedge&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinemax.png" group-title="PREMIUM 2",CINEMAX								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=cinemax&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/cinecanal.png" group-title="PREMIUM 2",CINECANAL								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=cinecanal&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntlatino.png" group-title="PREMIUM 2",TNT LATINO								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=tnt&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tntseries.png" group-title="PREMIUM 2",TNT SERIES								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=tntseries&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/axnlatino.png" group-title="PREMIUM 2",AXN LATINO								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=axn&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/amclatino.png" group-title="PREMIUM 2",AMC LATINO								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=amc&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tcmlatino.png" group-title="PREMIUM 2",TCM LATINO								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=tcm&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/syfy.png" group-title="PREMIUM 2",SYFY LATINO								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=syfy&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fxm.png" group-title="PREMIUM 2",FXM								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=fxm&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/fx.png" group-title="PREMIUM 2",FX								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=fx&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/space.png" group-title="PREMIUM 2",SPACE								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=space&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/comedycentrallatino.png" group-title="PREMIUM 2",COMEDY CENTRAL LATINO							
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=comedycentral&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/paramountlatino.png" group-title="PREMIUM 2",PARAMOUNT CHANNEL LATINO						
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=paramountchannel&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/sony.png" group-title="PREMIUM 2",SONY								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=sony&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tbs.png" group-title="PREMIUM 2",TBS								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=tbs&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/studiouniversal.png" group-title="PREMIUM 2",STUDIO UNIVERSAL								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=studiouniversal&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/universalchannel.png" group-title="PREMIUM 2",UNIVERSAL CHANNEL								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=universalchannel&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/warner.png" group-title="PREMIUM 2",WARNER								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=warner&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/depelicula.png" group-title="PREMIUM 2",DE PELICULA								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=depelicula&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/distritocomedia.png" group-title="PREMIUM 2",DISTRITO COMEDIA								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=distritocomedia								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/historylatino.png" group-title="PREMIUM 2",HISTORY								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=history&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/history2.png" group-title="PREMIUM 2",HISTORY 2								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=history2&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverychannellatino.png" group-title="PREMIUM 2",DISCOVERY CHANNEL							
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoverychannel&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/tlc.png" group-title="PREMIUM 2",DISCOVERY TLC								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=tlc&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/hgtv.png" group-title="PREMIUM 2",DISCOVERY CIVILIZATION								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoverycivilization&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryturbo.png" group-title="PREMIUM 2",DISCOVERY TURBO								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoveryturbo&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverytheater.png" group-title="PREMIUM 2",DISCOVERY THEATER								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoverytheater&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoverysci.png" group-title="PREMIUM 2",DISCOVERY SCIENCIE								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoverysciencie&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/invdiscovery.png" group-title="PREMIUM 2",INVESTIGACION DISCOVERY							
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoveryinvestigacion&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryhh.png" group-title="PREMIUM 2",DISCOVERY H&H								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoveryhh&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/discoveryworl.png" group-title="PREMIUM 2",DISCOVERY WORLD								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=discoveryworl&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/nationalgeographiclatino.png" group-title="PREMIUM 2",NATIONAL GEOGRAPHIC						
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=nationalgeo&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/natgeowilllatino.png" group-title="PREMIUM 2",NAT GEO WILL								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=nationalwill&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/ae.png" group-title="PREMIUM 2",A&E								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=ae&k=blaacghost&f=.m3u8								
+#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/animalplanet.png" group-title="PREMIUM 2",ANIMAL PLANET								
+https://blackghost.live/play/wistream-bglive-807.php?cat=latinos&ch=animalplanet&k=blaacghost&f=.m3u8								
+								
+								
 
 
 
