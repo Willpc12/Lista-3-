@@ -1183,25 +1183,6 @@ REGIO PREMIUM 1
 #EXTINF:-1  tvg-id="MUNDO", Univision
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
 
-  #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/babyfirst.png" group-title="SEBASTIAN",BABYFIRST RG			
-http://ipeteve.com/php/SR_REGIO_160821/nbg.php?cat=infantiles&ch=babyfirst&f=.m3u8
-
-
-__________________________________________________________________________________________________________________________________________
-
-RASTA12 PREMIUM 2
-
-#EXTINF:-1 group-title="SEBASTIAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png",NICK JR LAT 
-https://blackghost.live/play/totalp1-827.php?c=117&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="SEBASTIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png",NICK JR
-https://blackghost.live/play/codeplus3-827.php?c=3151349
-#EXTINF:-1 group-title="SEBASTIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png",NICK JR (LAT)
-http://200.107.234.74:8000/play/a01i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/babyfirst.png" group-title="SEBASTIAN",BABYFIRST	
-https://blackghost.live/play/totalp1-827.php?c=1984&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-id="BabyFirstAmericasSpanish.mx" tvg-name="Baby First" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/b1st.png" group-title="SEBASTIAN",BABYFIRST	
-https://blackghost.live/play/wistream-bglive-827.php?cat=infantiles&ch=babyfirst&k=blaacccghost&f=.m3u8
 
 
 
