@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="SEBASTIAN", KIDS TEEN  |  PLUTOTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fd0e28f7-ac37-11eb-901b-0242ac110002&sid=fd0e28f7-ac37-11eb-901b-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="PLUTOTV", INVESTIGA
@@ -73,21 +71,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRrE07Zkkn1_7qUx0Ww2MFHgT-jdemgql-avwr7=s800-c-k-c0x00ffffff-no-rj" group-title="SEBASTIAN", KIDS PANG | USA
 https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png", group-title="SEBASTIAN", CSTV KIDS RETRO | MEXICO
-https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/946192308_640x360.jpg?r=pad" group-title="SEBASTIAN",WOW NOW KIDS | USA
-https://wownow-wownowkids-1.vizio.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png", group-title="SEBASTIAN", LOS SIMPSOM | MEXICO
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Th.jpg/revision/latest/scale-to-width-down/250?cb=20210211144707&path-prefix=es", group-title="SEBASTIAN", CHICOS IPE | PERU
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png", group-title="SEBASTIAN",PEQUERADIO | ESPAÑA
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg", group-title="SEBASTIAN",SUPERTOONS TV | MEXICO
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -98,8 +86,6 @@ https://newidco-babysharktv-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/a3IuY28uc21hcnRzdHVkeS5waW5rZm9uZ3R2X2FuZHJvaWRfZ29vZ2xlbWFya2V0X2ljb25fMTYxNzc5MjM1MV8wODY/icon.png?w=170&fakeurl=1", group-title="SEBASTIAN", BABY SHARK TV | MEXICO
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/kr-ebs-kids-2560.jpg", group-title="SEBASTIAN", EBS KIDS | CHINA
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/h3EHEUJiY9SCjzx5AS2beHaou49M9fl02JMispLvs_Bm5OIJARvM2ZpAOg9qpQjBS8k=s180-rw" group-title="SEBASTIAN",HAPPY KIDS JR | USA
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
@@ -120,8 +106,7 @@ https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee51
 #EXTINF:-1 group-title="SEBASTIAN" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni_--nfDx7dY1f6hpnTgv3hrKLPeD4-B-4MeB5K2A=s900-c-k-c0x00ffffff-no-rj",PLANETA JUNIOR TV | MEXICO
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="SEBASTIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png",TOON GOGGLES | USA
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+
 
 
 
@@ -269,6 +254,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098
 #EXTINF:-1 group-title="PLUTOTV" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.0.3&h=96&w=150&q=75&dpr=1",SERIES RETRO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae21-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efb5479a-1735-4d57-9b8e-16487d9760c3&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="PLUTOTV",REALITIES | MEXICO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=953&deviceId=5d93b4d71754e6a4298d086e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+
+
 
 
 
@@ -413,6 +403,14 @@ http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigap
 #EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Viendomovies2011.png/180px-Viendomovies2011.png",VIENDO MOVIES FUTURAMA
 http://servidorcloud.iptvplexservertv.com:8080/ReastreaGigaplayPro/ReastreaGigaplayPro/6802
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="CINE",MOOVIMEX | MEXICO
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="CINE",MOOVIMEX 2 | MEXICO
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+
 
 
 
@@ -536,9 +534,6 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="DEPORTES",WORLD OF FREESPORTS | USA
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RMewTGr.jpg" group-title="DEPORTES",TVS Turbo (360p) | USA
-https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png" group-title="DEPORTES",TRUE SPORTS 7 | USA 
 https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
 
@@ -554,8 +549,6 @@ https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjgzNzU2MTNf?inline=1" group-title="DEPORTES",MAVTV SELECT | USA 
 https://mavtv-1.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="DEPORTES",GLORY KICKBOXING | USA
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 
 
 
@@ -568,7 +561,7 @@ ________________________________________________________________________________
 
 
 #EXTINF:-1 tvg-logo="https://static.dw.com/image/47222941_401.png", group-title="NOTICIAS", DW | EUROPA
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8?sd=10&rebase=on
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6miysb8.png" group-title="NOTICIAS", 24/7 CANAL DE NOTICIAS | ARGENTINA
 https://panel.dattalive.com/6605140/6605140/playlist.m3u8
@@ -579,8 +572,6 @@ https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv.cvahn.com/img/cbsnew.jpg", group-title="NOTICIAS", CBS NEWS | USA
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mfJVjpd.jpg", group-title="NOTICIAS", WSVN FOX 7 | MIAMI 
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png", group-title="NOTICIAS",TV PERU | PERU
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
@@ -618,11 +609,9 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",CNN | USA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/1200px-RTP.svg.png",RTP | PORTUGAL
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Noticias_Caracol_2017.svg/revision/latest/scale-to-width-down/200?cb=20200209024421&path-prefix=es", group-title="NOTICIAS", CARACOL NOTICIAS | COLOMBIA
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+
 
 __________________________________________________________________________________________________________________________________________
 
@@ -1175,6 +1164,13 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/imryt.png" group-title="MUNDO",IMRyT | MEXICO
 http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="MUNDO",Univision East (WXTV) | USA
+https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wxtv-dt1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KDTV-14_logo.png" group-title="MUNDO",Univision West (KDTV) | USA
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
+
+
 
 __________________________________________________________________________________________________________________________________________
 
@@ -1187,8 +1183,8 @@ REGIO PREMIUM 1
 #EXTINF:-1  tvg-id="MUNDO", Univision
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
 
-				
-
+  #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/babyfirst.png" group-title="SEBASTIAN",BABYFIRST RG			
+http://ipeteve.com/php/SR_REGIO_160821/nbg.php?cat=infantiles&ch=babyfirst&f=.m3u8
 
 
 __________________________________________________________________________________________________________________________________________
@@ -1196,16 +1192,18 @@ ________________________________________________________________________________
 RASTA12 PREMIUM 2
 
 #EXTINF:-1 group-title="SEBASTIAN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png",NICK JR LAT 
-https://blackghost.live/play/totalp1-888.php?c=117&p=3&k=black&f=.m3u8
+https://blackghost.live/play/totalp1-827.php?c=117&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="SEBASTIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png",NICK JR
-http://200.107.234.74:8000/play/a01i/index.m3u8
+https://blackghost.live/play/codeplus3-827.php?c=3151349
 #EXTINF:-1 group-title="SEBASTIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png",NICK JR (LAT)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/253/12?f=.m3u8
+http://200.107.234.74:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://adictosalatele.com/logos/babyfirst.png" group-title="SEBASTIAN",BABYFIRST	
-https://blackghost.live/play/wistream-bglive-888.php?cat=infantiles&ch=babyfirst&k=blacghoooost&f=.m3u8
+https://blackghost.live/play/totalp1-827.php?c=1984&p=3&k=black&f=.m3u8
 #EXTINF:-1 tvg-id="BabyFirstAmericasSpanish.mx" tvg-name="Baby First" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/b1st.png" group-title="SEBASTIAN",BABYFIRST	
-https://blackghost.live/play/totalp1-888.php?c=1984&p=3&k=black&f=.m3u8
+https://blackghost.live/play/wistream-bglive-827.php?cat=infantiles&ch=babyfirst&k=blaacccghost&f=.m3u8
+
+
 
 
 
