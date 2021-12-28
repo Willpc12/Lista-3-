@@ -586,7 +586,7 @@ https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live
 https://rt-esp-gd.secure2.footprint.net:443/1102_1600Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/axndhJe.jpg", group-title="NOTICIAS", CNN | CHILE
-http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/CBS_News_logo.png/640px-CBS_News_logo.png", group-title="NOTICIAS", CBS NEWS L.A | USA
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?PlaylistM3UCL
@@ -734,7 +734,7 @@ https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="http://www.hits360live.com/wp-content/uploads/2018/05/cropped-logo1-hits-360-2-2.png",HIT 360 | REP. DOMINICANA
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="http://www.m3u.cl/logo/96700_Telemusica.png",TELEMUSICA | ARGENTINA
+#EXTINF:-1 group-title="MUSICA" tvg-logo="http://www.m3u.cl/logo/96700_Telemusica.png",TELEMUSICA | COLOMBIA
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://cdn-profiles.tunein.com/s301079/images/logod.png?t=155672",V2BEAT | EUROPA
@@ -758,9 +758,34 @@ https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png",SEXY KPOP TV | USA
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-OlrTJEjmmAI/Wr1YlnuxLOI/AAAAAAAAdIU/vTw_1pzwsTUbHwz_4zPiZwnbaeHDwiYAwCLcBGAs/s200/Zol%2B106.png" group-title="MUSICA", Zol106.5 | REPUBLICA DOMINICANA 
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+
+  #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-w38tZgOojg4/XUQhWqpp2QI/AAAAAAAAIMM/GpMd91bGZu8FxKu59FA940hjw9HendB_gCLcBGAs/s1600/Digital%2BVisi%25C3%25B3n%2B63.png" group-title="MUSICA", DIGITAL VISION | REPUBLICA DOMINICANA 
+   https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w432787620.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",  group-title="MUSICA" Recuerdos Retro Radio TV  | COLOMBIA
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png", Amordiscos TV  | COLOMBIA
+https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="" group-title="",Bonce TV   | CURAZAO
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest" group-title="MUSICA", Cali TV (Santiago de Cali | COLOMBIA
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1331243814548287489/RCVGVH6L_400x400.jpg" group-title="MUSICA",Radio Tropical Tarapoto | PERU
+https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 
 
-  
+
+
+
+
+
+
 
 
 
@@ -948,7 +973,7 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QT78nTj.png", group-title="MUNDO",READY TV | REP. DOMINICANA
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png", group-title="MUNDO",RNN | USA
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png", group-title="MUNDO",RNN | REPUBLICA DOMINICANA
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rv3jShy.jpg", group-title="MUNDO",ROMANA TV CANAL42 | REP. DOMINICANA
@@ -1170,6 +1195,20 @@ https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wxtv-dt1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KDTV-14_logo.png" group-title="MUNDO",Univision West (KDTV) | USA
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OE4q3b9.jpg" group-title="MUNDO", ONDA TV CANAL 10 | REPUBLICA DOMINICANA 
+http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="MUNDO",GDM TELEVISION | REPUBLICA DOMINICANA 
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1317041912.m3u8
+
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://www.m3u.cl/logo/495_Canal_Capital.png", Canal Capital  | COLOMBIA
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://roccotv.cl/wp-content/uploads/2015/02/roccotv.png" group-title="MUNDO", Rocco TV (Coyhaique) | CHILE
+http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
+
+
+
 
 
 __________________________________________________________________________________________________________________________________________
@@ -1182,6 +1221,7 @@ REGIO PREMIUM 1
 
 #EXTINF:-1  tvg-id="MUNDO", Univision
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
+
 
 
 
