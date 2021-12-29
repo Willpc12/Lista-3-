@@ -758,13 +758,14 @@ https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png",SEXY KPOP TV | USA
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-OlrTJEjmmAI/Wr1YlnuxLOI/AAAAAAAAdIU/vTw_1pzwsTUbHwz_4zPiZwnbaeHDwiYAwCLcBGAs/s200/Zol%2B106.png" group-title="MUSICA", Zol106.5 | REPUBLICA DOMINICANA 
-https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-w38tZgOojg4/XUQhWqpp2QI/AAAAAAAAIMM/GpMd91bGZu8FxKu59FA940hjw9HendB_gCLcBGAs/s1600/Digital%2BVisi%25C3%25B3n%2B63.png" group-title="MUSICA", DIGITAL VISION | REPUBLICA DOMINICANA 
 https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w432787620.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="MUSICA", Recuerdos Retro Radio TV  | COLOMBIA
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-OlrTJEjmmAI/Wr1YlnuxLOI/AAAAAAAAdIU/vTw_1pzwsTUbHwz_4zPiZwnbaeHDwiYAwCLcBGAs/s200/Zol%2B106.png" group-title="MUSICA", Zol106.5 | REPUBLICA DOMINICANA 
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png"  group-title="MUSICA", Recuerdos Retro Radio TV  | COLOMBIA
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png", Amordiscos TV  | COLOMBIA
@@ -780,6 +781,9 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSICA",MIX 24/7 Conciertos 
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/7.m3u8
 
 
 
@@ -1206,6 +1210,41 @@ https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3
 
 #EXTINF:-1 tvg-logo="http://roccotv.cl/wp-content/uploads/2015/02/roccotv.png" group-title="MUNDO", Rocco TV (Coyhaique) | CHILE
 http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDO",AdultIPTV.net Live Cams 
+http://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDO",AdultIPTV.net MILF 
+http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDO",AdultIPTV.net Pornstar 
+http://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDO",AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDO",AdultIPTV.net Threesome 
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDO",AdultIPTV.net Woman 
+http://live.redtraffic.net/woman.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDO",Extasy HD / Leo TV HD
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="MUNDO",Fashion TV Midnite Secrets 
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="MUNDO",Filmon Erotic Sensations
+https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="MUNDO",Filmon Fetish Factory
+https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="MUNDO", Rouge TV 
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
 
 
