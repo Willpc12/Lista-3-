@@ -243,7 +243,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d0007
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7b47f12a45590007821749/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca4-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db32e708-3f49-4116-9202-54e60c2967ae&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="PLUTOTV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/vkTz_eJLr_j9e3679wfhhA/1600x900.jpg",DOUG EL CAZARRECOMPENZA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 #EXTINF:-1 group-title="PLUTOTV" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.0.3&h=96&w=150&q=75&dpr=1",SERIES COMEDIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d24-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b6b94ee-3d86-4a59-b406-f3548f232fe2&userId=&serverSideAds=true
@@ -771,7 +771,7 @@ https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png", Amordiscos TV  | COLOMBIA
 https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="" group-title="",Bonce TV   | CURAZAO
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Bonce TV   | CURAZAO
 https://seswa.bonce.tv/hls/bonceswa.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest" group-title="MUSICA", Cali TV (Santiago de Cali | COLOMBIA
@@ -784,6 +784,9 @@ https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSICA",MIX 24/7 Conciertos 
 http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="MUSICA",1Mus | HUNGRIA
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 
 
@@ -1274,4 +1277,5 @@ will diario
 
 #EXTINF:-1 tvg-logo="https://allcalidad.la/wp-content/uploads/2017/10/duro-de-cuidar.jpg", group-title="PELICULAS", 001  | Duro de cuidar  | WILLPC
 https://fvs.io/redirector?token=QVg0d1Z4MDlwSDRIT1hsRE9VODJHZkpNWXlKbW43SWYramRYakZ2TzVtc2FNRTdpWW1WVWRGWGl3Ym5sa3BBTWIzaVFkdC9OM09WRm5vOGJsNFd1ZUZuWXB4VnZKOWNkN1BGVzE2Z084aVlpMmwrRWZGbFZDcnlTcnF6QkhoUWh1SGhzUlBNclJUZC9kNXdJYTJjUU9qb3FTNEdxSFhGQXl1RT06Vi9WWjJXdC9EVE9jckhQQTQ2bGJtdz09
+
 
