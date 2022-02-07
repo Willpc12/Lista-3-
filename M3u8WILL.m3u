@@ -416,10 +416,10 @@ https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/maste
 
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/db7129496cc04cc1325e8c27fb824230402446f96c567e24371acd21a7bf202b.png" group-title="CINE", RUNTIME LATINO | LATINOAMERICA
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/db7129496cc04cc1325e8c27fb824230402446f96c567e24371acd21a7bf202b.png" group-title="PELICULAS", RUNTIME LATINO | LATINOAMERICA
 https://runtime-espanol-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/db7129496cc04cc1325e8c27fb824230402446f96c567e24371acd21a7bf202b.png" group-title="CINE", RUNTIME | MEXICO
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/db7129496cc04cc1325e8c27fb824230402446f96c567e24371acd21a7bf202b.png" group-title="PELICULAS", RUNTIME | MEXICO
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="PELICULAS", SUREÑO | MEXICO
