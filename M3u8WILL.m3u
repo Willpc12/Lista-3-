@@ -806,6 +806,11 @@ AFRICA
 #EXTINF:-1 tvg-logo="", group-title="MUNDO AFRICA", DEMAND AFRICA/ MEXICO | AFRICA
 https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Tvge.png/150px-Tvge.png", group-title="MUNDO AFRICA", TVGE 1 | AFRICA
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
+
+
+
 ARGENTINA
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_400x400.jpg", group-title="MUNDO ARGENTINA", GARAJE TV | ARGENTINA
@@ -831,6 +836,7 @@ https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalprovincial.com.ar/wp-content/themes/canalprovincia/images/logo.jpg" group-title="MUNDO ARGENTINA",CANAL PROVINCIAL (San Miguel) | ARGENTINA
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="MUNDO ARGENTINA",CIUDAD TV RESISTENCIA (Chaco) | ARGENTINA
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
@@ -868,6 +874,10 @@ https://master.tucableip.com/pat/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nueva_imagen_Bolivia_TV.jpg/245px-Nueva_imagen_Bolivia_TV.jpg", group-title="MUNDO BOLIVIA",BOLIVIA 7.2 TV | BOLIVIA
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
+
+
+
 
 BRASIL
 
@@ -951,6 +961,7 @@ https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://roccotv.cl/wp-content/uploads/2015/02/roccotv.png" group-title="MUNDO CHILE", ROCCO TV (Coyhaique) | CHILE
 http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png", group-title="MUNDO CHILE", CHILEVISION |CHILE
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w922024847.m3u8
 
@@ -959,7 +970,6 @@ https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdiF5k6.png", group-title="MUNDO CHILE",TVU | CHILE 
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ob9ss3.jpg" group-title="MUNDO CHILE", EL PINGÜINO TV | CHILE
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
@@ -977,7 +987,6 @@ ECUADOR
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5Xo1RfOOfTI/Xw9zs1j1kSI/AAAAAAAAB0A/9mdv_nm-FHkEB0H15GWyN4OTfGjOewyIgCLcBGAsYHQ/w640-h480/hechosecuador_logoroku.jpg", group-title="MUNDO ECUADOR",  HECHOS ECUADOR | ECUADOR
 http://37.187.7.106/hechostv/live.m3u8
 
-
 EL SALVADOR
 
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-33-sv.png", group-title="MUNDO EL SALVADOR",CANAL 33 |  EL SALVADOR 
@@ -990,6 +999,10 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
 
 
+
+
+
+
 ESPAÑA
 
 #EXTINF:-1 tvg-logo="https://static.plenummedia.com/35737/images/20160824192406-bodegas-la-aurora-en-tve-web.jpg?dh=MzIweDI1MA%3D%3D&m=resize", group-title="MUNDO ESPAÑA", TVE1 | ESPAÑA  
@@ -997,8 +1010,6 @@ https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
 #EXTINF:-1 group-title="MUNDO ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png",GALICIA TV | ESPAÑA
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-
-
 
 #EXTINF:-1 group-title="MUNDO ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png",TVE LA 2 | ESPAÑA
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
@@ -1119,10 +1130,6 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w33013793
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-SjHk5gt2MQc/TWDwSqtDENI/AAAAAAAACjA/DYoOlAEqzRk/s1600/tvmarti.jpg, group-title="MUNDO MIAMI", TV MARTI | MIAMI  
 https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
-
-
-
-
 NICARAGUA
 
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1322927657143750657/lUzvdLW0_400x400.jpg",group-title="MUNDO NICARAGUA", CANAL 12 NICAVISION | NICARAGUA
@@ -1160,10 +1167,6 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ce9a3a96e0a17bbc1e2dd075a0c49f35.png", group-title="MUNDO PERU", SOLTV | PERU
 https://rtmp.info/soltv/envivo/chunklist_w1491188662.m3u8
-
-
-
-
 
 PUERTO RICO
 
