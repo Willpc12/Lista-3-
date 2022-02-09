@@ -13,8 +13,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f20007
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="MUSICA", CONCIERTOS | PLUTOTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=53511adf-b27e-11eb-b1e6-0242ac110002&sid=53511adf-b27e-11eb-b1e6-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IQydvxrikB0/XCOLoeHU7_I/AAAAAAAAB68/LPA7oLHMMP03akltGnZnBh5x78g_jVy9wCLcBGAs/s200/Canal-4-posadas.jpg", group-title="MUNDO", CANAL 4.| ARGENTINA
-http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IQydvxrikB0/XCOLoeHU7_I/AAAAAAAAB68/LPA7oLHMMP03akltGnZnBh5x78g_jVy9wCLcBGAs/s200/Canal-4-posadas.jpg", group-title="MUNDO ARGENTINA", CANAL 4.| ARGENTINA
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+
 
 
 
@@ -40,6 +42,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d80007
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="SEBASTIAN", RUGRATS |  PLUTOTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=f480e292-b27a-11eb-8236-0242ac110002&sid=f480e292-b27a-11eb-8236-0242ac110002&userId=
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="SEBASTIAN", NICK CLASICO  |  PLUTOTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=6bea06b2-b27b-11eb-b633-0242ac110002&sid=6bea06b2-b27b-11eb-b633-0242ac110002&userId=
 
@@ -60,6 +67,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRrE07Zkkn1_7qUx0Ww2MFHgT-jdemgql-avwr7=s800-c-k-c0x00ffffff-no-rj" group-title="SEBASTIAN", KIDS PANG | USA
 https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
+
+
+
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Th.jpg/revision/latest/scale-to-width-down/250?cb=20210211144707&path-prefix=es", group-title="SEBASTIAN", CHICOS IPE | PERU
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
@@ -85,25 +95,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=
 #EXTINF:-1 group-title="SEBASTIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg",DUCK TV | MEXICO
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 
+#EXTINF:-1 group-title="SEBASTIAN" tvg-logo="https://www.telezumiko.com/img/cartoon.png",CARTOON NETWORK LATINO
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist.m3u8
+
+#EXTINF:-1 group-title="SEBASTIAN" tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png",PEQUERADIO TV | MEXICO
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-__________________________________________________________________________________________________________________________________________
 PLUTO TV
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="PLUTOTV", INVESTIGA
@@ -147,7 +145,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f680008
 
 
 
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="PLUTOTV", HOGAR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b7ee270d-ac37-11eb-8ea1-0242ac110002&sid=b7ee270d-ac37-11eb-8ea1-0242ac110002&userId=
 
@@ -168,7 +165,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.0.3&h=96&w=150&q=75&dpr=1", group-title="PLUTOTV", VIAJES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 
 
@@ -240,7 +236,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7b47f12a455900078
 
 
 
-
 #EXTINF:-1 group-title="PLUTOTV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/vkTz_eJLr_j9e3679wfhhA/1600x900.jpg",DOUG EL CAZA RECOMPENZA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -260,7 +255,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=685ed2cd-a9ff-11eb-b976-0242ac110002&sid=685ed2cd-a9ff-11eb-b976-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", group-title="PLUTOTV", CINE COMEDIA https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9ea814c3-aae2-11eb-8d47-0242ac110002&sid=9ea814c3-aae2-11eb-8d47-0242ac110002&userId=
-
 
 
 
@@ -284,7 +278,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="PLUTOTV",CINE ROMANTICO 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 
 
@@ -313,6 +306,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png", group-title="PLUTOTV",FUEL TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/colorLogoPNG.png", group-title="PLUTOTV",MTV ANIMACIONES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -337,12 +333,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png", group-title="PLUTOTV",IRON CHEF
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png", group-title="PLUTOTV",EMPEÑOS A LA BESTIA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6079bcbd9b10880007bf8e2d/colorLogoPNG.png", group-title="PLUTOTV",RYPLEY AUNQUE USTED NO LO CREA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079bcbd9b10880007bf8e2d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -369,16 +365,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b177600077652
 
 
 
-
-
-
-
-
-
-
-
-
-__________________________________________________________________________________________________________________________________________
 
 PELICULAS
 
@@ -411,10 +397,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://verpeliculaslatino.com/wp-content/uploads/2018/02/Ver-Peliculas-Latino.png", group-title="PELICULAS", PELÍCULAS EN LATINO 
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ddd6&deviceDNT=0&deviceModel=0&already_redirected=true
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/db7129496cc04cc1325e8c27fb824230402446f96c567e24371acd21a7bf202b.png" group-title="PELICULAS", RUNTIME LATINO | LATINOAMERICA
 https://runtime-espanol-roku.amagi.tv/playlist.m3u8
@@ -449,8 +431,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png", group-title="PELICULAS", PELICULAS NUEVAS | MEXICO
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg", group-title="PELICULAS", GOLDEN | LATINOAMERICA
-https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 
 
 
@@ -458,10 +438,8 @@ https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 
 
 
-__________________________________________________________________________________________________________________________________________
+
 DEPORTES
-
-
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png", group-title="DEPORTES", REDBULL TV | USA
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
@@ -493,7 +471,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71RQ59uPzBL._SX268_.jpg",GLORY KICKBOXING TV | PLUTOTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91aBNEb16sL._SX300_.jpg",BELLATOR MMA | PLUTOTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
 
@@ -521,8 +498,12 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ixAkq26.png" group-title="DEPORTES",HARD KNOCKS | USA 
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="DEPORTES",WORLD OF FREESPORTS | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="DEPORTES",WORLD OF FREE SPORTS | USA
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="DEPORTES",BOXING PLUTOTV | USA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -536,15 +517,30 @@ https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cUs7TFd.png" group-title="DEPORTES",IDMAN TV| AZERBAJAN
 http://109.205.166.68/server124/idman_az/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="DEPORTES",CCTV-5| CHINA
-http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 
 
 
 
 
 
-__________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 NOTICIAS
 
 #EXTINF:-1 tvg-logo="https://static.dw.com/image/47222941_401.png", group-title="NOTICIAS", DW | EUROPA
@@ -558,7 +554,6 @@ https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.iptv.cvahn.com/img/cbsnew.jpg", group-title="NOTICIAS", CBS NEWS | USA
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png", group-title="NOTICIAS",TV PERU | PERU
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
@@ -591,10 +586,41 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Noticias_Caracol_2017.svg/revision/latest/scale-to-width-down/200?cb=20200209024421&path-prefix=es", group-title="NOTICIAS", CARACOL NOTICIAS | COLOMBIA
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png/200px-Am%C3%A9rica_Tev%C3%A9_Logo.png", group-title="NOTICIAS",AMERICA TEVE | MIAMI
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
 
 
 
-__________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 MUSICA
 
 #EXTINF:-1 tvg-logo="https://sergiomatina.com/wp-content/uploads/2018/11/m2o-radio.jpg", group-title="MUSICA", RADIO m2O | ITALIA
@@ -609,15 +635,11 @@ http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/jlRMBbu.jpg", group-title="MUSICA", ALEGRIA TV | CHILE
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.karlosperu.com/wp-content/uploads/2016/10/claromusica.jpg" group-title="MUSICA",CLARO MUSICA | COLOMBIA
-http://209.91.213.10:8088/play/a027
-
 #EXTINF:-1 tvg-logo="https://www.teleprogreso.tv/wp-content/uploads/2019/03/RETRO-MUSIC-300x195.png", group-title="MUSICA", RETRO TV MUSIC | USA
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/MTV_Hits_2013.svg/revision/latest/scale-to-width-down/200?cb=20200108225331&path-prefix=es", group-title="MUSICA", MTV MUSIC | USA
 https://pluto-live.plutotv.net:443/egress/chandler/pluto01/live/VIACBS07/master_750.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/12/stingray-vector-logo.png", group-title="MUSICA", STINGRAY MUSIC | USA
 https://ott-linear-channels.stingray.com:443/190/master_768x432_500kbps.m3u8
@@ -631,7 +653,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w15821405
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg" group-title="MUSICA",PORTALFOXMIX | CHILE
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="MUSICA",TIERRA MIA TV | ARGENTINA
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg" group-title="MUSICA",TIERRA MIA TV | ARGENTINA
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="MUSICA",STINGRAY QELLO CONCERTS | USA
@@ -643,17 +665,11 @@ https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/838809421975257092/Hzz3uqOH_400x400.jpg", group-title="MUSICA",88 STEREO | COSTA RICA
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/D7SwmuB.png", group-title="MUSICA",VEVO LATINO | USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D7SwmuB.png"  group-title="MUSICA",VEVO LATINO | USA
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.gemonline.net/Assets/channels-box/gem_latino.png?14", group-title="MUSICA",GEM LATINO | IRAN
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist_960x540_2000k.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/4e4566e3fd35a76a38105cab3a39e30b17aa493a3ec2c262b9f63ed24d4bbb32.png" group-title="MUSICA",MELODY CHANNEL | COLOMBIA
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png" group-title="MUSICA", VIDEOROLA | MEXICO
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/channels/images/b3b836fe445a4ad1917e32c3b2c194a4-hd.jpg", group-title="MUSICA", LA MEGA MUNDIAL TV | MIAMI
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w2037832949.m3u8
@@ -694,17 +710,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37a
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png",38 TV | CHILE
 https://rtmp.info/canal38/envivo/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="http://www.m3u.cl/logo/126531_Wham_TV.png",WHAM TV | USA
-https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
-
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://rosemarynews.com/wp-content/uploads/sites/55/2020/07/Olymposat-logo.jpg",FLASH | USA
 https://flash-plex.amagi.tv/flash/master.m3u8
-
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png",FARRA PLAY | PARAGUAY
-http://159.203.148.226/live/farra_low.m3u8
-
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png",ON RADIO | CHILE
-https://tls.cdnz.cl/onradio3/live/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/430a862c5c9cddbd3856cbdf8068b6be.webp",TU MUSICA HD | REP. DOMINICANA
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
@@ -724,9 +731,6 @@ https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png",RETROPLUS TV | CHILE
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="http://www.m3u.cl/logo/101700_Rewind_TV.png",REWIND | CHILE
-https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
-
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/vevo_logo_despues.jpg",VEVO REGGAETÓN & TRAP | USA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 
@@ -742,28 +746,22 @@ https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w432787620.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-OlrTJEjmmAI/Wr1YlnuxLOI/AAAAAAAAdIU/vTw_1pzwsTUbHwz_4zPiZwnbaeHDwiYAwCLcBGAs/s200/Zol%2B106.png" group-title="MUSICA", Zol106.5 | REPUBLICA DOMINICANA 
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
  
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png"  group-title="MUSICA", Recuerdos Retro Radio TV  | COLOMBIA
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png"  group-title="MUSICA", RECUERDOS RETRO RADIO TV  | COLOMBIA
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png", Amordiscos TV  | COLOMBIA
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png", AMORDISCOS TV  | COLOMBIA
 https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Bonce TV   | CURAZAO
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png" group-title="MUSICA",BOUNCE TV   | CURAZAO
 https://seswa.bonce.tv/hls/bonceswa.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest" group-title="MUSICA", Cali TV (Santiago de Cali | COLOMBIA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest" group-title="MUSICA", CALI TV (Santiago de Cali) | COLOMBIA
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1331243814548287489/RCVGVH6L_400x400.jpg" group-title="MUSICA",Radio Tropical Tarapoto | PERU
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/85/71/857147346f31cff058d00ca11375d65a.jpg" group-title="MUSICA",RADIO TROPICAL TARAPOTO | PERU
 https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WCyapaP.jpg" group-title="MUSICA",MIX 24/7 Conciertos 
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="MUSICA",1Mus | HUNGRIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="MUSICA",1MUS | HUNGRIA
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 
@@ -773,8 +771,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1d
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png", group-title="MUSICA",MTV BIGGEST POP
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png", group-title="MUSICA",MTV SPANKIN' NEW
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -783,479 +779,494 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de70
 
 
 
-__________________________________________________________________________________________________________________________________________
 
 
-#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/03/Tele-Aruba-Logo.jpg", group-title="MUNDO", TELEARUBA | ARUBA
-http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w158123675_b596000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1369281128482344968/rfma8ZoC_400x400.jpg", group-title="MUNDO",BOLIVIA TV | BOLIVIA
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/senal-colombia-logo.png", group-title="MUNDO", SEÑAL COLOMBIA | COLOMBIA
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CUBAVISION_2017.png/250px-CUBAVISION_2017.png" group-title="MUNDO",CUBAVISION | CUBA
-http://190.122.96.187:8888/http/010
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-zdameN8RkN4/Wn9k02_XleI/AAAAAAAAgwU/o7QWyXJUMuUIqbZ7vPAZ7eOHYmFLIBDNwCK8BGAs/s265/2018-02-10.png" group-title="MUNDO",CANAL 21 | CHILE
-http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/250px-CGTN-_Logo.png", group-title="MUNDO", CGTN | CHINA
-https://livees.cgtn.com/500e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/ec-tc-tv-1020-300x225.jpg", group-title="MUNDO",  TC TELEVISION | ECUADOR
-https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
 
-#EXTINF:-1  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/1925/brand.gif?itok=1cN-mqCa", group-title="MUNDO", TV5 MONDE | FRANCIA
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png", group-title="MUNDO", CANALE 7 | ITALIA
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/TVMax_2016.png/revision/latest/scale-to-width-down/250?cb=20171029093258&path-prefix=es", group-title="MUNDO", TV MAX | PANAMA
-https://bcovlive-a.akamaihd.net:443/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Canal_10_Nicaragua_2006.png/revision/latest/scale-to-width-down/200?cb=20201020221804&path-prefix=es",group-title="MUNDO", CANAL 10 HD | NICARAGUA
-https://cootv.cootel.com.ni:443/streams/d/SSLCH10-SD-ZUK/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="MUNDO",ABC TV | PARAGUAY
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4D03AQF3BvidKPLR3w/profile-displayphoto-shrink_200_200/0/1570859284406?e=1625702400&v=beta&t=ZllK4TuMc3MhKio30bLYM_0uaOnLzhgJONViqqtHHLo", group-title="MUNDO", BHTV | PERU
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://diarioanticipos.com/wp-content/uploads/2020/04/Gen-TV-Foto-Anticipos.jpg", group-title="MUNDO", GEN TV | PARAGUAY
-https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.plenummedia.com/35737/images/20160824192406-bodegas-la-aurora-en-tve-web.jpg?dh=MzIweDI1MA%3D%3D&m=resize", group-title="MUNDO", TVE1 | ESPAÑA  
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/06/Logo-Cosmo.jpg", group-title="MUNDO", COSMOS | ESPAÑA
-http://91.126.141.201:1935/live/smil:cosmoHD/chunklist_w1929505980_b1328000_sling.m3u8
 
-#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv-300x141.png", group-title="MUNDO", MIAMI LIVE JENNY | MIAMI
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png", group-title="MUNDO", ESTRELLA TV | MEXICO  
-https://estrellatv-roku.amagi.tv:443/playlistR432p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/250px-DKISS_2019_logo.svg.png", group-title="MUNDO", DKISS TV | ESPAÑA  
-http://91.126.141.201:1935/live/smil:kiss/.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/LogoSTV55-Canales-Dominicanos-Online.jpg", group-title="MUNDO", SUPERTV 55 | REP. DOMINICANA
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w1389944491.m3u8
+MUNDO
+AFRICA
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_400x400.jpg", group-title="MUNDO", GARAJE TV | ARGENTINA
+#EXTINF:-1 tvg-logo="", group-title="MUNDO AFRICA", DEMAND AFRICA/ MEXICO | AFRICA
+https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
+
+ARGENTINA
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_400x400.jpg", group-title="MUNDO ARGENTINA", GARAJE TV | ARGENTINA
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="MUNDO", 5RTV SANTA FE |  ARGENTINA
+#EXTINF:-1  tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="MUNDO ARGENTINA", 5RTV SANTA FE |  ARGENTINA
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Diez_MDP_%28Logo_2011_-_2%29.png/revision/latest/scale-to-width-down/250?cb=20200416032248" group-title="MUNDO",CANAL 10 MAR DEL PLATA  | ARGENTINA
-https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_480p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="MUNDO", CANAL 10 RIO NEGRO | ARGENTINA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="MUNDO ARGENTINA", CANAL 10 RIO NEGRO | ARGENTINA
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="MUNDO",CANAL 26 | ARGENTINA
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="MUNDO ARGENTINA",CANAL 26 | ARGENTINA
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/Canal-3-Pinamar.jpg" group-title="MUNDO",CANAL 3 PINAMAR | ARGENTINA
+#EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/Canal-3-Pinamar.jpg" group-title="MUNDO ARGENTINA",CANAL 3 PINAMAR | ARGENTINA
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/01_logo/canal_cuatro_argentina.jpg" group-title="MUNDO",CANAL 4 JUJUY | ARGENTINA
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/01_logo/canal_cuatro_argentina.jpg" group-title="MUNDO ARGENTINA",CANAL 4 JUJUY | ARGENTINA
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w2121338131_b316000.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1276199099478552577/9KzAG68i_400x400.jpg" group-title="MUNDO",CANAL 9 (Comodoro Rivadavia) | ARGENTINA
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-9-comodoro-rivadavia-1526.png" group-title="MUNDO ARGENTINA",CANAL 9 (Comodoro Rivadavia) | ARGENTINA
 https://live.canalnueve.tv/canal.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalprovincial.com.ar/wp-content/themes/canalprovincia/images/logo.jpg" group-title="MUNDO",CANAL PROVINCIAL (San Miguel) | ARGENTINA
+#EXTINF:-1 tvg-logo="https://canalprovincial.com.ar/wp-content/themes/canalprovincia/images/logo.jpg" group-title="MUNDO ARGENTINA",CANAL PROVINCIAL (San Miguel) | ARGENTINA
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg84RxHjkboUjpSwVwVYl7oviFLwGDJs-4UCKzP-JMCdIE4MOb&s" group-title="MUNDO",CANAL 9 MULTIVISION | ARGENTINA
-https://panel.dattalive.com/8250/8250/chunklist_w1456715835.m3u8?_=1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="MUNDO",CIUDAD TV RESISTENCIA (Chaco) | ARGENTINA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="MUNDO ARGENTINA",CIUDAD TV RESISTENCIA (Chaco) | ARGENTINA
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sZ1yE4e.png" group-title="MUNDO",MULTIVISION FEDERAL | ARGENTINA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sZ1yE4e.png" group-title="MUNDO ARGENTINA",MULTIVISION FEDERAL | ARGENTINA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J7stpmb.png", group-title="MUNDO",NET TV | ARGENTINA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7stpmb.png", group-title="MUNDO ARGENTINA",NET TV | ARGENTINA
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png", group-title="MUNDO", TELEFE ROSARIO | ARGENTINA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png", group-title="MUNDO ARGENTINA", TELEFE ROSARIO | ARGENTINA
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B2lKSvo.png", group-title="MUNDO",TELPIN TV CANAL 2 HD | ARGENTINA
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JbxMs5i.png", group-title="MUNDO",CHACO TV | ARGENTINA
-https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/220px-Citytv_logo.svg.png", group-title="MUNDO", CITY TV  | TORONTO
-https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ikVAyjIFBMuH1_tknzbL5zxfU9kQw1YfPw&usqp=CAU" group-title="MUNDO",ESTACION TV HD | EUROPA
-http://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="MUNDO",ITV PATAGONIA | CHILE
-https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/2_de_panama.png", group-title="MUNDO", TVN | PANAMA
-https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ukm4FJE7hkIsUTVPNxKhrKpTPpllDb7uPYY34budAwFiwuqiMMg0tK3M4Xu8Q0SdjA=s180-rw", group-title="MUNDO", MUNDO + | COLOMBIA
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/03/Teleislas.png", group-title="MUNDO", TELEISLAS | COLOMBIA
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6d2fOjq.png", group-title="MUNDO", SURAM | COLOMBIA
-https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f3c5TIR.png", group-title="MUNDO",CANAL CNC MEDELLIN | COLOMBIA
-http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/100px-Caracol_TV_HD_logo.svg.png", group-title="MUNDO",CARACOL TV | COLOMBIA
-https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hjc7XaY.png", group-title="MUNDO",CNC PASTO | COLOMBIA
-http://66.240.236.25:1936/cncpasto/cncpasto/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png", group-title="MUNDO",TELEPACIFICO | COLOMBIA
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PrOYyU1.png", group-title="MUNDO",ANEXION TV | COSTA RICA
-https://rtmp.info/anexiontv/envivo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY", group-title="MUNDO",ANTENA SEIS TV CANAL 32 | COSTA RICA
-http://inliveserver.com:1935/14510/14510/chunklist_w255137212.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNDjR1edbxFUJ8KSf8dffHp6ch_Xz35Cm9UIlH9PGTyheprfQc", group-title="MUNDO",CANAL 14 SAN CARLOS | COSTA RICA
-http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w853617232.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r5p97Ex.jpg", group-title="MUNDO",TELESUR | COSTA RICA
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ticavisioncr.com/wp-content/uploads/2020/07/LOGO.jpg", group-title="MUNDO", TICAVISION | COSTA RICA
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/do-ame-47-tv-1188-300x225.jpg", group-title="MUNDO",AMÉ 47 | REP. DOMINICANA
-https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hufTLyq.png", group-title="MUNDO",CARIVISION | REP. DOMINICANA
-http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="MUNDO",CINEVISION CANAL 19 HD | REP. DOMINICANA
-https://live.teledom.info:3713/live/cinevisionlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://scontent-mia3-2.xx.fbcdn.net/v/t1.6435-9/87046272_2609485485980324_3812905269118107648_n.png?_nc_cat=109&ccb=1-3&_nc_sid=e3f864&_nc_ohc=ipaP7UrPOzEAX9YNhOZ&_nc_ht=scontent-mia3-2.xx&oh=dddde5d69c588c2a33432db35e762ccc&oe=612E5DE0", group-title="MUNDO",DAN TV | REP. DOMINICANA
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg", group-title="MUNDO",HMTV CANAL 33 | REP. DOMINICANA
-http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png", group-title="MUNDO",ORBIT TV | REP. DOMINICANA
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png", group-title="MUNDO",PH TV | REP. DOMINICANA
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QT78nTj.png", group-title="MUNDO",READY TV | REP. DOMINICANA
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png", group-title="MUNDO",RNN | REPUBLICA DOMINICANA
-https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rv3jShy.jpg", group-title="MUNDO",ROMANA TV CANAL42 | REP. DOMINICANA
-http://tv.romanatv42.com/hls/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png", group-title="MUNDO",TELEFUTURO CANAL 23 | REP. DOMINICANA
-https://ss8.domint.net:3118/tf_str/futu/chunklist_w1341184038.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png", group-title="MUNDO",TELENORD 12 | REP. DOMINICANA 
-http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-1P8ozDYekaw/XbBkLrf0Q4I/AAAAAAAAodQ/5qTLYC9km6YVHW8E1WoELvFneAUm1U7bwCPcBGAYYCw/s200/Teleunion%2B%25281%2529.png", group-title="MUNDO",TELEUNION | REP. DOMINICANA 
-http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Sgckg3.jpg", group-title="MUNDO",TV MONTAÑA CANAL 10 | REP. DOMINICANA
-http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg", group-title="MUNDO",TVS | REP. DOMINICANA
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://vallevision.com.do/wp-content/uploads/2020/09/Vallevision-logo200.png", group-title="MUNDO",VALLEVISION | REP DOMINICANA
-http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-33-sv.png", group-title="MUNDO",CANAL 33 |  EL SALVADOR 
-https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:RTP_Bolivia_Hd.png", group-title="MUNDO",RTP | BOLIVIA
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YdiF5k6.png", group-title="MUNDO",TVU | CHILE 
-http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/972873782972076032/6cacahDX_400x400.jpg", group-title="MUNDO",SERCANO TV | LATINOAMERICA
-http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png", group-title="MUNDO",TEN CANAL 10 | HONDURAS
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/15kcNRb.png", group-title="MUNDO",TVMÁS | MEXICO
-https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png", group-title="MUNDO",UNICANAL | PARAGUAY
-http://45.55.127.106/live/unicanal.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png," group-title="MUNDO",PANAMERICANA TV | PERU
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1322927657143750657/lUzvdLW0_400x400.jpg",group-title="MUNDO", CANAL 11 | NICARAGUA
-https://cootv.cootel.com.ni:443/streams/d/SSLCH11-SD-GZN/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",group-title="MUNDO", CANAL 9 | ARGENTINA
-https://cootv.cootel.com.ni:443/streams/d/SSLCH09-HD-CVS/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gJQjLC4uY64nX5RDj7As24mWj35sC73ukw&usqp=CAU", group-title ="MUNDO", TV MÁS + |  CHILE
-https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://microvision.com.do/wp-content/uploads/2020/07/Logo-Microvision2020.png", group-title="MUNDO",MICROVISION CANAL 10 | REP. DOMINICANA
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300", group-title="MUNDO",  HERALDO CANAL 10 | MEXICO
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://televisiondeleste.com/wp-content/uploads/2020/02/LOGO-DE-ESTE-TV-300x99.png", group-title="MUNDO", TELEVISION DEL ESTE (ESTETV) | REP. DOMINICANA 
-http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xGjchpW.png", group-title="MUNDO",DISTRICT OF COLUMBIA NETWORK | USA
-http://video.oct.dc.gov/out/u/DCN.m3u8
-
-#EXTINF: -1 tvg-logo="https://cdn6.aptoide.com/imgs/b/8/0/b80339aefb6bcda3041767635d13dfaf_icon.png?w=160", group-title="MUNDO", ONE TV | ASIA
-https://edge4.vedge.infomaniak.com/livecast/smil:onefmmd.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/510o-769sbL.png", group-title="MUNDO",NEW ORLEANS TV | USA
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_newsmax-tv-selecciono-xchange-y-media-io-para-sus-operaciones.jpg", group-title="MUNDO",NEWSMAX TV | USA
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://malatidicinema.it/wp-content/uploads/2017/10/cg-entertainment-1024x468.png", group-title="MUNDO", CG ENTERTAINMENT | ITALIA
-https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ce9a3a96e0a17bbc1e2dd075a0c49f35.png", group-title="MUNDO", SOLTV | PERU
-https://rtmp.info/soltv/envivo/chunklist_w1491188662.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.micanal2.tv/wp-content/uploads/2020/06/Logos.jpg", group-title="MUNDO",CANAL DOS (Ciudad de Yopal) | COLOMBIA
-http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="MUNDO",COLOSAL TV | COSTA RICA 
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-  
-   #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQwTwR0bGSfZ9ye-Ouk0xkjkr21uFMJHLsqueb1_Q=s88-c-k-c0x00ffffff-no-rj" group-title="MUNDO", CINCO TV | ARGENTINA
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2pmSiXQcjhg/XbI0Q6gvXQI/AAAAAAAArqY/k_Qak4p83D8p-9bdpIILVGGjBXTTGffKQCK8BGAsYHg/s0/2019-10-24.png", group-title="MUNDO", ZEE MUNDO | INDIA
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://fountaindaleenespanol.files.wordpress.com/2019/08/pongalo_logo_large.jpg" group-title="MUNDO", PONG LO NOVELA CLUB | USA
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://nrtmexico.mx/wp-content/uploads/2019/09/nrt-footer-1.png" group-title="MUNDO",CANAL 4 RCG | MEXICO
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/200px-Logotrececanal.png", group-title="MUNDO",TRECE | PARAGUAY
-http://174.138.118.252/live/trece.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO",CANAL 6 MONTERREY | MEXICO
-http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO",CANAL 6 CDMX | MEXICO
-http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO",CANAL 6 LAGUNA | MEXICO
-http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO",CANAL 6 GUADALAJARA | MEXICO
-http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO",CANAL 6 PUEBLA | MEXICO
-http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO",CANAL 6 BAJÍO | MEXICO
-http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO",CANAL 6 SALTILLO | MEXICO
-http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO",CANAL 6 JUAREZ | MEXICO
-http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c8cr.png" group-title="MUNDO",CANAL 8 |  COSTA RICA 
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="MUNDO",CANAL CATORCE | MEXICO
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="MUNDO",MEXIQUENSE TELEVISIÓN | MEXICO
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-
-
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Jornal | BRASIL
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://listaiptv.gratis/logos/imagens/combrasil.png",TV COM | BRASIL
-https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
-
-
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Serra Dourada | BRASIL
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png",TV CARAVELAS | BRASIL
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
-
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RECORDTV Manaus | BRASIL
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-
-#EXTINF:-1 group-title="MUNDO" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/tv-florida-canal-4.png",TVF TV FLORIDA | URUGUAY
-http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3ob9ss3.jpg" group-title="MUNDO", EL PINGÜINO TV | CHILE
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
-
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png",GALICIA TV | ESPAÑA
-http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png",TVE LA 2 | ESPAÑA
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg",CANAL SUR ANDALUCIA | ESPAÑA
-https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8?dvr
-
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png",ARAGON TV | ESPAÑA
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg",HOLA TV | ESPAÑA
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/245px-Logo_Univision_2019.svg.png", group-title="MUNDO", UNIVISION | USA
-https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
-
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png",TELESUR | COSTA RICA
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png",NUESTRA VISION | MEXICO
-https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
-
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png",LA VOZ TV | ARGENTINA
+#EXTINF:-1 group-title="MUNDO ARGENTINA" tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png",LA VOZ TV | ARGENTINA
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
-#EXTINF:-1 group-title="MUNDO" tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png",CANAL 74 TV | CHILE
-https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+   #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQwTwR0bGSfZ9ye-Ouk0xkjkr21uFMJHLsqueb1_Q=s88-c-k-c0x00ffffff-no-rj" group-title="MUNDO ARGENTINA", CINCO TV | ARGENTINA
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb=20200303190745",TELESISTEMA | REP. DOMINICANA
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+ARUBA
 
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://lh3.googleusercontent.com/toW8xWKbpS-28By8XvguQOg6oG0tun1oXmvmZRnY-TUiHmgsWdHeBNfoZtlbiAbdJTA",TELERED | ARGENTINA
-http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/03/Tele-Aruba-Logo.jpg", group-title="MUNDO ARUBA", TELEARUBA | ARUBA
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w158123675_b596000_sleng.m3u8
 
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png",WOW | EL SALVADOR
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+BOLIVIA
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png", group-title="MUNDO", CHILEVISION |CHILE
-https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w922024847.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/BoliviaTV-logo.jpg", group-title="MUNDO BOLIVIA",BOLIVIA TV | BOLIVIA
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png" group-title="MUNDO",SIZART CANAL 24 | MEXICO
-https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rtp_logo_2021.png/120px-Rtp_logo_2021.png", group-title="MUNDO BOLIVIA",RTP | BOLIVIA
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/diez.png" group-title="MUNDO",DIEZ CHIAPAS | MEXICO
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/600px-Red_pat_new.jpg", group-title="MUNDO BOLIVIA",RED PAT | BOLIVIA
+https://master.tucableip.com/pat/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="MUNDO",C21 CDMX | MEXICO
-https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nueva_imagen_Bolivia_TV.jpg/245px-Nueva_imagen_Bolivia_TV.jpg", group-title="MUNDO BOLIVIA",BOLIVIA 7.2 TV | BOLIVIA
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/imryt.png" group-title="MUNDO",IMRyT | MEXICO
-http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
+BRASIL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="MUNDO",Univision East (WXTV) | USA
-https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wxtv-dt1.m3u8
+#EXTINF:-1 group-title="MUNDO BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Jornal | BRASIL
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KDTV-14_logo.png" group-title="MUNDO",Univision West (KDTV) | USA
-https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
+#EXTINF:-1 group-title="MUNDO BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/combrasil.png",TV COM | BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OE4q3b9.jpg" group-title="MUNDO", ONDA TV CANAL 10 | REPUBLICA DOMINICANA 
-http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
+#EXTINF:-1 group-title="MUNDO BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT - TV Serra Dourada | BRASIL
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="MUNDO",GDM TELEVISION | REPUBLICA DOMINICANA 
-https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1317041912.m3u8
+#EXTINF:-1 group-title="MUNDO BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png",TV CARAVELAS | BRASIL
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://www.m3u.cl/logo/495_Canal_Capital.png", Canal Capital  | COLOMBIA
+#EXTINF:-1 group-title="MUNDO BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RECORD TV Manaus | BRASIL
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+COLOMBIA
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/senal-colombia-logo.png", group-title="MUNDO COLOMBIA", SEÑAL COLOMBIA | COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ukm4FJE7hkIsUTVPNxKhrKpTPpllDb7uPYY34budAwFiwuqiMMg0tK3M4Xu8Q0SdjA=s180-rw", group-title="MUNDO COLOMBIA", MUNDO + | COLOMBIA
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f3c5TIR.png", group-title="MUNDO COLOMBIA",CANAL CNC MEDELLIN | COLOMBIA
+http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/100px-Caracol_TV_HD_logo.svg.png", group-title="MUNDO COLOMBIA",CARACOL TV | COLOMBIA
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hjc7XaY.png", group-title="MUNDO COLOMBIA",CNC PASTO | COLOMBIA
+http://66.240.236.25:1936/cncpasto/cncpasto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png", group-title="MUNDO COLOMBIA",TELEPACIFICO | COLOMBIA
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MUNDO COLOMBIA" tvg-logo="https://www.m3u.cl/logo/495_Canal_Capital.png", CANAL CAPITAL  | COLOMBIA
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://roccotv.cl/wp-content/uploads/2015/02/roccotv.png" group-title="MUNDO", Rocco TV (Coyhaique) | CHILE
+#EXTINF:-1 tvg-logo="https://www.micanal2.tv/wp-content/uploads/2020/06/Logos.jpg", group-title="MUNDO COLOMBIA",CANAL DOS (Ciudad de Yopal) | COLOMBIA
+http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
+
+COSTA RICA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PrOYyU1.png", group-title="MUNDO COSTA RICA",ANEXION TV | COSTA RICA
+https://rtmp.info/anexiontv/envivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZK47lEIo5E4Iy5aIPTpasEj5M7jPIpJi2xQ&usqp=CAU", group-title="MUNDO COSTA RICA",TELEDIARIO | COSTA RICA
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNDjR1edbxFUJ8KSf8dffHp6ch_Xz35Cm9UIlH9PGTyheprfQc", group-title="MUNDO COSTA RICA",CANAL 14 SAN CARLOS | COSTA RICA
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w853617232.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c8cr.png" group-title="MUNDO COSTA RICA",CANAL 8 |  COSTA RICA 
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r5p97Ex.jpg", group-title="MUNDO COSTA RICA",TELESUR | COSTA RICA
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ticavisioncr.com/wp-content/uploads/2020/07/LOGO.jpg", group-title="MUNDO COSTA RICA", TICAVISION | COSTA RICA
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 group-title="MUNDO COSTA RICA" tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png",TELESUR | COSTA RICA
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="MUNDO COSTA RICA",COLOSAL TV | COSTA RICA 
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+CUBA
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CUBAVISION_2017.png/250px-CUBAVISION_2017.png" group-title="MUNDO CUBA",CUBAVISION | CUBA
+http://190.122.96.187:8888/http/010
+
+CHILE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="MUNDO CHILE",ITV PATAGONIA | CHILE
+https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://roccotv.cl/wp-content/uploads/2015/02/roccotv.png" group-title="MUNDO CHILE", ROCCO TV (Coyhaique) | CHILE
 http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDO",AdultIPTV.net Live Cams 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png", group-title="MUNDO CHILE", CHILEVISION |CHILE
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w922024847.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gJQjLC4uY64nX5RDj7As24mWj35sC73ukw&usqp=CAU", group-title ="MUNDO CHILE", TV MÁS + |  CHILE
+https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YdiF5k6.png", group-title="MUNDO CHILE",TVU | CHILE 
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ob9ss3.jpg" group-title="MUNDO CHILE", EL PINGÜINO TV | CHILE
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
+
+#EXTINF:-1 group-title="MUNDO CHILE" tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png",CANAL 74 TV | CHILE
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+
+CHINA
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/250px-CGTN-_Logo.png", group-title="MUNDO CHINA", CGTN | CHINA
+https://livees.cgtn.com/500e/prog_index.m3u8
+
+ECUADOR
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5Xo1RfOOfTI/Xw9zs1j1kSI/AAAAAAAAB0A/9mdv_nm-FHkEB0H15GWyN4OTfGjOewyIgCLcBGAsYHQ/w640-h480/hechosecuador_logoroku.jpg", group-title="MUNDO ECUADOR",  HECHOS ECUADOR | ECUADOR
+http://37.187.7.106/hechostv/live.m3u8
+
+
+EL SALVADOR
+
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-33-sv.png", group-title="MUNDO EL SALVADOR",CANAL 33 |  EL SALVADOR 
+https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MUNDO EL SALVADOR" tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png",WOW | EL SALVADOR
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MUNDO EL SALVADOR" http://sivar.tv/wp-content/uploads/2016/10/Canal-TVM.jpg",TVM | EL SALVADOR
+http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
+
+
+ESPAÑA
+
+#EXTINF:-1 tvg-logo="https://static.plenummedia.com/35737/images/20160824192406-bodegas-la-aurora-en-tve-web.jpg?dh=MzIweDI1MA%3D%3D&m=resize", group-title="MUNDO ESPAÑA", TVE1 | ESPAÑA  
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+
+#EXTINF:-1 group-title="MUNDO ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png",GALICIA TV | ESPAÑA
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="MUNDO ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png",TVE LA 2 | ESPAÑA
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="MUNDO ESPAÑA" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg",CANAL SUR ANDALUCIA | ESPAÑA
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MUNDO ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png",ARAGON TV | ESPAÑA
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 group-title="MUNDO ESPAÑA" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg",HOLA TV | ESPAÑA
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+
+EUROPA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ikVAyjIFBMuH1_tknzbL5zxfU9kQw1YfPw&usqp=CAU" group-title="MUNDO EUROPA",ESTACION TV HD | EUROPA
+http://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8
+
+FRANCIA
+
+#EXTINF:-1  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/1925/brand.gif?itok=1cN-mqCa", group-title="MUNDO FRANCIA", TV5 MONDE | FRANCIA
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
+HONDURAS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png", group-title="MUNDO HONDURAS",TEN CANAL 10 | HONDURAS
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+ITALIA
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png", group-title="MUNDO ITALIA", CANALE 7 | ITALIA
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Radio_Italia_logo_%282020%29.svg/220px-Radio_Italia_logo_%282020%29.svg.png", group-title="MUNDO ITALIA", RADIO ITALIA TV | ITALIA
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Rai_News_-_Logo_2021.svg/200px-Rai_News_-_Logo_2021.svg.png", group-title="MUNDO ITALIA", RAI NEW 24 | ITALIA
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/250px-DMAX_-_Logo_2016.svg.png", group-title="MUNDO ITALIA", DMAX DISCOVERY | ITALIA
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/250px-DMAX_-_Logo_2016.svg.png", group-title="MUNDO ITALIA", REAL TIME DISCOVERY | ITALIA
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+
+
+MEXICO
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png", group-title="MUNDO MEXICO", ESTRELLA TV | MEXICO  
+https://estrellatv-roku.amagi.tv:443/playlistR432p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15kcNRb.png", group-title="MUNDO MEXICO",TVMÁS | MEXICO
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300", group-title="MUNDO MEXICO",  HERALDO CANAL 10 | MEXICO
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://nrtmexico.mx/wp-content/uploads/2019/09/nrt-footer-1.png" group-title="MUNDO MEXICO",CANAL 4 RCG | MEXICO
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO MEXICO",CANAL 6 MONTERREY | MEXICO
+http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO MEXICO",CANAL 6 CDMX | MEXICO
+http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO MEXICO",CANAL 6 LAGUNA | MEXICO
+http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO MEXICO",CANAL 6 GUADALAJARA | MEXICO
+http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO MEXICO",CANAL 6 PUEBLA | MEXICO
+http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO MEXICO",CANAL 6 BAJÍO | MEXICO
+http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO MEXICO",CANAL 6 SALTILLO | MEXICO
+http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" group-title="MUNDO MEXICO",CANAL 6 JUAREZ | MEXICO
+http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="MUNDO MEXICO",CANAL CATORCE | MEXICO
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" group-title="MUNDO MEXICO",MEXIQUENSE TELEVISIÓN | MEXICO
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sizart.png" group-title="MUNDO MEXICO",SIZART CANAL 24 | MEXICO
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/diez.png" group-title="MUNDO MEXICO",DIEZ CHIAPAS | MEXICO
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/capital.png" group-title="MUNDO MEXICO",C21 CDMX | MEXICO
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/imryt.png" group-title="MUNDO MEXICO",IMRyT | MEXICO
+http://162.244.80.175:1935/live/ngrp:tvmorelos_all/playlist.m3u8
+
+#EXTINF:-1 group-title="MUNDO MEXICO" tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png",NUESTRA VISION | MEXICO
+https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
+
+MIAMI
+
+#EXTINF:-1 tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv-300x141.png", group-title="MUNDO MIAMI", MIAMI LIVE JENNY | MIAMI
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/972873782972076032/6cacahDX_400x400.jpg", group-title="MUNDO MIAMI",SERCANO TV | MIAMI
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png/200px-Am%C3%A9rica_Tev%C3%A9_Logo.png", group-title="MUNDO MIAMI",AMERICA TEVE | MIAMI
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-SjHk5gt2MQc/TWDwSqtDENI/AAAAAAAACjA/DYoOlAEqzRk/s1600/tvmarti.jpg, group-title="MUNDO MIAMI", TV MARTI | MIAMI  
+https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+
+
+
+
+NICARAGUA
+
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1322927657143750657/lUzvdLW0_400x400.jpg",group-title="MUNDO NICARAGUA", CANAL 12 NICAVISION | NICARAGUA
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
+
+PANAMA
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/TVMax_2016.png/revision/latest/scale-to-width-down/250?cb=20171029093258&path-prefix=es", group-title="MUNDO PANAMA", TV MAX | PANAMA
+https://bcovlive-a.akamaihd.net:443/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/2_de_panama.png", group-title="MUNDO PANAMA", TVN | PANAMA
+https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8
+
+PARAGUAY
+
+#EXTINF:-1 tvg-logo="https://diarioanticipos.com/wp-content/uploads/2020/04/Gen-TV-Foto-Anticipos.jpg", group-title="MUNDO PARAGUAY", GEN TV | PARAGUAY
+https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="MUNDO PARAGUAY",ABC TV | PARAGUAY
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png", group-title="MUNDO PARAGUAY",UNICANAL | PARAGUAY
+http://45.55.127.106/live/unicanal.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/200px-Logotrececanal.png", group-title="MUNDO PARAGUAY",TRECE | PARAGUAY
+http://174.138.118.252/live/trece.m3u8
+
+PERU
+
+#EXTINF:-1 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg", group-title="MUNDO PERU", BHTV | PERU
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png," group-title="MUNDO PERU",PANAMERICANA TV | PERU
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ce9a3a96e0a17bbc1e2dd075a0c49f35.png", group-title="MUNDO PERU", SOLTV | PERU
+https://rtmp.info/soltv/envivo/chunklist_w1491188662.m3u8
+
+
+
+
+
+PUERTO RICO
+
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/wipr-puerto-rico-tv-en-vivo-886.png", group-title="MUNDO PUERTO RICO", WIRPR TV | PUERTO RICO
+https://stream-wipr.online/hls/wipr/index.m3u8
+
+REPUBLICA DOMINICANA
+
+#EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/do-ame-47-tv-1188-300x225.jpg", group-title="MUNDO REP. DOMINICANA",AMÉ 47 | REP. DOMINICANA
+https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="MUNDO REP. DOMINICANA",CINEVISION CANAL 19 HD | REP. DOMINICANA
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent-mia3-2.xx.fbcdn.net/v/t1.6435-9/87046272_2609485485980324_3812905269118107648_n.png?_nc_cat=109&ccb=1-3&_nc_sid=e3f864&_nc_ohc=ipaP7UrPOzEAX9YNhOZ&_nc_ht=scontent-mia3-2.xx&oh=dddde5d69c588c2a33432db35e762ccc&oe=612E5DE0", group-title="MUNDO REP. DOMINICANA",DAN TV | REP. DOMINICANA
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png", group-title="MUNDO REP. DOMINICANA",ORBIT TV | REP. DOMINICANA
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png", group-title="MUNDO REP. DOMINICANA",PH TV | REP. DOMINICANA
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QT78nTj.png", group-title="MUNDO REP. DOMINICANA",READY TV | REP. DOMINICANA
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png", group-title="MUNDO REP. DOMINICANA",RNN | REPUBLICA DOMINICANA
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rv3jShy.jpg", group-title="MUNDO REP. DOMINICANA",ROMANA TV CANAL42 | REP. DOMINICANA
+http://tv.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png", group-title="MUNDO REP. DOMINICANA",TELENORD 12 | REP. DOMINICANA 
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-1P8ozDYekaw/XbBkLrf0Q4I/AAAAAAAAodQ/5qTLYC9km6YVHW8E1WoELvFneAUm1U7bwCPcBGAYYCw/s200/Teleunion%2B%25281%2529.png", group-title="MUNDO REP. DOMINICANA",TELEUNION | REP. DOMINICANA 
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg", group-title="MUNDO REP. DOMINICANA",TVS | REP. DOMINICANA
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vallevision.com.do/wp-content/uploads/2020/09/Vallevision-logo200.png", group-title="MUNDO REP. DOMINICANA",VALLEVISION | REP. DOMINICANA
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://microvision.com.do/wp-content/uploads/2020/07/Logo-Microvision2020.png", group-title="MUNDO REP. DOMINICANA",MICROVISION CANAL 10 | REP. DOMINICANA
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:-1 tvg-logo="http://televisiondeleste.com/wp-content/uploads/2020/02/LOGO-DE-ESTE-TV-300x99.png", group-title="MUNDO REP. DOMINICANA", TELEVISION DEL ESTE (ESTETV) | REP. DOMINICANA 
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="MUNDO REP. DOMINICANA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb=20200303190745",TELESISTEMA | REP. DOMINICANA
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="MUNDO REP. DOMINICANA",GDM TELEVISION | REP. DOMINICANA 
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1317041912.m3u8
+
+URUGUAY
+
+#EXTINF:-1 group-title="MUNDO URUGUAY" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/tv-florida-canal-4.png",TVF TV FLORIDA | URUGUAY
+http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
+
+USA
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/245px-Logo_Univision_2019.svg.png", group-title="MUNDO USA", UNIVISION | USA
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/08/Fox-29-News-logo-209x300.jpg" group-title="MUNDO USA", FOX 29 | USA
+https://v-pi.theus6tv.tk/hls/29.1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xGjchpW.png", group-title="MUNDO USA",DISTRICT OF COLUMBIA NETWORK | USA
+http://video.oct.dc.gov/out/u/DCN.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/510o-769sbL.png", group-title="MUNDO USA",NEW ORLEANS TV | USA
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_newsmax-tv-selecciono-xchange-y-media-io-para-sus-operaciones.jpg", group-title="MUNDO USA",NEWSMAX TV | USA
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+XXX
+
+#EXTINF:-1 tvg-logo="" group-title="MUNDO USA",LIVE CAMS | XXX
 http://cdn.adultiptv.net/livecams.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDO",AdultIPTV.net MILF 
+#EXTINF:-1 tvg-logo="" group-title="MUNDO USA",MILF | XXX
 http://cdn.adultiptv.net/milf.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDO",AdultIPTV.net Pornstar 
+#EXTINF:-1 tvg-logo="" group-title="MUNDO USA",PORNSTAR | XXX
 http://cdn.adultiptv.net/pornstar.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDO",AdultIPTV.net Teen
+#EXTINF:-1 tvg-logo="" group-title="MUNDO USA", TEEN | XXX
 http://cdn.adultiptv.net/teen.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDO",AdultIPTV.net Threesome 
+#EXTINF:-1 tvg-logo="" group-title="MUNDO USA", THREESOME | XXX
 http://cdn.adultiptv.net/threesome.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDO",AdultIPTV.net Woman 
+#EXTINF:-1 tvg-logo="" group-title="MUNDO USA", WOMAN | XXX
 http://live.redtraffic.net/woman.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUNDO",Extasy HD / Leo TV HD
+#EXTINF:-1 tvg-logo="" group-title="MUNDO USA",EXTASY HD / LEO TV  | XXX
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="MUNDO",Fashion TV Midnite Secrets 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="MUNDO USA", FASHION TV MIDNITE SECRETS  | XXX
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="MUNDO",Filmon Erotic Sensations
-https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg" group-title="MUNDO",Filmon Fetish Factory
-https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="MUNDO", Rouge TV 
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-
-
-
-
-
-__________________________________________________________________________________________________________________________________________
-
-
-
-
-
-REGIO PREMIUM 1
-
-#EXTINF:-1  tvg-id="MUNDO", Univision
-https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
-
-
-
-
-
-
-
-will diario
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg", group-title="MUNDO", 001 RCN Diario 
 
