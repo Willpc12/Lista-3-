@@ -15,6 +15,8 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&clientModelNumber=na&deviceDNT=false&deviceId=a35c2717-76e6-4d9e-a2d4-f94bc302d1bd&deviceLat=10.1790&deviceLon=-67.9991&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=53511adf-b27e-11eb-b1e6-0242ac110002&sid=53511adf-b27e-11eb-b1e6-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IQydvxrikB0/XCOLoeHU7_I/AAAAAAAAB68/LPA7oLHMMP03akltGnZnBh5x78g_jVy9wCLcBGAs/s200/Canal-4-posadas.jpg", group-title="MUNDO ARGENTINA", CANAL 4.| ARGENTINA
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="7NN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/7NN_TV.svg/512px-7NN_TV.svg.png"  , group-title="TODOS EN ESPAÑOL" group-title="News",7 Noticias (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/7nntv
 
 
 
@@ -75,7 +77,7 @@ https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png", group-title="SEBASTIAN", BABY SHARK TV | PLUTOTV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+ 
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/a3IuY28uc21hcnRzdHVkeS5waW5rZm9uZ3R2X2FuZHJvaWRfZ29vZ2xlbWFya2V0X2ljb25fMTYxNzc5MjM1MV8wODY/icon.png?w=170&fakeurl=1", group-title="SEBASTIAN", BABY SHARK TV | MEXICO
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8
@@ -962,6 +964,9 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 group-title="MUNDO ESPAÑA" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg",HOLA TV | ESPAÑA
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
+#EXTINF:-1 group-title="MUNDO ESPAÑA" tvg-logo="https://megatelevisionhd.com/en-vivo/dkiss/",DISCOVERY DISCOVERY KISS | ESPAÑA
+http://154.62.74.12:1935/live/smil:kiss/.m3u8
+
 EUROPA
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ikVAyjIFBMuH1_tknzbL5zxfU9kQw1YfPw&usqp=CAU" group-title="MUNDO EUROPA",ESTACION TV HD | EUROPA
@@ -1264,11 +1269,9 @@ http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="MUNDO USA", FASHION TV MIDNITE SECRETS  | XXX
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
+   MUNDO TODOS
 
-TODOS LOS CANALES
 
-#EXTINF:-1 tvg-id="7NN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/7NN_TV.svg/512px-7NN_TV.svg.png" group-title="News",7 Noticias (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/7nntv
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/512px-7TVRM.svg.png" group-title="Undefined",7 Televisión Región de Murcia (1080p)
 https://rtv-murcia-live.globalmest.com/stream/abr/first.m3u8
 #EXTINF:-1 tvg-id="9laLomaTV.es" tvg-logo="https://i.imgur.com/fpUaXqe.png" group-title="Undefined",9 la Loma TV [Geo-blocked]
@@ -3331,4 +3334,5 @@ https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 tvg-id="ZuldemaydaCanal13.co" tvg-logo="https://i.imgur.com/lR4DrKS.png" group-title="Undefined",Zuldemayda Canal 13 (Armenia | Quindio)
 https://movil.ejeserver.com/live/zuldemayda.m3u8
+
 
