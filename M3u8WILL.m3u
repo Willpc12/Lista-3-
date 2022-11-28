@@ -2097,7 +2097,7 @@ https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv
 https://plataformavideo.com:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-id="IB3.es" tvg-logo="https://i.imgur.com/FejMmmF.png" group-title="TODOS EN ESPAÑOL",IB3 Global (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live
-#EXTINF:-1 tvg-id="IbizaGlobalTV.es" tvg-logo="https://i.imgur.com/OY8UwDi.png" group-title="v",Ibiza Global TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="IbizaGlobalTV.es" tvg-logo="https://i.imgur.com/OY8UwDi.png" group-title="TODOS EN ESPAÑOL",Ibiza Global TV (720p) [Not 24/7]
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="TODOS EN ESPAÑOL",Identidad TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
