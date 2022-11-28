@@ -1773,7 +1773,7 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://i.imgur.com/GAsSUqn.png" group-title="TODOS EN ESPAÑOL",ChileVisión (720p) [Geo-blocked]
 http://chv-m3u.chorroaeboy.repl.co
-#EXTINF:-1 tvg-id="CityTVChannel341.us" tvg-logo="https://i.imgur.com/ICsGoAm.png" group-title="v",Chino Hills City TV Channel 3/41 (360p)
+#EXTINF:-1 tvg-id="CityTVChannel341.us" tvg-logo="https://i.imgur.com/ICsGoAm.png" group-title="TODOS EN ESPAÑOL",Chino Hills City TV Channel 3/41 (360p)
 https://edge-f.swagit.com/live/chinohillsca/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="CholusatSur36.hn" tvg-logo="https://i.imgur.com/qRHwhND.png" group-title="TODOS EN ESPAÑOL",Cholusat Sur 36 (214p) [Not 24/7]
 http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
@@ -2121,7 +2121,7 @@ https://interalmeria.tv/directo/live.m3u8
 http://78.41.83.88:8880/hls/tvixa.m3u8
 #EXTINF:-1 tvg-id="Islatel.es" tvg-logo="https://i.imgur.com/zpR5h3D.png" group-title="TODOS EN ESPAÑOL",Islatel (404p) [Not 24/7]
 https://zone.controlstreams.com:5443/LiveApp/streams/islatel.m3u8
-#EXTINF:-1 tvg-id="Italianissimo.ve" tvg-logo="https://i.imgur.com/1FenAo5.png" group-title="v",Italianissimo (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="Italianissimo.ve" tvg-logo="https://i.imgur.com/1FenAo5.png" group-title="TODOS EN ESPAÑOL",Italianissimo (360p) [Not 24/7]
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 #EXTINF:-1 tvg-id="ITVPatagonia.cl" tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="TODOS EN ESPAÑOL",ITV Patagonia (720p) [Not 24/7]
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
@@ -2221,7 +2221,7 @@ https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LTOTelevision.ar" tvg-logo="https://1.bp.blogspot.com/-7WMCAEPB0pc/YUODp6R9UhI/AAAAAAAAANI/BYubtojWstcxkoMyYvFcb1aogrQ-poEswCLcBGAsYHQ/s150/My%2BPost%2B%252855%2529.png" group-title="TODOS EN ESPAÑOL",LTO Televisión [Not 24/7]
 https://ltocatamarca.github.io/ltotv.m3u8
-#EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://i.imgur.com/dprA1P7.png" group-title="v",LTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="LTV.hn" tvg-logo="https://i.imgur.com/dprA1P7.png" group-title="TODOS EN ESPAÑOL",LTV (720p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="LunaTVCanal53.do" tvg-logo="https://i.imgur.com/hjZ3b9u.png" group-title="TODOS EN ESPAÑOL",Luna TV Canal 53
 https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
@@ -2299,7 +2299,7 @@ http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 #EXTINF:-1 tvg-id="Mirador.ar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mirador-ar.png" group-title="TODOS EN ESPAÑOL",Mirador
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
-#EXTINF:-1 tvg-id="MirameTV.es" tvg-logo="https://i.imgur.com/VuSQlBB.png" group-title="v",Mírame TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="MirameTV.es" tvg-logo="https://i.imgur.com/VuSQlBB.png" group-title="TODOS EN ESPAÑOL",Mírame TV (360p) [Not 24/7]
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1 tvg-id="MisionesCuatro.ar" tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="TODOS EN ESPAÑOL",Misiones Cuatro (480p)
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
@@ -2367,7 +2367,7 @@ http://209.91.213.10:8088/play/a01o
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal12.ni" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Canal_12_Nicaragua_logo.webp/512px-Canal_12_Nicaragua_logo.webp.png" group-title="TODOS EN ESPAÑOL",Nicavisión Canal 12 (720p) [Not 24/7]
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
-#EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-logo="https://i.imgur.com/UlOap5t.png" group-title="v",NicoyaTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-logo="https://i.imgur.com/UlOap5t.png" group-title="TODOS EN ESPAÑOL",NicoyaTV (720p) [Not 24/7]
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="NitidaTV.do" tvg-logo="https://nitidafm.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-29-at-11.27.31-AM-300x273.jpeg" group-title="TODOS EN ESPAÑOL",Nítida TV
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
@@ -2648,7 +2648,7 @@ https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="QuattroTV.pe" tvg-logo="https://pbs.twimg.com/profile_images/572791252093919232/DKxHh5Oj_200x200.png" group-title="TODOS EN ESPAÑOL",Quattro TV (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/quatrotvgo
-#EXTINF:-1 tvg-id="QuieroTV.mx" tvg-logo="https://i.imgur.com/k0XbBp8.png" group-title="Undefined",Quiero TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="QuieroTV.mx" tvg-logo="https://i.imgur.com/k0XbBp8.png" group-title="TODOS EN ESPAÑOL",Quiero TV (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8452uw
 #EXTINF:-1 tvg-id="Quillavision.pe" tvg-logo="https://i.imgur.com/ngNSzHe.png" group-title="TODOS EN ESPAÑOL",Quillavision (Cuzco) (720p) [Not 24/7]
 http://v4.tustreaming.cl/quillavision/index.m3u8
@@ -2961,7 +2961,7 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
 #EXTINF:-1 tvg-id="Telesistema.cr" tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png" group-title="TODOS EN ESPAÑOL",Telesistema (486p)
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesol.ar" tvg-logo="https://i.imgur.com/16itqGz.png" group-title="Undefined",Telesol (TLS) (432p) [Not 24/7]
+#EXTINF:-1 tvg-id="Telesol.ar" tvg-logo="https://i.imgur.com/16itqGz.png" group-title="TODOS EN ESPAÑOL",Telesol (TLS) (432p) [Not 24/7]
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png" group-title="TODOS EN ESPAÑOL",teleSUR (1080p)
 https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
@@ -3127,7 +3127,7 @@ https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
 https://panel.dattalive.com/8106/8106/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNorteChiclayo.pe" tvg-logo="https://i.imgur.com/Wo3HEyl.png" group-title="TODOS EN ESPAÑOL",TV Norte (Chiclayo) (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
-#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (768p)
+#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="TODOS EN ESPAÑOL",TV Noticias 7.3 (768p)
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-logo="https://i.imgur.com/mg69hxH.png" group-title="TODOS EN ESPAÑOL",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
