@@ -2137,7 +2137,7 @@ http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8
 https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 tvg-id="KBEV.us" tvg-logo="https://i.imgur.com/pHXSXAe.png" group-title="TODOS EN ESPAÑOL",KBEV Spectrum Channel 6 [Beverly Hills] (1080p)
 https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
-#EXTINF:-1 tvg-id="KerussoTV.hn" tvg-logo="https://i.imgur.com/rrHwnop.png" group-title="v",Kerusso TV (720p)
+#EXTINF:-1 tvg-id="KerussoTV.hn" tvg-logo="https://i.imgur.com/rrHwnop.png" group-title="TODOS EN ESPAÑOL",Kerusso TV (720p)
 https://emisoras.hn:8081/kerussotv/index.m3u8
 #EXTINF:-1 tvg-id="KSCEDT2.us" tvg-logo="https://i.imgur.com/970zAEn.png" group-title="TODOS EN ESPAÑOL",KSCE Vida Cristiana (360p)
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
@@ -2389,7 +2389,7 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/play
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 #EXTINF:-1 tvg-id="Nublevision.cl" tvg-logo="https://i.imgur.com/nkQyR1X.png" group-title="TODOS EN ESPAÑOL",Ñublevisión (Chillán) (720p)
 https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="v",Nuevo Tiempo (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="TODOS EN ESPAÑOL",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OasisRTV.pe" tvg-logo="https://i.imgur.com/gDMHbfs.png" group-title="TODOS EN ESPAÑOL",Oasis RTV (Trujillo) (720p) [Not 24/7]
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
@@ -2584,7 +2584,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f20007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aa82c150b2500077733d7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVPlanetaJuniorTV.us" tvg-logo="https://images.pluto.tv/channels/609501978c069d00074e0dd2/colorLogoPNG.png" group-title="TODOS EN ESPAÑOL",Pluto TV Planeta Junior TV (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVQwestTVJazzBeyond.us" tvg-logo="https://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png" group-title="Sports",Pluto TV Qwest TV Jazz & Beyond (720p)
+#EXTINF:-1 tvg-id="PlutoTVQwestTVJazzBeyond.us" tvg-logo="https://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png" group-title="TODOS EN ESPAÑOL",Pluto TV Qwest TV Jazz & Beyond (720p)
 https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRealitiesESP.us" tvg-logo="https://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="TODOS EN ESPAÑOL",Pluto TV Realities ESP (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b4d71754e6a4298d086e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=953&terminate=false&userId=
